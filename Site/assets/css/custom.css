@@ -1,0 +1,14 @@
+/* ------------------------------------------------------------------
+Project: Semantic
+Place here your custom CSS styles
+------------------------------------------------------------------ */
+
+.yellow {color:#FBBA00;}
+
+#home .caption-content {text-align: left;}
+#home .caption-content .font-alt {text-transform: none !important;}
+
+.btn.btn-y {
+	background: #FBBA00;
+	color: black;
+}
