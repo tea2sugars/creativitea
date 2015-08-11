@@ -488,7 +488,7 @@ a:hover, a:focus {
 
 h1, h2, h3, h4, h5, h6 {
 	line-height: 1.4;
-	font-weight: 500;
+	font-weight: 400;
 	font-family: "Gotham A", "Gotham B";
 	font-style: normal;
 	font-weight: 700;
@@ -538,16 +538,14 @@ blockquote {
 	text-shadow: none !important;
 }
 
-.columns {
+p.columns {
 	-moz-column-count: 3;
-	-moz-column-gap: 20px;
+	-moz-column-gap: 10px;
 	-webkit-column-count: 3;
-	-webkit-column-gap: 20px;
+	-webkit-column-gap: 10px;
 	column-count: 3;
-	column-gap: 20px;
-	text-align: justify;
+	column-gap: 10px;
 }
-
 
 /* ------------------------------------------------------------------
 Navbar
@@ -585,9 +583,9 @@ Navbar
 
 .navbar-custom .navbar-brand {
 	font-family: "Gotham A", "Gotham B";
-	letter-spacing: 0.07em;
-	font-weight: 500;
-	font-size: 24px;
+	letter-spacing: 0.1em;
+	font-weight: 700;
+	font-size: 20px;
 	color: #000;
 }
 
@@ -686,7 +684,7 @@ Home Section
 }
 
 .hs-title-size-2 {
-	letter-spacing: 0.1em;
+	letter-spacing: 0.2em;
 	font-size: 18px;
 }
 
@@ -696,7 +694,7 @@ Home Section
 }
 
 .hs-title-size-4 {
-	letter-spacing: 0.1em;
+	letter-spacing: 0.2em;
 	font-size: 36px;
 }
 
@@ -1545,6 +1543,8 @@ Responsive Media Querries
 	}
 
 }
+
+
 
 @media only screen and (max-width: 480px) {
 
