@@ -12,3 +12,25 @@ Place here your custom CSS styles
 	background: #FBBA00;
 	color: black;
 }
+
+.dark-section {
+	background: rgba(0,0,0,0.9);
+	color: white;
+}
+
+.dark-section p, .dark-section h2, .dark-section-80 p, .dark-section-80 h2, .dark-section-80 blockquote {
+	color: white;
+}
+
+.dark-section-80 {
+	background: rgba(0,0,0,0.80);
+	color: white;
+}
+
+.dark-section-10 {
+	background: rgba(0,0,0,0.10);
+}
+
+.dark-section-5 {
+	background: rgba(0,0,0,0.05);
+}
