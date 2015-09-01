@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	
-	<title>The Creative Team | Creativitea Limited | London, Guildford, Suffolk</title>
+	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
 	
 	<!-- Bootstrap core CSS -->
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -25,12 +25,6 @@
 	<!-- Custom css -->
 	<link href="assets/css/custom.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6440332/629266/css/fonts.css" />
-	
-	<!--Share widget-->
-	<script type="text/javascript">var switchTo5x=true;</script>
-	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-	<script type="text/javascript">stLight.options({publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-	
 </head>
 <body>
 <!-- PRELOADER -->
@@ -39,110 +33,377 @@
 	</div>
 	<!-- /PRELOADER -->
 
-	<!-- NAVIGATION -->
-	<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+	<?php include('assets/php/includes/nav-transparent.html');?>
 
-			<div class="container">
-		
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="index.html">Creativitea&trade;</a>
-				</div>
-		
-				<div class="collapse navbar-collapse" id="custom-collapse">
-		
-					<ul class="nav navbar-nav navbar-right">
-		
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
-							<ul class="dropdown-menu">
-								<li><a href="index.html">Our Story</a></li>
-								<li><a href="index-2.html">The Team</a></li>
-								<li><a href="index-3.html">Creative Process</a></li>
-								<li><a href="about.html">Our Wonderful Clients</a></li>
-								<li><a href="press.html">Press & Awards</a></li>
-								<li><a href="index-5.html">The Design Business Association</a></li>
-								<li><a href="index-6.html">Recruitment</a></li>
-							</ul>
-						</li>
-						
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
-							<ul class="dropdown-menu">
-								<li><a href="index.html">Branding & Visual Identity Design</a></li>
-								<li><a href="index-2.html">Digital & Web Design</a></li>
-								<li><a href="index-3.html">Print Design</a></li>
-								<li><a href="index-4.html">Video Production & Animation</a></li>
-								<li><a href="index-5.html">Other Services</a></li>
-							</ul>
-						</li>
-						
-						<li><a href="portfolio.html">Portfolio</a></li>
-						
-						<li><a href="blog.html">Blog</a></li>
-						
-						<li><a href="about.html">Shop</a></li>
-						
-						<li><a href="contact.html">Contact Us</a></li>
-		
-					</ul>
-					
-				</div>
-		
-			</div>
-
-	</nav>
-	<!-- /NAVIGATION -->
 
 	<!-- WRAPPER -->
 	<div class="wrapper">
 
-		
-
-		<!-- BLOG SINGLE -->
-		<section class="module">
+		<!-- HOME -->
+		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/section-5.jpg">
 
 			<div class="container">
 
+				<!-- MODULE TITLE -->
 				<div class="row">
 
-					<div class="col-sm-8 col-sm-offset-2">
-						<h1>Our Creative Team</h1>
-						<!-- POST -->
-						<div class="post">
+					<div class="col-sm-6 col-sm-offset-3">
 
-							<article class="post-entry">
+						<h1 class="module-title font-alt align-center">About</h1>
 
-								<p class="lead">We're a team of best mates, business associates and trusted individuals that are independently working towards creating great work and experiences for our clients.</p>
-
-<p>So why have a brand mascot? Mascots have been shown to act as brand spokespersons, with as many, if not more, followers across their social media pages than the brands they represent. They can help to build relationships with customers, without having them feel like they’re being sold to. It’s this relationship that can prove vital to your business. Mascots also have another thing going for them; they never age, they never go off brand, and they never ask for a pay rise!</p>
-							</article>
-							
+						<div class="module-subtitle font-inc align-center">
+							A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.
 						</div>
-						<!-- /POST -->
 
 					</div>
 
 				</div>
+				<!-- /MODULE TITLE -->
 
 			</div>
-			
+
+		</section >
+		<!-- /HOME -->
+
+		<!-- ABOUT -->
+		<section class="module">
+
+			<div class="container">
+
+				<!-- MODULE TITLE -->
+				<div class="row">
+
+					<div class="col-sm-6">
+
+						<h2 class="module-title font-alt">Info</h2>
+
+						<div class="module-subtitle font-inc">
+							A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.
+						</div>
+
+					</div>
+
+				</div>
+				<!-- /MODULE TITLE -->
+
+				<div class="row">
+
+					<!-- ABOUT CONTENT -->
+					<div class="col-sm-6">
+
+						<p>The languages only differ in their grammar, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators.</p>
+
+						<p>To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words. If several languages coalesce, the grammar of the resulting language is more simple and regular than that of the individual languages.</p>
+
+						<ul class="social-list">
+							<li><a href="#"><span class="icon-facebook"></span></a></li>
+							<li><a href="#"><span class="icon-twitter"></span></a></li>
+							<li><a href="#"><span class="icon-googleplus"></span></a></li>
+						</ul>
+
+					</div>
+					<!-- /ABOUT CONTENT -->
+
+					<!-- SKILLS -->
+					<div class="col-sm-6">
+
+						<h5 class="progress-title font-inc">Development</h5>
+						<div class="progress">
+							<div class="progress-bar pb-dark" aria-valuenow="60" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+								<span class="font-inc"></span>
+							</div>
+						</div>
+
+						<h5 class="progress-title font-inc">Branding</h5>
+						<div class="progress">
+							<div class="progress-bar pb-dark" aria-valuenow="80" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+								<span class="font-inc"></span>
+							</div>
+						</div>
+
+						<h5 class="progress-title font-inc">Marketing</h5>
+						<div class="progress">
+							<div class="progress-bar pb-dark" aria-valuenow="50" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+								<span class="font-inc"></span>
+							</div>
+						</div>
+
+						<h5 class="progress-title font-inc">Photography</h5>
+						<div class="progress">
+							<div class="progress-bar pb-dark" aria-valuenow="90" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+								<span class="font-inc"></span>
+							</div>
+						</div>
+
+					</div>
+					<!-- /SKILLS -->
+
+				</div>
+
+			</div>
+
+		</section >
+		<!-- /ABOUT -->
+
+		<!-- DIVIDER -->
+		<hr class="divider-w">
+		<!-- /DIVIDER -->
+
+		<!-- SERVICES -->
+		<section class="module">
+
+			<div class="container">
+
+				<!-- MODULE TITLE -->
+				<div class="row">
+
+					<div class="col-sm-6 col-sm-offset-3">
+
+						<h2 class="module-title align-center font-alt">Services</h2>
+
+						<div class="module-subtitle align-center font-inc">
+							A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.
+						</div>
+
+					</div>
+
+				</div>
+				<!-- /MODULE TITLE -->
+
+				<div class="row multi-columns-row">
+
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3 col-lg-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-camera"></span>
+							</div>
+							<div class="content-box-title font-inc font-uppercase">
+								Photography
+							</div>
+							<div class="content-box-text">
+								Everyone realizes why a common language would be desirable: one could refuse to pay expensive translators.
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3 col-lg-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-video"></span>
+							</div>
+							<div class="content-box-title font-inc font-uppercase">
+								Video
+							</div>
+							<div class="content-box-text">
+								Everyone realizes why a common language would be desirable: one could refuse to pay expensive translators.
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3 col-lg-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-tools"></span>
+							</div>
+							<div class="content-box-title font-inc font-uppercase">
+								Design
+							</div>
+							<div class="content-box-text">
+								Everyone realizes why a common language would be desirable: one could refuse to pay expensive translators.
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3 col-lg-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-lock"></span>
+							</div>
+							<div class="content-box-title font-inc font-uppercase">
+								Security
+							</div>
+							<div class="content-box-text">
+								Everyone realizes why a common language would be desirable: one could refuse to pay expensive translators.
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3 col-lg-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-presentation"></span>
+							</div>
+							<div class="content-box-title font-inc font-uppercase">
+								Marketing
+							</div>
+							<div class="content-box-text">
+								Everyone realizes why a common language would be desirable: one could refuse to pay expensive translators.
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3 col-lg-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-puzzle"></span>
+							</div>
+							<div class="content-box-title font-inc font-uppercase">
+								Programming
+							</div>
+							<div class="content-box-text">
+								Everyone realizes why a common language would be desirable: one could refuse to pay expensive translators.
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3 col-lg-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-magnifying-glass"></span>
+							</div>
+							<div class="content-box-title font-inc font-uppercase">
+								SEO
+							</div>
+							<div class="content-box-text">
+								Everyone realizes why a common language would be desirable: one could refuse to pay expensive translators.
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3 col-lg-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-gears"></span>
+							</div>
+							<div class="content-box-title font-inc font-uppercase">
+								Support
+							</div>
+							<div class="content-box-text">
+								Everyone realizes why a common language would be desirable: one could refuse to pay expensive translators.
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+
+				</div>
+
+			</div>
+
+		</section>
+		<!-- /SERVICES -->
+
+		<!-- COUNTERS -->
+		<section class="module-small bg-dark bg-dark-50" data-background="assets/images/section-7.jpg">
+
 			<div class="container">
 
 				<div class="row">
 
+					<!-- COUNTER -->
+					<div class="col-sm-3 m-b-md-20">
+						<div class="counter-item">
+							<div class="counter-number font-alt" data-number="680">
+								<span></span>
+							</div>
+							<div class="counter-title font-inc">
+								Cups of coffee
+							</div>
+						</div>
+					</div>
+					<!-- /COUNTER -->
+
+					<!-- COUNTER -->
+					<div class="col-sm-3 m-b-md-20">
+						<div class="counter-item">
+							<div class="counter-number font-alt" data-number="1234">
+								<span></span>
+							</div>
+							<div class="counter-title font-inc">
+								Total clients
+							</div>
+						</div>
+					</div>
+					<!-- /COUNTER -->
+
+					<!-- COUNTER -->
+					<div class="col-sm-3 m-b-md-20">
+						<div class="counter-item">
+							<div class="counter-number font-alt" data-number="68">
+								<span></span>k
+							</div>
+							<div class="counter-title font-inc">
+								Photos made
+							</div>
+						</div>
+					</div>
+					<!-- /COUNTER -->
+
+					<!-- COUNTER -->
+					<div class="col-sm-3 m-b-md-20">
+						<div class="counter-item">
+							<div class="counter-number font-alt" data-number="98">
+								<span></span>%
+							</div>
+							<div class="counter-title font-inc">
+								Happy clients
+							</div>
+						</div>
+					</div>
+					<!-- /COUNTER -->
+
+				</div>
+
+			</div>
+
+		</section>
+		<!-- /COUNTERS -->
+
+		<!-- TEAM -->
+		<section class="module">
+
+			<div class="container">
+
+				<!-- MODULE TITLE -->
+				<div class="row">
+
+					<div class="col-sm-6 col-sm-offset-3">
+
+						<h2 class="module-title align-center font-alt">Our Team</h2>
+
+						<div class="module-subtitle align-center font-inc">
+							A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.
+						</div>
+
+					</div>
+
+				</div>
+				<!-- /MODULE TITLE -->
+
+				<div class="row">
+
 					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
+					<div class="col-sm-6 col-md-3 m-b-md-20">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="assets/images/team/rik.png" alt="Rik Barwick">
+								<img src="assets/images/team-1.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Patagonia </h5>
+									<h5 class="font-inc">Hi all</h5>
+									<p>The languages only differ in their grammar, their pronunciation and their most common words.</p>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -150,21 +411,22 @@
 									</ul>
 								</div>
 							</div>
-							<div class="team-descr">
-								<div class="team-name">Rik Barwick</div>
-								<div class="team-role">Head of Digital / Founder</div>
+							<div class="team-descr font-inc">
+								<div class="team-name">Martin Friman</div>
+								<div class="team-role">Programmer</div>
 							</div>
 						</div>
 					</div>
 					<!-- /TEAM MEMBER -->
 
 					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
+					<div class="col-sm-6 col-md-3 m-b-md-20">
 						<div class="team-item">
 							<div class="team-image">
 								<img src="assets/images/team-2.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Carhartt</h5>
+									<h5 class="font-inc">Hi all</h5>
+									<p>The languages only differ in their grammar, their pronunciation and their most common words.</p>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -172,21 +434,22 @@
 									</ul>
 								</div>
 							</div>
-							<div class="team-descr">
-								<div class="team-name">Lloyd Bedford</div>
-								<div class="team-role">Creative Director / Founder</div>
+							<div class="team-descr font-inc">
+								<div class="team-name">Adele Snow</div>
+								<div class="team-role">Designer</div>
 							</div>
 						</div>
 					</div>
 					<!-- /TEAM MEMBER -->
 
 					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
+					<div class="col-sm-6 col-md-3 m-b-md-20">
 						<div class="team-item">
 							<div class="team-image">
 								<img src="assets/images/team-3.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Lucasarts</h5>
+									<h5 class="font-inc">Hi all</h5>
+									<p>The languages only differ in their grammar, their pronunciation and their most common words.</p>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -194,21 +457,22 @@
 									</ul>
 								</div>
 							</div>
-							<div class="team-descr">
-								<div class="team-name">Roberto Acuna</div>
-								<div class="team-role">Designer / Illustrator</div>
+							<div class="team-descr font-inc">
+								<div class="team-name">Ann Smith</div>
+								<div class="team-role">Art Director</div>
 							</div>
 						</div>
 					</div>
 					<!-- /TEAM MEMBER -->
 
 					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
+					<div class="col-sm-6 col-md-3 m-b-md-20">
 						<div class="team-item">
 							<div class="team-image">
 								<img src="assets/images/team-4.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Johnny Walker</h5>
+									<h5 class="font-inc">Hi all</h5>
+									<p>The languages only differ in their grammar, their pronunciation and their most common words.</p>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -216,183 +480,9 @@
 									</ul>
 								</div>
 							</div>
-							<div class="team-descr">
-								<div class="team-name">Michelle Forsythe</div>
-								<div class="team-role">Finance Controller</div>
-							</div>
-						</div>
-					</div>
-					<!-- /TEAM MEMBER -->
-					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="assets/images/team-4.jpg" alt="">
-								<div class="team-detail">
-									<h5>Favorite Brand<br/>White Stuff</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="team-descr">
-								<div class="team-name">Deborah Barwick</div>
-								<div class="team-role">Studio Admin</div>
-							</div>
-						</div>
-					</div>
-					<!-- /TEAM MEMBER -->
-					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="assets/images/team-4.jpg" alt="">
-								<div class="team-detail">
-									<h5>Favorite Brand<br/>Adnams</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="team-descr">
-								<div class="team-name">Daniel Duke</div>
-								<div class="team-role">Senior Developer*</div>
-							</div>
-						</div>
-					</div>
-					<!-- /TEAM MEMBER -->
-					
-					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="assets/images/team-4.jpg" alt="">
-								<div class="team-detail">
-									<h5>Favorite Brand<br/>Gents Pack</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="team-descr">
-								<div class="team-name">James T Fletcher</div>
-								<div class="team-role">Social Marketing*</div>
-							</div>
-						</div>
-					</div>
-					<!-- /TEAM MEMBER -->
-					
-					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="assets/images/team-4.jpg" alt="">
-								<div class="team-detail">
-									<h5>Favorite Brand<br/>Oxford's</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="team-descr">
-								<div class="team-name">Tim Mills</div>
-								<div class="team-role">Copywriter*</div>
-							</div>
-						</div>
-					</div>
-					<!-- /TEAM MEMBER -->
-					
-					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="assets/images/team-4.jpg" alt="">
-								<div class="team-detail">
-									<h5>Favorite Brand<br/>Pantone</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="team-descr">
-								<div class="team-name">Dean Phillips</div>
-								<div class="team-role">Print Manager</div>
-							</div>
-						</div>
-					</div>
-					<!-- /TEAM MEMBER -->
-					
-					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="assets/images/team-4.jpg" alt="">
-								<div class="team-detail">
-									<h5>Favorite Brand<br/>Canon</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="team-descr">
-								<div class="team-name">Adam Zygadlo</div>
-								<div class="team-role">Motion Designer*</div>
-							</div>
-						</div>
-					</div>
-					<!-- /TEAM MEMBER -->
-					
-					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="assets/images/team-4.jpg" alt="">
-								<div class="team-detail">
-									<h5>Favorite Brand<br/>EA Games</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="team-descr">
-								<div class="team-name">Hannah Doust</div>
-								<div class="team-role">PPC Consultant</div>
-							</div>
-						</div>
-					</div>
-					<!-- /TEAM MEMBER -->
-					
-					<!-- TEAM MEMBER -->
-					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="assets/images/team-4.jpg" alt="">
-								<div class="team-detail">
-									<h5>Favorite Brand<br/>Google</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="team-descr">
-								<div class="team-name">Luke Rowlands</div>
-								<div class="team-role">SEO Manager*</div>
+							<div class="team-descr font-inc">
+								<div class="team-name">Andy River</div>
+								<div class="team-role">Account manager</div>
 							</div>
 						</div>
 					</div>
@@ -403,8 +493,8 @@
 			</div>
 
 		</section>
-		<!-- /BLOG SINGLE -->
-		
+		<!-- /TEAM -->
+
 		<!-- DIVIDER -->
 		<hr class="divider-w">
 		<!-- /DIVIDER -->

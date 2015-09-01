@@ -25,201 +25,298 @@
 	<!-- Custom css -->
 	<link href="assets/css/custom.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6440332/629266/css/fonts.css" />
-	
-	<!--Share widget-->
-	<script type="text/javascript">var switchTo5x=true;</script>
-	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-	<script type="text/javascript">stLight.options({publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-	
 </head>
 <body>
-<!-- PRELOADER -->
+
+	<!-- PRELOADER -->
 	<div class="page-loader">
 		<div class="loader">Brewing...</div>
 	</div>
 	<!-- /PRELOADER -->
 
-	<!-- NAVIGATION -->
-	<nav class="navbar navbar-custom navbar-transparent navbar-fixed-top" role="navigation">
+	<?php include('assets/php/includes/nav-transparent.html');?>
 
-			<div class="container">
-		
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="index.html">Creativitea&trade;</a>
+	<!-- HOME -->
+	<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-30" data-background="assets/images/header-1.jpg">
+
+		<div class="hs-caption container">
+			<div class="caption-content">
+				<div class="col-sm-8 col-sm-offset-2">
+					<div class="hs-title-size-4 yellow">
+						<strong>Hello</strong>
+					</div>
 				</div>
-		
-				<div class="collapse navbar-collapse" id="custom-collapse">
-		
-					<ul class="nav navbar-nav navbar-right">
-		
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
-							<ul class="dropdown-menu">
-								<li><a href="index.html">Our Story</a></li>
-								<li><a href="index-2.html">The Team</a></li>
-								<li><a href="index-3.html">Creative Process</a></li>
-								<li><a href="about.html">Our Wonderful Clients</a></li>
-								<li><a href="index-4.html">Awards</a></li>
-								<li><a href="index-5.html">The Design Business Association</a></li>
-								<li><a href="index-6.html">Recruitment</a></li>
-							</ul>
-						</li>
-						
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
-							<ul class="dropdown-menu">
-								<li><a href="index.html">Branding & Visual Identity Design</a></li>
-								<li><a href="index-2.html">Digital & Web Design</a></li>
-								<li><a href="index-3.html">Print Design</a></li>
-								<li><a href="index-4.html">Video Production & Animation</a></li>
-								<li><a href="index-5.html">Other Services</a></li>
-							</ul>
-						</li>
-						
-						<li><a href="portfolio.html">Portfolio</a></li>
-						
-						<li><a href="blog.html">Blog</a></li>
-						
-						<li><a href="about.html">Shop</a></li>
-						
-						<li><a href="contact.html">Contact Us</a></li>
-		
-					</ul>
-					
+				<div class="col-sm-8 col-sm-offset-2">
+					<h1>
+						<span class="yellow">–</span><br/>
+						We are Creativitea&trade;<br/>
+						A <a href="#">brand</a>, <a href="#">digital</a> & <a href="#">print design</a> agency.<br/>
+						<span class="yellow">–</span>
+					</h1>
+					<a class="btn btn-lg btn-y btn-round" href="#">View our work</a>
 				</div>
-		
 			</div>
+		</div>
 
-	</nav>
-	<!-- /NAVIGATION -->
+	</section >
+	<!-- /HOME -->
 
 	<!-- WRAPPER -->
 	<div class="wrapper">
-
-		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/digital_header.jpg">
-
-			<div class="container">
-
-				<!-- MODULE TITLE -->
-				<div class="row">
-
-					<div class="col-sm-6 col-sm-offset-3">
-
-						<h1 class="module-title align-center">Digital Design</h1>
-
-						<div class="module-subtitle align-center">
-							Delivering your brand message instantly anywhere in the world.
-							<div class="post-share">
-								<span class="yellow lead">–</span><br/>
-								<span class='st_sharethis_large' displayText='ShareThis'></span>
-								<span class='st_facebook_large' displayText='Facebook'></span>
-								<span class='st_twitter_large' displayText='Tweet'></span>
-								<span class='st_linkedin_large' displayText='LinkedIn'></span>
-								<span class='st_pinterest_large' displayText='Pinterest'></span>
-								<span class='st_pocket_large' displayText='Pocket'></span>
-								<span class='st_instapaper_large' displayText='Instapaper'></span>
-								<span class='st_email_large' displayText='Email'></span>
-							</div>
-
-						</div>
-						
-					</div>
-
-				</div>
-				<!-- /MODULE TITLE -->
-
-			</div>
-
-		</section >
-		<!-- /HOME -->
-
-		<!-- BLOG GRID -->
-		<section class="module p-b-0">
+		
+		<!-- INTRO -->
+		<section class="module bg-light-50">
 
 			<div class="container">
-				
+
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-2">
-						
+						<h2>We are an independent, creative design agency based in Guildford & London.</h2>
+						<p class="lead">
+							We provide a full cycle solution from concept to design, through to build and market.
+						</p>
+						<p>
+							Whether you want to build a powerful online presence, improve your brand’s image, 
+							or create an engaging campaign. We have a specialist range of services to meet your exact requirements.
+						</p>
+						<p>
+							Contact Us today via our website or call our London office today on 0208 123 0246, 
+							or visit us in our Guildford studio for more information.</p>
+						</p>
+						<div>
+							<a href="about.html" class="btn btn-g btn-round">More about Us</a> <a href="contact.html" class="btn btn-d btn-round">Contact Us</a>
+						</div>
 
-							<article>
-
-								<p class="lead">Blessed with over a decade's worth of experience in working with brands to achieve their digital potential. We help clients achieve tangible results based on great design, UX and strategic planning.</p>
-
-<p>So why have a brand mascot? Mascots have been shown to act as brand spokespersons, with as many, if not more, followers across their social media pages than the brands they represent. They can help to build relationships with customers, without having them feel like they’re being sold to. It’s this relationship that can prove vital to your business. Mascots also have another thing going for them; they never age, they never go off brand, and they never ask for a pay rise!</p>
-							</article>
-							<article>
-								<p>There's never been a time where your communication has to deliver on so many levels. Exposure to potential and new customers can come from anywhere in the digital spectrum which is why we work with clients to achieve this potential and balance their efforts.</p>
-								<p>As a brand this is what we recommend how to spread your efforts </p>
-							</article>
-							<article>
-								<!-- SKILLS -->
-									<div class="col-sm-8">
-				
-										<h5 class="progress-title font-inc">Your Digital Communications</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="100" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">Responsive Website Design </h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="80" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">SEO and Online PR</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-										
-										<h5 class="progress-title font-inc">Social Marketing</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">Digital Marketing</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-										
-										<h5 class="progress-title font-inc">Content Planning</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-									</div>
-									<!-- /SKILLS -->
-							</article>
-							
-							<article>
-								<p>So there's a fair bit to do and this is where we come in. Have a look at some of the other digital design services we provide below.</p>
-							</article>
-							
-						<!-- /POST -->
 
 					</div>
 				</div>
 			</div>
 		</section>
 
+		<!-- PORTFOLIO -->
+		<section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
+			<div class="container-fluid">
+				<div class="row">
+					<!-- PORTFOLIO LIST -->
+					<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single-1.html">
+								<div class="work-image">
+									<img src="assets/images/work-sample-5.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single-1.html">
+								<div class="work-image">
+									<img src="assets/images/work-sample-1.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">CrawfordJames Website Design</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Responsive Website Design<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single-1.html">
+								<div class="work-image">
+									<img src="assets/images/work-sample.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single-1.html">
+								<div class="work-image">
+									<img src="assets/images/work-sample-4.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single-1.html">
+								<div class="work-image">
+									<img src="assets/images/work-sample-3.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single-1.html">
+								<div class="work-image">
+									<img src="assets/images/work-sample-2.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+					
+		
+					</ul>
+				</div>
+			</div>
+			
+		</section>
+		<!-- /PORTFOLIO -->
+		
+		<!-- CLIENTS -->
+		<section class="module-small dark-section" id="clients">
+
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-2 col-sm-offset-2">
+						<h3>Our Clients</h3>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6 col-sm-offset-4">
+						<p class="lead"><span class="yellow">–</span><br/>
+						We have had the pleasure of working with some great brands, organisations and people.</p>
+						<p class="lead">We work closely with our clients to understand their aspirations, culture and market which allows us to tailor our services to deliver a clear return on their investment.<br/>
+						<span class="yellow">–</span></p>
+					</div>
+				</div>
+
+				<div class="row">
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo2.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo3.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo3.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo2.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo3.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo2.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.png" alt="client name"/>
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo2.png" alt="client name"/>
+					</article>
+					
+				</div>
+				
+				<div class="row m-t-40">
+					<div class="text-center">
+							<a href="about.html" class="btn btn-lg btn-y btn-round">View our client list</a>
+					</div>
+				</div>
+
+			</div>
+
+		</section>
+		<!-- /CLIENTS -->
+
+		<!-- TESTIMONIAL -->
+		<section class="module-small dark-section-80" id="testimonials">
+
+			<div class="container">
+
+				<div class="row">
+				<!-- MODULE TITLE -->
+					<div class="col-sm-2 col-sm-offset-2">
+						<h3>Tante Marie</h3>
+					</div>
+					<!-- /MODULE TITLE -->
+
+					<!-- BLOCKQUOTE -->
+					<div class="col-sm-6">
+						<span class="yellow">–</span>
+						<blockquote>
+							Creativitea made it look easy and throughout the process their creative team have just naturally understood what we were looking to achieve… they offer all the benefits of a small business, who we have formed a great personal relationships with, but with all the professionalism of an experienced professional outfit.	
+						</blockquote>
+						<span class="yellow">–</span>
+						<p class="small font-uppercase">Andrew Maxwell | Principle & Director</p>
+					</div>
+					<!-- /BLOCKQUOTE -->
+
+				</div>
+
+			</div>
+
+		</section>
+		<!-- /TESTIMONIAL -->
+		
+		<!-- SERVICES -->
 		<section class="module-small" id="services">
 
 			<div class="container">

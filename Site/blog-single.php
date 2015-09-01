@@ -25,6 +25,12 @@
 	<!-- Custom css -->
 	<link href="assets/css/custom.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6440332/629266/css/fonts.css" />
+	
+	<!--Share widget-->
+	<script type="text/javascript">var switchTo5x=true;</script>
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+	
 </head>
 <body>
 <!-- PRELOADER -->
@@ -33,136 +39,90 @@
 	</div>
 	<!-- /PRELOADER -->
 
-	<!-- NAVIGATION -->
-	<nav class="navbar navbar-custom navbar-transparent navbar-fixed-top" role="navigation">
+	<?php include('assets/php/includes/nav-fixed.html');?>
 
-			<div class="container">
-		
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="index.html">Creativitea&trade;</a>
-				</div>
-		
-				<div class="collapse navbar-collapse" id="custom-collapse">
-		
-					<ul class="nav navbar-nav navbar-right">
-		
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
-							<ul class="dropdown-menu">
-								<li><a href="index.html">Our Story</a></li>
-								<li><a href="index-2.html">The Team</a></li>
-								<li><a href="index-3.html">Creative Process</a></li>
-								<li><a href="about.html">Our Wonderful Clients</a></li>
-								<li><a href="press.html">Press & Awards</a></li>
-								<li><a href="index-5.html">The Design Business Association</a></li>
-								<li><a href="index-6.html">Recruitment</a></li>
-							</ul>
-						</li>
-						
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
-							<ul class="dropdown-menu">
-								<li><a href="index.html">Branding & Visual Identity Design</a></li>
-								<li><a href="index-2.html">Digital & Web Design</a></li>
-								<li><a href="index-3.html">Print Design</a></li>
-								<li><a href="index-4.html">Video Production & Animation</a></li>
-								<li><a href="index-5.html">Other Services</a></li>
-							</ul>
-						</li>
-						
-						<li><a href="portfolio.html">Portfolio</a></li>
-						
-						<li><a href="blog.html">Blog</a></li>
-						
-						<li><a href="about.html">Shop</a></li>
-						
-						<li><a href="contact.html">Contact Us</a></li>
-		
-					</ul>
-					
-				</div>
-		
-			</div>
-
-	</nav>
-	<!-- /NAVIGATION -->
-
-	<!-- GOOGLE MAP -->
-	<section id="map-section" class="module-hero module-parallax module-fade">
-		<div id="map"></div>
-	</section>
-	<!-- /GOOGLE MAP -->
 
 	<!-- WRAPPER -->
 	<div class="wrapper">
+		
 
-		<!-- CONTACT -->
+		<!-- BLOG SINGLE -->
 		<section class="module">
 
 			<div class="container">
 
-				<!-- MODULE TITLE -->
 				<div class="row">
 
-					<div class="col-sm-6 col-sm-offset-3">
+					<div class="col-sm-8 col-sm-offset-2">
+						
+						<!-- POST -->
+						<div class="post">
 
-						<h2 class="module-title align-center font-alt">Get in touch</h2>
+							
 
-						<div class="module-subtitle align-center font-inc">
-							A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.
+							<article class="post-entry">
+								
+								<h1>Why have a brand mascot?</h1>
+								<div class="post-meta">
+									By <a href="#">Roberto Acuna</a> <span class="yellow">|</span> 31 DEC 2014 <span class="yellow">|</span> <a href="#">Contact Us</a>
+								</div>
+								<div class="post-share">
+									<span class="yellow lead">–</span><br/>
+									<span class='st_sharethis_large' displayText='ShareThis'></span>
+									<span class='st_facebook_large' displayText='Facebook'></span>
+									<span class='st_twitter_large' displayText='Tweet'></span>
+									<span class='st_linkedin_large' displayText='LinkedIn'></span>
+									<span class='st_pinterest_large' displayText='Pinterest'></span>
+									<span class='st_pocket_large' displayText='Pocket'></span>
+									<span class='st_instapaper_large' displayText='Instapaper'></span>
+									<span class='st_email_large' displayText='Email'></span><br/>
+									<span class="yellow lead">–</span>
+								</div>
+
+								<p class="lead">Brand mascots have been used for decades to amplify a company’s brand by creating a character that people can form a bond of affection for, ensuring a positive reflection on the parent company. Mascots are simply another way company can stand out from the competition.</p>
+
+<p>So why have a brand mascot? Mascots have been shown to act as brand spokespersons, with as many, if not more, followers across their social media pages than the brands they represent. They can help to build relationships with customers, without having them feel like they’re being sold to. It’s this relationship that can prove vital to your business. Mascots also have another thing going for them; they never age, they never go off brand, and they never ask for a pay rise!</p>
+
+<p>For decades mascots where the purview of brands relating to children, especially concerning food. Ronald Mcdonald, Snap, Crackle and Pop, Mr Peanut, Tony the Tiger, the Coco Pops monkey, the Corn Flakes rooster, Captain Birdseye, Bertie Bassett, Honey Monster and the Milkybar kid are just a very small example of characters used to appeal to children.</p>
+
+<p>In recent years mascots have been used to great effect on brands targeting adults, with the Compare the Market meerkats, the Churchill dog and Confused.com’s Brian the robot being successful modern examples, all of which represent insurance companies.</p>
+
+<p>Not all company mascots are created by design however. Two of the biggest icons of the gaming industry, Nintendo’s Mario and Sega’s Sonic the Hedgehog, were simply characters in their respective games that became so popular they led the flagship series for each gaming system, until their popularity grew so immense they came to represent not only the companies themselves, but the industry itself.</p>
+
+<p>Probably the most famous example of a company using its most popular character as a mascot is Disney’s Mickey Mouse, a character that became so synonymous with the animation giant that the company still used the character for decades after the animated shorts had ended, due to the affection the masses had for the mouse. In recent years the company has made concerted efforts to turn the character away from his role as mascot and return him to his roots as a mischievous but well-meaning adventurer in a series of new animated shorts and TV shows.</p>
+
+<p>The use of mascots in advertising also offers another incentive; merchandising. Sales of goods featuring the character not only create a recognition for the brand, and ultimately the company, but also a rich revenue stream. It’s for these reasons that the continued use of mascots.</p>
+
+<p>Here’s our little contribution to the mascot story, for companies as diverse as Baboonylon, The Award-winning S4 and the new Olly the Octopus for startup company r8lst.</p>
+
+<p>Let us know what you think. The age of the mascot isn’t over yet!</p>
+
+							</article>
+							
+							<div id="other-images">
+								<div class="post-thumbnail">
+									<img src="assets/images/post-1.jpg" alt="">
+								</div>
+								<div class="post-thumbnail">
+									<img src="assets/images/post-1.jpg" alt="">
+								</div>
+								<div class="post-thumbnail">
+									<img src="assets/images/post-1.jpg" alt="">
+								</div>
+							</div>
+							
+
 						</div>
+						<!-- /POST -->
 
 					</div>
 
 				</div>
-				<!-- /MODULE TITLE -->
-
-				<!-- CONTACT FORM -->
-				<div class="row">
-
-					<div class="col-sm-6 col-sm-offset-3">
-
-						<form id="contact-form" role="form" novalidate="">
-
-							<div class="form-group">
-								<label class="sr-only" for="cname">Name</label>
-								<input type="text" id="cname" class="form-control" name="cname" placeholder="Name" required="" data-validation-required-message="Please enter your name." aria-invalid="false">
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<div class="form-group">
-								<label class="sr-only" for="cemail">Your Email</label>
-								<input type="email" id="cemail" name="cemail" class="form-control" placeholder="Your E-mail" required="" data-validation-required-message="Please enter your email address.">
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<div class="form-group">
-								<textarea class="form-control" id="cmessage" name="cmessage" rows="7" placeholder="Message" required="" data-validation-required-message="Please enter your message."></textarea>
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<button type="submit" class="btn btn-round btn-g">Submit</button>
-
-						</form>
-
-						<!-- Ajax response -->
-						<div id="contact-response" class="ajax-response font-alt"></div>
-
-					</div>
-
-				</div>
-				<!-- /CONTACT FORM -->
 
 			</div>
 
 		</section>
-		<!-- /CONTACT -->
+		<!-- /BLOG SINGLE -->
 
 		<!-- DIVIDER -->
 		<hr class="divider-w">

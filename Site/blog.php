@@ -39,65 +39,8 @@
 	</div>
 	<!-- /PRELOADER -->
 
-	<!-- NAVIGATION -->
-	<nav class="navbar navbar-custom navbar-transparent navbar-fixed-top" role="navigation">
+	<?php include('assets/php/includes/nav-transparent.html');?>
 
-			<div class="container">
-		
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="index.html">Creativitea&trade;</a>
-				</div>
-		
-				<div class="collapse navbar-collapse" id="custom-collapse">
-		
-					<ul class="nav navbar-nav navbar-right">
-		
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
-							<ul class="dropdown-menu">
-								<li><a href="index.html">Our Story</a></li>
-								<li><a href="index-2.html">The Team</a></li>
-								<li><a href="index-3.html">Creative Process</a></li>
-								<li><a href="about.html">Our Wonderful Clients</a></li>
-								<li><a href="index-4.html">Awards</a></li>
-								<li><a href="index-5.html">The Design Business Association</a></li>
-								<li><a href="index-6.html">Recruitment</a></li>
-							</ul>
-						</li>
-						
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
-							<ul class="dropdown-menu">
-								<li><a href="index.html">Branding & Visual Identity Design</a></li>
-								<li><a href="index-2.html">Digital & Web Design</a></li>
-								<li><a href="index-3.html">Print Design</a></li>
-								<li><a href="index-4.html">Video Production & Animation</a></li>
-								<li><a href="index-5.html">Other Services</a></li>
-							</ul>
-						</li>
-						
-						<li><a href="portfolio.html">Portfolio</a></li>
-						
-						<li><a href="blog.html">Blog</a></li>
-						
-						<li><a href="about.html">Shop</a></li>
-						
-						<li><a href="contact.html">Contact Us</a></li>
-		
-					</ul>
-					
-				</div>
-		
-			</div>
-
-	</nav>
-	<!-- /NAVIGATION -->
 
 	<!-- WRAPPER -->
 	<div class="wrapper">
