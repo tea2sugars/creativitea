@@ -102,7 +102,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single-1.php">
+							<a href="portfolio-single.php">
 								<div class="work-image">
 									<img src="assets/images/work-sample-5.jpg" alt="">
 								</div>
@@ -120,7 +120,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single-1.php">
+							<a href="portfolio-single.php">
 								<div class="work-image">
 									<img src="assets/images/work-sample-1.jpg" alt="">
 								</div>
@@ -138,7 +138,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single-1.php">
+							<a href="portfolio-single.php">
 								<div class="work-image">
 									<img src="assets/images/work-sample.jpg" alt="">
 								</div>
@@ -156,7 +156,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single-1.php">
+							<a href="portfolio-single.php">
 								<div class="work-image">
 									<img src="assets/images/work-sample-4.jpg" alt="">
 								</div>
@@ -175,7 +175,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single-1.php">
+							<a href="portfolio-single.php">
 								<div class="work-image">
 									<img src="assets/images/work-sample-3.jpg" alt="">
 								</div>
@@ -193,7 +193,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single-1.php">
+							<a href="portfolio-single.php">
 								<div class="work-image">
 									<img src="assets/images/work-sample-2.jpg" alt="">
 								</div>
