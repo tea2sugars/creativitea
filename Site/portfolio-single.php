@@ -241,7 +241,7 @@
 							</div>
 							<div class="content-box-title table-display">
 								<div class="table-cell">
-									<h4><a href="#">Brand & Visual Identity Design</a></h4>
+									<h4><a href="#">Branding</a></h4>
 								</div>
 							</div>
 							<div class="content-box-text">
