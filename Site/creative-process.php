@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	
-	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title>The Creative Team | Creativitea Limited | London, Guildford, Suffolk</title>
 	
 	<!-- Bootstrap core CSS -->
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -39,128 +39,53 @@
 	</div>
 	<!-- /PRELOADER -->
 
-	<?php include('assets/php/includes/nav-transparent.html');?>
+	<?php include('assets/php/includes/nav-fixed.html');?>
 
 
 	<!-- WRAPPER -->
 	<div class="wrapper">
 
-		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/digital_header.jpg">
+		
 
-			<div class="container">
-
-				<!-- MODULE TITLE -->
-				<div class="row">
-
-					<div class="col-sm-6 col-sm-offset-3">
-
-						<h1 class="module-title align-center">Digital Design</h1>
-
-						<div class="module-subtitle align-center">
-							<p class="lead">Delivering your brand message instantly anywhere in the world.</p>
-							<a class="btn btn-lg btn-y btn-round" href="contact.php">Contact Us</a>
-
-						</div>
-					</div>
-
-				</div>
-				<!-- /MODULE TITLE -->
-
-			</div>
-
-		</section >
-		<!-- /HOME -->
-
-		<!-- BLOG GRID -->
+		<!-- BLOG SINGLE -->
 		<section class="module">
 
 			<div class="container">
-				
+
 				<div class="row">
+
 					<div class="col-sm-8 col-sm-offset-2">
-						
+						<h1>The Creative Process</h1>
+						<!-- POST -->
+						<div class="post">
 
-							<article>
+							<article class="post-entry">
 
-								<p class="lead">Blessed with over a decade's worth of experience in working with brands to achieve their digital potential. We help clients achieve tangible results based on great design, UX and strategic planning.</p>
+								<p class="lead">Creativitea™ is an independently run creative design studio co-founded by Rik Barwick and Lloyd Bedford</p>
 
-<p>So why have a brand mascot? Mascots have been shown to act as brand spokespersons, with as many, if not more, followers across their social media pages than the brands they represent. They can help to build relationships with customers, without having them feel like they’re being sold to. It’s this relationship that can prove vital to your business. Mascots also have another thing going for them; they never age, they never go off brand, and they never ask for a pay rise!</p>
+<p>We offer a wide range of integrated services. These including Graphic & Digital Design, Brand Identity, Strategy and Motion Graphics. Our mission to produce beautiful graphic design on both the digital and traditional platforms. We work with our clients to deliver engaging creative work that delivers against our clients key performance indicators.</p>
+
+<p>Our approach is simple: We get to know our clients and how they want to present themselves to the world. And by working to understand their audiences and KPI's we create relevant creative content with them.</p>
+
+<p>By combining aptitude, originality and inspiration within the studio. We produce a melting pot of ideas and new directions for our clients.</p>
 							</article>
-							<article>
-								<p>There's never been a time where your communication has to deliver on so many levels. Exposure to potential and new customers can come from anywhere in the digital spectrum which is why we work with clients to achieve this potential and balance their efforts.</p>
-								<p>As a brand this is what we recommend how to spread your efforts </p>
-							</article>
-							<article>
-								<!-- SKILLS -->
-									<div class="col-sm-8">
-				
-										<h5 class="progress-title font-inc">Your Digital Communications</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="100" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">Responsive Website Design </h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="80" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">SEO and Online PR</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-										
-										<h5 class="progress-title font-inc">Social Marketing</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">Digital Marketing</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-										
-										<h5 class="progress-title font-inc">Content Planning</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-									</div>
-									<!-- /SKILLS -->
-							</article>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-sm-8 col-sm-offset-2">
-							<article>
-								<p>So there's a fair bit to do and this is where we come in. Have a look at some of the other digital design services we provide below.</p>
-							</article>
-							<a href="portfolio.php" class="btn btn-g btn-round">View work</a> <a href="contact.php" class="btn btn-d btn-round">Contact Us</a>
-					</div>
 							
+						</div>
 						<!-- /POST -->
 
 					</div>
+
 				</div>
+
 			</div>
+
 		</section>
+		<!-- /BLOG SINGLE -->
 		
-				<!-- DIVIDER -->
+		<!-- DIVIDER -->
 		<hr class="divider-w">
 		<!-- /DIVIDER -->
-		
+
 		<section class="module-small" id="services">
 
 			<div class="container">
@@ -278,7 +203,7 @@
 						Need some help but not sure what you need?<br/><span class="small">Contact us below for a chat and see what we can do to help <em>– we like a challenge!</em></span>
 					</p>
 					<div class="text-center">
-						<a href="contact.html" class="btn btn-d btn-round btn-lg">Contact Us</a>
+						<a href="contact.php" class="btn btn-d btn-round btn-lg">Contact Us</a>
 					</div>
 					
 					</div>
@@ -378,7 +303,7 @@
 				<div class="row">
 		
 					<div class="col-sm-12 text-center ">
-						<p class="copyright m-b-0">© 2015 <a href="index.html">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
+						<p class="copyright m-b-0">© 2015 <a href="index.php">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
 					</div>
 		
 				</div>

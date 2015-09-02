@@ -55,7 +55,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Digital Design</h1>
+						<h1 class="module-title align-center">Branding & Visual Identity</h1>
 
 						<div class="module-subtitle align-center">
 							<p class="lead">Delivering your brand message instantly anywhere in the world.</p>
@@ -92,7 +92,7 @@
 								<p>As a brand this is what we recommend how to spread your efforts </p>
 							</article>
 							<article>
-								<!-- SKILLS -->
+								<!-- 
 									<div class="col-sm-8">
 				
 										<h5 class="progress-title font-inc">Your Digital Communications</h5>
@@ -138,7 +138,7 @@
 										</div>
 				
 									</div>
-									<!-- /SKILLS -->
+									 -->
 							</article>
 					</div>
 				</div>
