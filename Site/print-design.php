@@ -59,7 +59,7 @@
 
 						<div class="module-subtitle align-center">
 							<p class="lead">Delivering your brand message instantly anywhere in the world.</p>
-							<a class="btn btn-lg btn-y btn-round" href="contact.php">Contact Us</a>
+							<a class="btn btn-lg btn-y btn-round" href="contact">Contact Us</a>
 
 						</div>
 					</div>
@@ -147,7 +147,7 @@
 							<article>
 								<p>So there's a fair bit to do and this is where we come in. Have a look at some of the other digital design services we provide below.</p>
 							</article>
-							<a href="portfolio.php" class="btn btn-g btn-round">View work</a> <a href="contact.php" class="btn btn-d btn-round">Contact Us</a>
+							<a href="portfolio" class="btn btn-g btn-round">View work</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
 					</div>
 							
 						<!-- /POST -->

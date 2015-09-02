@@ -203,7 +203,7 @@
 						Need some help but not sure what you need?<br/><span class="small">Contact us below for a chat and see what we can do to help <em>– we like a challenge!</em></span>
 					</p>
 					<div class="text-center">
-						<a href="contact.php" class="btn btn-d btn-round btn-lg">Contact Us</a>
+						<a href="contact" class="btn btn-d btn-round btn-lg">Contact Us</a>
 					</div>
 					
 					</div>
@@ -303,7 +303,7 @@
 				<div class="row">
 		
 					<div class="col-sm-12 text-center ">
-						<p class="copyright m-b-0">© 2015 <a href="index.php">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
+						<p class="copyright m-b-0">© 2015 <a href="index">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
 					</div>
 		
 				</div>

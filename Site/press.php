@@ -88,10 +88,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-1.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-1.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">Our trip to the Alps</a></h2>
+								<h2 class="post-title "><a href="blog-single">Our trip to the Alps</a></h2>
 								<div class="post-meta ">
 									By Thomas Anderson <span class="yellow">|</span> 31 DEC 2014
 								</div>
@@ -100,7 +100,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -110,10 +110,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-2.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-2.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">Shore after the tide</a></h2>
+								<h2 class="post-title "><a href="blog-single">Shore after the tide</a></h2>
 								<div class="post-meta ">
 									By Mark Stone <span class="yellow">|</span> 25 DEC 2014
 								</div>
@@ -122,7 +122,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -132,10 +132,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-3.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-3.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">We in New Zealand</a></h2>
+								<h2 class="post-title "><a href="blog-single">We in New Zealand</a></h2>
 								<div class="post-meta ">
 									By Thomas Anderson <span class="yellow">|</span> 22 DEC 2014
 								</div>
@@ -144,7 +144,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -154,10 +154,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-4.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-4.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">Our trip to the Alps</a></h2>
+								<h2 class="post-title "><a href="blog-single">Our trip to the Alps</a></h2>
 								<div class="post-meta ">
 									By Thomas Anderson <span class="yellow">|</span> 31 DEC 2014
 								</div>
@@ -166,7 +166,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -176,10 +176,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-5.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-5.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">Shore after the tide</a></h2>
+								<h2 class="post-title "><a href="blog-single">Shore after the tide</a></h2>
 								<div class="post-meta ">
 									By Mark Stone <span class="yellow">|</span> 25 DEC 2014
 								</div>
@@ -188,7 +188,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -198,10 +198,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-6.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-6.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">We in New Zealand</a></h2>
+								<h2 class="post-title "><a href="blog-single">We in New Zealand</a></h2>
 								<div class="post-meta ">
 									By Thomas Anderson <span class="yellow">|</span> 22 DEC 2014
 								</div>
@@ -210,7 +210,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -260,10 +260,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-1.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-1.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">Our trip to the Alps</a></h2>
+								<h2 class="post-title "><a href="blog-single">Our trip to the Alps</a></h2>
 								<div class="post-meta ">
 									By Thomas Anderson <span class="yellow">|</span> 31 DEC 2014
 								</div>
@@ -272,7 +272,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -282,10 +282,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-2.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-2.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">Shore after the tide</a></h2>
+								<h2 class="post-title "><a href="blog-single">Shore after the tide</a></h2>
 								<div class="post-meta ">
 									By Mark Stone <span class="yellow">|</span> 25 DEC 2014
 								</div>
@@ -294,7 +294,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -304,10 +304,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-3.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-3.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">We in New Zealand</a></h2>
+								<h2 class="post-title "><a href="blog-single">We in New Zealand</a></h2>
 								<div class="post-meta ">
 									By Thomas Anderson <span class="yellow">|</span> 22 DEC 2014
 								</div>
@@ -316,7 +316,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -326,10 +326,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-4.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-4.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">Our trip to the Alps</a></h2>
+								<h2 class="post-title "><a href="blog-single">Our trip to the Alps</a></h2>
 								<div class="post-meta ">
 									By Thomas Anderson <span class="yellow">|</span> 31 DEC 2014
 								</div>
@@ -338,7 +338,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -348,10 +348,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-5.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-5.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">Shore after the tide</a></h2>
+								<h2 class="post-title "><a href="blog-single">Shore after the tide</a></h2>
 								<div class="post-meta ">
 									By Mark Stone <span class="yellow">|</span> 25 DEC 2014
 								</div>
@@ -360,7 +360,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -370,10 +370,10 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<div class="post">
 							<div class="post-thumbnail">
-								<a href="blog-single.php"><img src="assets/images/post-6.jpg" alt=""></a>
+								<a href="blog-single"><img src="assets/images/post-6.jpg" alt=""></a>
 							</div>
 							<div class="post-header">
-								<h2 class="post-title "><a href="blog-single.php">We in New Zealand</a></h2>
+								<h2 class="post-title "><a href="blog-single">We in New Zealand</a></h2>
 								<div class="post-meta ">
 									By Thomas Anderson <span class="yellow">|</span> 22 DEC 2014
 								</div>
@@ -382,7 +382,7 @@
 								<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							</div>
 							<div class="post-more ">
-								<a href="blog-single.php" class="more-link">Read more</a>
+								<a href="blog-single" class="more-link">Read more</a>
 							</div>
 						</div>
 					</div>
@@ -516,7 +516,7 @@
 						Need some help but not sure what you need?<br/><span class="small">Contact us below for a chat and see what we can do to help <em>– we like a challenge!</em></span>
 					</p>
 					<div class="text-center">
-						<a href="contact.php" class="btn btn-d btn-round btn-lg">Contact Us</a>
+						<a href="contact" class="btn btn-d btn-round btn-lg">Contact Us</a>
 					</div>
 					
 					</div>
@@ -616,7 +616,7 @@
 				<div class="row">
 		
 					<div class="col-sm-12 text-center ">
-						<p class="copyright m-b-0">© 2015 <a href="index.php">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
+						<p class="copyright m-b-0">© 2015 <a href="index">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
 					</div>
 		
 				</div>

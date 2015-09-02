@@ -84,7 +84,7 @@
 							or visit us in our Guildford studio for more information.</p>
 						</p>
 						<div>
-							<a href="about.php" class="btn btn-g btn-round">More about Us</a> <a href="contact.php" class="btn btn-d btn-round">Contact Us</a>
+							<a href="about" class="btn btn-g btn-round">More about Us</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
 						</div>
 
 
@@ -102,7 +102,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single.php">
+							<a href="portfolio-single">
 								<div class="work-image">
 									<img src="assets/images/work-sample-5.jpg" alt="">
 								</div>
@@ -120,7 +120,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single.php">
+							<a href="portfolio-single">
 								<div class="work-image">
 									<img src="assets/images/work-sample-1.jpg" alt="">
 								</div>
@@ -138,7 +138,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single.php">
+							<a href="portfolio-single">
 								<div class="work-image">
 									<img src="assets/images/work-sample.jpg" alt="">
 								</div>
@@ -156,7 +156,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single.php">
+							<a href="portfolio-single">
 								<div class="work-image">
 									<img src="assets/images/work-sample-4.jpg" alt="">
 								</div>
@@ -175,7 +175,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single.php">
+							<a href="portfolio-single">
 								<div class="work-image">
 									<img src="assets/images/work-sample-3.jpg" alt="">
 								</div>
@@ -193,7 +193,7 @@
 		
 						<!-- PORTFOLIO ITEM -->
 						<li class="work-item marketing photography">
-							<a href="portfolio-single.php">
+							<a href="portfolio-single">
 								<div class="work-image">
 									<img src="assets/images/work-sample-2.jpg" alt="">
 								</div>
@@ -277,7 +277,7 @@
 				
 				<div class="row m-t-40">
 					<div class="text-center">
-							<a href="about.php" class="btn btn-lg btn-y btn-round">View our client list</a>
+							<a href="about" class="btn btn-lg btn-y btn-round">View our client list</a>
 					</div>
 				</div>
 
@@ -434,7 +434,7 @@
 						Need some help but not sure what you need?<br/><span class="small">Contact us below for a chat and see what we can do to help <em>– we like a challenge!</em></span>
 					</p>
 					<div class="text-center">
-						<a href="contact.php" class="btn btn-d btn-round btn-lg">Contact Us</a>
+						<a href="contact" class="btn btn-d btn-round btn-lg">Contact Us</a>
 					</div>
 					
 					</div>
@@ -534,7 +534,7 @@
 				<div class="row">
 		
 					<div class="col-sm-12 text-center ">
-						<p class="copyright m-b-0">© 2015 <a href="index.php">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
+						<p class="copyright m-b-0">© 2015 <a href="index">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
 					</div>
 		
 				</div>
