@@ -4,7 +4,7 @@
     define("PERCH_DB_USERNAME", 'perch_tea');
     define("PERCH_DB_PASSWORD", 'Te@2sugars');
     define("PERCH_DB_SERVER", "localhost");
-    define("PERCH_DB_DATABASE", "admin_perch");
+    define("PERCH_DB_DATABASE", "admin_tea");
     define("PERCH_DB_PREFIX", "perch2_");
     
     define('PERCH_TZ', 'Europe/London');
