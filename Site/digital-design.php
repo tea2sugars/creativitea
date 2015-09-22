@@ -58,8 +58,8 @@
 						<h1 class="module-title align-center">Digital & Website Design</h1>
 
 						<div class="module-subtitle align-center">
-							<p class="lead">Delivering your brand message instantly anywhere in the world.</p>
-							<a class="btn btn-lg btn-y btn-round" href="contact">Contact Us</a>
+							<p class="lead">Delivering your brand message and your product marketing instantly anywhere in the world.</p>
+							<a class="btn btn-lg btn-y btn-round" href="contact">Get in touch to discuss your project</a>
 
 						</div>
 					</div>
@@ -72,7 +72,6 @@
 		</section >
 		<!-- /HOME -->
 
-		<!-- BLOG GRID -->
 		<section class="module">
 
 			<div class="container">
@@ -160,6 +159,138 @@
 				<!-- DIVIDER -->
 		<hr class="divider-w">
 		<!-- /DIVIDER -->
+		
+		<!-- PORTFOLIO -->
+		<section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
+			<div class="container-fluid">
+				<div class="row">
+					<h2 class="align-center">Some of our Digital Projects</h2>
+				</div>
+				<div class="row">
+					<!-- PORTFOLIO LIST -->
+					<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-5.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-1.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">CrawfordJames Website Design</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Responsive Website Design<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-4.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-3.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-2.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+					
+		
+					</ul>
+				</div>
+			</div>
+			
+		</section>
+		<!-- /PORTFOLIO -->
+		
+		<!-- DIVIDER -->
+		<hr class="divider-w">
+		<!-- /DIVIDER -->
+		
 		
 		<section class="module-small" id="services">
 

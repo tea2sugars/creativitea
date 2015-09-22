@@ -67,12 +67,19 @@
 
 			<div class="container">
 				
-				<div class="row">
+				<!--<div class="row">
 					<div class="col-sm-12">
 
 						<p><img src="assets/images/section-1.jpg" alt=""></p>
 					</div>
-				</div>
+				</div>-->
+				
+				<!-- PORTFOLIO KEY IMAGE -->
+				<div class="row">
+					<div class="col-sm-8 col-sm-offset-4">
+
+						<p><img src="assets/images/section-1.jpg" alt=""></p>
+					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
@@ -192,7 +199,8 @@
 
 				<div class="row">
 
-					<div class="col-sm-12">
+					<!--<div class="col-sm-12">-->
+						<div class="col-sm-8 col-sm-offset-4">
 
 						<p><img src="assets/images/section-1.jpg" alt=""></p>
 
@@ -216,7 +224,7 @@
 			
 				<div class="pagination font-inc text-uppercase">
 			
-					<a href="#">View portfolio</a>
+					<a href="#" role="button" class="btn btn-lg btn-y btn-round">View portfolio</a>
 			
 				</div>
 			
