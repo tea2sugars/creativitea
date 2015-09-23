@@ -40,7 +40,7 @@
 	</div>
 	<!-- /PRELOADER -->
 
-	<?php include('../assets/php/includes/nav-transparent.html');?>
+	<?php include('assets/php/includes/nav-fixed.html');?>
 
 <!-- WRAPPER -->
 	<div class="wrapper">
@@ -58,14 +58,12 @@
 						<div class="post">
 		   
 							<?php perch_blog_post(perch_get('s')); ?>
-
-							<?php perch_blog_author_for_post(perch_get('s')); ?>
 		    	
 							<div class="meta">
-				           		 <div class="cats">
+				           		 <div class="cats col-sm-6">
 				               		 <?php perch_blog_post_categories(perch_get('s')); ?>
 								</div>
-								<div class="tags">
+								<div class="tags col-sm-6">
 				               		 <?php perch_blog_post_tags(perch_get('s')); ?>
 				            	</div>
 				        	</div>
