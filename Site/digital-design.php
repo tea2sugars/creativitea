@@ -82,7 +82,7 @@
 
 							<article>
 
-								<p class="lead">We're creative digital agency founded on strategic thinking, technical knowhow and a thirst for customer satisfaction, over-delivering on our clients KPI's and expectations.</p>
+								<p class="lead">We're a creative digital agency founded on creative thinking, technical knowhow and a thirst for customer satisfaction, over-delivering on our clients KPI's and expectations.</p>
 <p>A great idea is nothing without execution, and we have the people and experience to make things happen. We have more than a decade of experience delivering highly-effective digital communications for some of the biggest brands in the country, we use this expertise to scale ideas for businesses and charities of all shapes and sizes – Winning awards as we go. </p>
 <p>Creativitea has developed a team of trusted, experienced digital folk that adapt existing services, innovate and develop digital projects that cater for any budget. With creative thinking there's always a way!</p> 
 							</article>
