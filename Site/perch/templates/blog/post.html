@@ -1,33 +1,56 @@
-<article class="h-entry">
-	<perch:if exists="image">
-        <div>
-            <img src="<perch:blog id="image" type="image" width="100%" height="auto" crop="true" label="Image" order="4" />" alt="<perch:blog id="postTitle" />" />
-        </div>
-    </perch:if>
+<article class="post-entry">
 	<h1>
         <a href="<perch:blog id="postURL" type="hidden" />" rel="bookmark" class="p-name">
             <perch:blog id="postTitle" type="text" label="Title" required="true" size="xl autowidth" order="1" />
         </a>
     </h1>
-	<p class="meta">
+    <div class="post-meta">
+	    
+	    <p class="meta">
+		    <perch:if exists="authorGivenName">
+            	Posted by <perch:blog id="authorGivenName" type="hidden" /> <perch:blog id="authorFamilyName" type="hidden" /> <span class="yellow">| </span>
+			</perch:if>
         <time class="dt-published" datetime="<perch:blog id="postDateTime" type="date" label="Date" time="true" format="Y-m-d H:i:s" divider-before="Meta information" />">
             <perch:blog id="postDateTime" type="date" time="true" format="%d %B %Y" /> 
         </time>
-		<perch:if exists="authorGivenName">
-            by <span class="p-author h-card"><perch:blog id="authorGivenName" type="hidden" /> <perch:blog id="authorFamilyName" type="hidden" /></span>
-        </perch:if>    
-        <perch:categories id="categories" set="blog" label="Categories" display-as="checkboxes">
+    <br/>
+    	<perch:categories id="categories" set="blog" label="Categories" display-as="checkboxes">
             <a href="archive.php?cat=<perch:category id="catSlug" type="slug" />" class="p-category">
                 <perch:category id="catTitle" type="text" />
             </a>
         </perch:categories>
+		</p>
+	    
+    </div> 
+	
+    <div class="post-share">
+		<span class="yellow lead">–</span><br/>
+		<span class='st_sharethis_large' displayText='ShareThis'></span>
+		<span class='st_facebook_large' displayText='Facebook'></span>
+		<span class='st_twitter_large' displayText='Tweet'></span>
+		<span class='st_linkedin_large' displayText='LinkedIn'></span>
+		<span class='st_pinterest_large' displayText='Pinterest'></span>
+		<span class='st_pocket_large' displayText='Pocket'></span>
+		<span class='st_instapaper_large' displayText='Instapaper'></span>
+		<span class='st_email_large' displayText='Email'></span><br/>
+		<span class="yellow lead">–</span>
+	</div>
+	
+     <perch:if exists="image">
+        <div>
+            <img src="<perch:blog id="image" type="image" width="100%" height="auto" crop="true" label="Image" order="4" />" alt="<perch:blog id="postTitle" />" />
+        </div>
+    </perch:if>
+    <span class="lead">
+    	<perch:blog id="excerpt" type="textarea" label="Excerpt" markdown="true" order="3" size="s" />
+    </span>
+    <perch:blog id="postDescHTML" type="textarea" label="Post" order="2" editor="markitup" markdown="true" size="xxl autowidth" required="true" />
     
-	</p>
+    <perch:if exists="extraImages">
+    <img src="<perch:blog id="extraImages" type="image" width="100%" height="auto" crop="true" label="Additional Images" order="5" />" alt="<perch:blog id="postTitle" />" />
+    </perch:if>
     
-    <div class="description e-content">
-    	<perch:blog id="postDescHTML" type="textarea" label="Post" order="2" editor="markitup" markdown="true" size="xxl autowidth" required="true" />
-    </div>
 </article>
 
-<perch:blog id="excerpt" type="textarea" label="Excerpt" markdown="true" order="3" suppress="true" size="s" />
+
 <perch:blog id="image" type="image" width="50" height="50" crop="true" suppress="true" />

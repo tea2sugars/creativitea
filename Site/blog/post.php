@@ -42,33 +42,38 @@
 
 	<?php include('../assets/php/includes/nav-transparent.html');?>
 
+<!-- WRAPPER -->
+	<div class="wrapper">
+	
+	<!-- BLOG SINGLE -->
+		<section class="module">
 
-	
-	<!--  change cols2-nav-right to cols2-nav-left if you want the sidebar on the left -->
-	<div class="wrapper cols2-nav-right">
-	
-		<div class="primary-content">
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-sm-8 col-sm-offset-2">
+						
+						<!-- POST -->
+						<div class="post">
 		   
-		    
-		    <div class="post">
-		    	<?php perch_blog_post(perch_get('s')); ?>
+							<?php perch_blog_post(perch_get('s')); ?>
 
-		    	<?php perch_blog_author_for_post(perch_get('s')); ?>
+							<?php perch_blog_author_for_post(perch_get('s')); ?>
 		    	
-		    	<div class="meta">
-		            <div class="cats">
-		                <?php perch_blog_post_categories(perch_get('s')); ?>
-		            </div>
-		            <div class="tags">
-		                <?php perch_blog_post_tags(perch_get('s')); ?>
-		            </div>
-		        </div>
-		    	
-		        
-		    </div>
-		</div>
-		
-	</div>
+							<div class="meta">
+				           		 <div class="cats">
+				               		 <?php perch_blog_post_categories(perch_get('s')); ?>
+								</div>
+								<div class="tags">
+				               		 <?php perch_blog_post_tags(perch_get('s')); ?>
+				            	</div>
+				        	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 	
 	<!-- DIVIDER -->
 		<hr class="divider-w">
