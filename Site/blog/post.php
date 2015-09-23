@@ -43,9 +43,6 @@
 		            </div>
 		        </div>
 		    	
-		    	<?php perch_blog_post_comments(perch_get('s')); ?>
-		    	
-		    	<?php perch_blog_post_comment_form(perch_get('s')); ?>
 		        
 		    </div>
 		</div>

@@ -1,4 +1,9 @@
 <article class="h-entry">
+	<perch:if exists="image">
+        <div>
+            <img src="<perch:blog id="image" type="image" width="100%" height="auto" crop="true" label="Image" order="4" />" alt="<perch:blog id="postTitle" />" />
+        </div>
+    </perch:if>
 	<h1>
         <a href="<perch:blog id="postURL" type="hidden" />" rel="bookmark" class="p-name">
             <perch:blog id="postTitle" type="text" label="Title" required="true" size="xl autowidth" order="1" />
@@ -18,11 +23,7 @@
         </perch:categories>
     
 	</p>
-    <perch:if exists="image">
-        <div>
-            <img src="<perch:blog id="image" type="image" width="320" height="240" crop="true" label="Image" order="4" />" alt="<perch:blog id="postTitle" />" />
-        </div>
-    </perch:if>
+    
     <div class="description e-content">
     	<perch:blog id="postDescHTML" type="textarea" label="Post" order="2" editor="markitup" markdown="true" size="xxl autowidth" required="true" />
     </div>
