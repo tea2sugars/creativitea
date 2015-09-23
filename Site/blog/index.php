@@ -83,21 +83,17 @@
 
 		</section >
 		<!-- /HOME -->
-	<section class="module-small">
-		<div class="container">
 
-			<div class="row">
-					<div class="col-sm-4">
-						<h2>Our Blog</h2>
-					</div>
-				</div>
-			</div>
-		</section>
 	
 		<section class="module p-b-0">
 
 			<div class="container">
 				
+				<div class="row">
+					<div class="col-sm-4">
+						<h2>Our Blog</h2>
+					</div>
+				</div>
 				
 				<div class="row multi-columns-row post-columns">
 					

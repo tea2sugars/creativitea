@@ -58,7 +58,7 @@
 						<h1 class="module-title align-center">Branding & Visual Identity</h1>
 
 						<div class="module-subtitle align-center">
-							<p class="lead">Delivering your brand message instantly anywhere in the world.</p>
+							<p class="lead">The who, what and why of your business</p>
 							<a class="btn btn-lg btn-y btn-round" href="contact">Contact Us</a>
 
 						</div>
@@ -83,13 +83,13 @@
 
 							<article>
 
-								<p class="lead">Blessed with over a decade's worth of experience in working with brands to achieve their digital potential. We help clients achieve tangible results based on great design, UX and strategic planning.</p>
+								<p class="lead">Brand is not simply a logo or collection of graphics in a pictorial form making a pretty picture. Brand is a reputation, an experience, its what differentiates an organisation from it’s competitors, and is always communicating the unique values it provides. It tells people, both inside the organisation and out, what you are and what you stand for.</p>
 
-<p>So why have a brand mascot? Mascots have been shown to act as brand spokespersons, with as many, if not more, followers across their social media pages than the brands they represent. They can help to build relationships with customers, without having them feel like they’re being sold to. It’s this relationship that can prove vital to your business. Mascots also have another thing going for them; they never age, they never go off brand, and they never ask for a pay rise!</p>
+<p>Your business has a personality, and nurturing it can help you stand out from the crowd. This personality is a vital component to building trust, ensuring your future success. With so many distractions going on in people’s lives, a consistent face to your company creates an oasis of calm, an anchor of recognition and stability.</p>
 							</article>
 							<article>
-								<p>There's never been a time where your communication has to deliver on so many levels. Exposure to potential and new customers can come from anywhere in the digital spectrum which is why we work with clients to achieve this potential and balance their efforts.</p>
-								<p>As a brand this is what we recommend how to spread your efforts </p>
+								<p>We believe we can help organisations in any sector, through effective thoughtful design, to create a brand identity that can make your business look striking and memorable, and is a brand that people buy into. Getting to really understand the business we work with enables us to tailor-make all aspects of a brand and identity, from logo design, to tone of voice and brand guidelines, making sure that whoever gets to work on your precious brand, anywhere in the world, has the rules to follow and maintain the absolute quality your company will be known for.</p>
+								<p>Whether it’s a new brand or an existing one in need of a refresh, we work with individuals and businesses of all sizes to create branding solutions that tell a story across all channels.</p>
 							</article>
 							<article>
 								<!-- 
@@ -142,22 +142,143 @@
 							</article>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-sm-8 col-sm-offset-2">
-							<article>
-								<p>So there's a fair bit to do and this is where we come in. Have a look at some of the other digital design services we provide below.</p>
-							</article>
-							<a href="portfolio" class="btn btn-g btn-round">View work</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
-					</div>
-							
-						<!-- /POST -->
-
-					</div>
+				
 				</div>
 			</div>
 		</section>
 		
-				<!-- DIVIDER -->
+						<!-- DIVIDER -->
+		<hr class="divider-w">
+		<!-- /DIVIDER -->
+		
+		<!-- PORTFOLIO -->
+		<section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
+			<div class="container-fluid">
+				<div class="row">
+					<h2 class="align-center">Some of our recent Branding Projects</h2>
+				</div>
+				<div class="row">
+					<!-- PORTFOLIO LIST -->
+					<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-5.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-1.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">CrawfordJames Website Design</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Responsive Website Design<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-4.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-3.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-2.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+					
+		
+					</ul>
+				</div>
+			</div>
+			
+		</section>
+		<!-- /PORTFOLIO -->
+		
+		<!-- DIVIDER -->
 		<hr class="divider-w">
 		<!-- /DIVIDER -->
 		
