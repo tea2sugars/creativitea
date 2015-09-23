@@ -2,26 +2,47 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title><?php perch_blog_post_field(perch_get('s'), 'postTitle'); ?> - Blog Example</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
-	<?php perch_get_css(); ?>
-	<link rel="stylesheet" href="blog.css" type="text/css" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	
+	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	
+	<!-- Bootstrap core CSS -->
+	<link href="../assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	
+	<!-- Plugins -->
+	<link href="../assets/css/simpletextrotator.css" rel="stylesheet">
+	<link href="../assets/css/font-awesome.min.css" rel="stylesheet">
+	<link href="../assets/css/et-line-font.css" rel="stylesheet">
+	<link href="../assets/css/magnific-popup.css" rel="stylesheet">
+	<link href="../assets/css/flexslider.css" rel="stylesheet">
+	<link href="../assets/css/animate.css" rel="stylesheet">
+	
+	<!-- Template core CSS -->
+	<link href="../assets/css/style.css" rel="stylesheet">
+	
+	<!-- Custom css -->
+	<link href="../assets/css/custom.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6440332/629266/css/fonts.css" />
+	
+	<!--Share widget-->
+	<script type="text/javascript">var switchTo5x=true;</script>
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+	
 </head>
 <body>
-	<header class="layout-header">
-		<div class="wrapper">
-			<div class="company-name">Perch Blog App - Company Name</div>
-			<img src="<?php perch_path('feathers/quill/img/logo.gif'); ?>" alt="Your Logo Here" class="logo"/>
-		</div>
-		<nav class="main-nav">
-			<?php perch_pages_navigation(array(
-					'levels'=>1
-				));
-			?>
-		</nav>
-	</header>
+<!-- PRELOADER -->
+	<div class="page-loader">
+		<div class="loader">Brewing...</div>
+	</div>
+	<!-- /PRELOADER -->
+
+	<?php include('../assets/php/includes/nav-transparent.html');?>
+
+
 	
 	<!--  change cols2-nav-right to cols2-nav-left if you want the sidebar on the left -->
 	<div class="wrapper cols2-nav-right">
@@ -47,37 +68,265 @@
 		    </div>
 		</div>
 		
-		<nav class="sidebar">
-		    <h2>Archive</h2>
-		    <!-- The following functions are different ways to display archives. You can use any or all of these. 
-		    
-		    All of these functions can take a parameter of a template to overwrite the default template, for example:
-		    
-		    perch_blog_categories('my_template.html');
-		    
-		    --> 
-		    <!--  By category listing -->
-		    <?php perch_blog_categories(); ?>
-		    <!--  By tag -->
-		    <?php perch_blog_tags(); ?>
-		    <!--  By year -->
-		    <?php perch_blog_date_archive_years(); ?>
-		    <!--  By year and then month - can take parameters for two templates. The first displays the years and the second the months see the default templates for examples -->
-		    <?php perch_blog_date_archive_months(); ?>
-    	</nav>
 	</div>
-	<footer class="layout-footer">
-		<div class="wrapper">
-			<ul class="social-links">
-				<li class="twitter"><a href="#" rel="me">Twitter</a></li>
-				<li class="facebook"><a href="#" rel="me">Facebook</a></li>
-				<li class="flickr"><a href="#" rel="me">Flickr</a></li>
-				<li class="linkedin"><a href="#" rel="me">LinkedIn</a></li>
-				<li class="rss"><a href="#">RSS</a></li>
-			</ul>
-			<small>Copyright &copy; <?php echo date('Y'); ?></small>
-		</div>
-	</footer>
-	<?php perch_get_javascript(); ?>
+	
+	<!-- DIVIDER -->
+		<hr class="divider-w">
+		<!-- /DIVIDER -->
+	
+	<section class="module-small" id="services">
+
+			<div class="container">
+				<div class="row">
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-beaker yellow"></span>
+							</div>
+							<div class="content-box-title table-display">
+								<div class="table-cell">
+									<h4><a href="#">Branding</a></h4>
+								</div>
+							</div>
+							<div class="content-box-text">
+								<p>Cred listicle XOXO, Truffaut post-ironic PBR trust fund mlkshk shabby chic art party. Small batch disrupt bicycle rights, artisan cray Odd Future Tumblr</p>
+							</div>
+							<div class="content-box-text">
+								<span class="yellow lead">–</span>
+								<ul>
+									<li><a href="#">Digital Design</a></li>
+									<li><a href="#">UX Design</a></li>
+									<li><a href="#">Website Design & Development</a></li>
+									<li><a href="#">Digital Marketing</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-mobile yellow"></span>
+							</div>
+							<div class="content-box-title table-display">
+								<div class="table-cell">
+									<h4><a href="#">Digital & Website Design</a></h4>
+								</div>
+							</div>
+							<div class="content-box-text">
+								<p>Cred listicle XOXO, Truffaut post-ironic PBR trust fund mlkshk shabby chic art party. Small batch disrupt bicycle rights, artisan cray Odd Future Tumblr</p>
+							</div>
+							<div class="content-box-text">
+								<span class="yellow lead">–</span>
+								<ul>
+									<li><a href="#">Digital Design</a></li>
+									<li><a href="#">UX Design</a></li>
+									<li><a href="#">Website Design & Development</a></li>
+									<li><a href="#">Digital Marketing</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-printer yellow"></span>
+							</div>
+							<div class="content-box-title table-display">
+								<div class="table-cell">
+									<h4><a href="#">Print Design</a></h4>
+								</div>
+							</div>
+							<div class="content-box-text">
+								<p>Cred listicle XOXO, Truffaut post-ironic PBR trust fund mlkshk shabby chic art party. Small batch disrupt bicycle rights, artisan cray Odd Future Tumblr</p>
+							</div>
+							<div class="content-box-text">
+								<span class="yellow lead">–</span>
+								<ul>
+									<li><a href="#">Digital Design</a></li>
+									<li><a href="#">UX Design</a></li>
+									<li><a href="#">Website Design & Development</a></li>
+									<li><a href="#">Digital Marketing</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+					<!-- CONTENT BOX -->
+					<div class="col-sm-6 col-md-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-video yellow"></span>
+							</div>
+							<div class="content-box-title table-display">
+								<div class="table-cell">
+									<h4><a href="#">Motion Design & Animation</a></h4>
+								</div>
+							</div>
+							<div class="content-box-text">
+								<p>Cred listicle XOXO, Truffaut post-ironic PBR trust fund mlkshk shabby chic art party. Small batch disrupt bicycle rights, artisan cray Odd Future Tumblr</p>
+							</div>
+							<div class="content-box-text">
+								<span class="yellow lead">–</span>
+								<ul>
+									<li><a href="#">Digital Design</a></li>
+									<li><a href="#">UX Design</a></li>
+									<li><a href="#">Website Design & Development</a></li>
+									<li><a href="#">Digital Marketing</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+				</div>
+				
+				
+				<div class="row">
+					<div class="col-sm-6 col-sm-offset-3 m-t-40 m-t-20">
+					<p class="lead text-center">
+						Need some help but not sure what you need?<br/><span class="small">Contact us below for a chat and see what we can do to help <em>– we like a challenge!</em></span>
+					</p>
+					<div class="text-center">
+						<a href="contact" class="btn btn-d btn-round btn-lg">Contact Us</a>
+					</div>
+					
+					</div>
+				</div>
+				
+			</div>
+
+		</section>
+		<!-- /CERVICES -->
+
+		<!-- CONTACT -->
+		<section class="module-small dark-section-5">
+		
+			<div class="container">
+		
+				<div class="row">
+		
+					<!-- CONTENT BOX -->
+					<div class="col-sm-3">
+						<div class="content-box">
+							
+							<div class="content-box-title">
+								<h5>Guildford Studio</h5>
+							</div>
+							<div class="content-box-text">
+								<address>
+									Milestone House, Millbrook, Guildford, Surrey, GU1 3YA
+								</address>
+								<p>
+									01483 453 067
+								</p>
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+		
+					<!-- CONTENT BOX -->
+					<div class="col-sm-3">
+						<div class="content-box">
+							
+							<div class="content-box-title">
+								<h5>London Office</h5>
+							</div>
+							<div class="content-box-text">
+								<address>
+									Hoxton Road, London
+								</address>
+								<p>
+									0208 123 0246
+								</p>
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+		
+					<!-- CONTENT BOX -->
+					<div class="col-sm-3">
+						<div class="content-box">
+							
+							<div class="content-box-title">
+								<h5>Say hello by email</h5>
+							</div>
+							<div class="content-box-text">
+								<p>
+									<a href="mailto:info@creativitea.co.uk">info@creativitea.co.uk</a>
+								</p>
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+					<!-- CONTENT BOX -->
+					<div class="col-sm-3">
+						<div class="content-box">
+							
+							<div class="content-box-title">
+								<h5>Be social</h5>
+							</div>
+							<div class="content-box-text">
+								<p class="lead"><a href="#"><i class="fa-twitter fa-icons fa" aria-label="Twitter"></i></a> <a href="#"><i class="fa-facebook fa-icons fa" aria-label="Facebook"></i></a> <a href="#"><i class="fa-instagram fa-icons fa" aria-label="Instagram"></i></a> <a href="#"><i class="fa-behance fa-icons fa" aria-label="Behance"></i></a> <a href="#"><i class="fa-google-plus fa-icons fa" aria-label="Google Plus"></i></a> <a href="#"><i class="fa-youtube fa-icons fa" aria-label="YouTube"></i></a> <a href="#"><i class="fa-vimeo-square fa-icons fa" aria-label="Vimeo"></i></a> <a href="#"><i class="fa-linkedin fa-icons fa" aria-label="LinkedIn"></i></a></p>
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+		
+				</div>
+		
+			</div>
+		
+		</section>
+		<!-- /CONTACT -->
+	
+<!-- FOOTER -->
+		<footer class="footer text-uppercase">
+		
+			<div class="container">
+		
+				<div class="row">
+		
+					<div class="col-sm-12 text-center ">
+						<p class="copyright m-b-0">© 2015 <a href="index">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
+					</div>
+		
+				</div>
+		
+			</div>
+		
+		</footer>
+		<!-- /FOOTER -->
+
+	</div>
+	<!-- /WRAPPER -->
+
+	<!-- Scroll-up -->
+	<div class="scroll-up">
+		<a href="#totop"><i class="fa fa-angle-double-up"></i></a>
+	</div>
+	
+	<!-- Javascript files -->
+	<script src="../assets/js/jquery-2.1.3.min.js"></script>
+	<script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+	<script src="../assets/js/jquery.mb.YTPlayer.min.js"></script>
+	<script src="../assets/js/appear.js"></script>
+	<script src="../assets/js/jquery.simple-text-rotator.min.js"></script>
+	<script src="../assets/js/jqBootstrapValidation.js"></script>
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script src="../assets/js/gmaps.js"></script>
+	<script src="../assets/js/isotope.pkgd.min.js"></script>
+	<script src="../assets/js/imagesloaded.pkgd.js"></script>
+	<script src="../assets/js/jquery.flexslider-min.js"></script>
+	<script src="../assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="../assets/js/jquery.fitvids.js"></script>
+	<script src="../assets/js/smoothscroll.js"></script>
+	<script src="../assets/js/wow.min.js"></script>
+	<script src="../assets/js/contact.js"></script>
+	<script src="../assets/js/custom.js"></script>
+
 </body>
 </html>
