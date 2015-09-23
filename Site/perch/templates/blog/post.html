@@ -1,10 +1,10 @@
 <article class="post-entry">
-	<h1>
+	<h1 class="text-center">
         <a href="<perch:blog id="postURL" type="hidden" />" rel="bookmark" class="p-name">
             <perch:blog id="postTitle" type="text" label="Title" required="true" size="xl autowidth" order="1" />
         </a>
     </h1>
-    <div class="post-meta">
+    <div class="post-meta text-center">
 	    
 	    <p class="meta">
 		    <perch:if exists="authorGivenName">
@@ -37,9 +37,7 @@
 	</div>
 	
      <perch:if exists="image">
-        <div>
-            <img src="<perch:blog id="image" type="image" width="100%" height="auto" crop="true" label="Image" order="4" />" alt="<perch:blog id="postTitle" />" />
-        </div>
+            <img src="<perch:blog id="image" type="image" label="Image" order="4" />" alt="<perch:blog id="postTitle" />" />
     </perch:if>
     <span class="lead">
     	<perch:blog id="excerpt" type="textarea" label="Excerpt" markdown="true" order="3" size="s" />
