@@ -82,16 +82,17 @@
 
 							<article>
 
-								<p class="lead">Blessed with over a decade's worth of experience in working with brands to achieve their digital potential. We help clients achieve tangible results based on great design, UX and strategic planning.</p>
-
-<p>So why have a brand mascot? Mascots have been shown to act as brand spokespersons, with as many, if not more, followers across their social media pages than the brands they represent. They can help to build relationships with customers, without having them feel like they’re being sold to. It’s this relationship that can prove vital to your business. Mascots also have another thing going for them; they never age, they never go off brand, and they never ask for a pay rise!</p>
+								<p class="lead">We're creative digital agency founded on strategic thinking, technical knowhow and a thirst for customer satisfaction, over-delivering on our clients KPI's and expectations.</p>
+<p>A great idea is nothing without execution, and we have the people and experience to make things happen. We have more than a decade of experience delivering highly-effective digital communications for some of the biggest brands in the country, we use this expertise to scale ideas for businesses and charities of all shapes and sizes – Winning awards as we go. </p>
+<p>Creativitea has developed a team of trusted, experienced digital folk that adapt existing services, innovate and develop digital projects that cater for any budget. With creative thinking there's always a way!</p> 
 							</article>
 							<article>
-								<p>There's never been a time where your communication has to deliver on so many levels. Exposure to potential and new customers can come from anywhere in the digital spectrum which is why we work with clients to achieve this potential and balance their efforts.</p>
-								<p>As a brand this is what we recommend how to spread your efforts </p>
+								<p>At Creativitea, we collaboratively with our clients to deliver creative digital solutions that deliver results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to integrated campaigns on social media, mobile and advertising. 
+									
+								</p>
 							</article>
-							<article>
-								<!-- 
+							<!--<article>
+								 
 									<div class="col-sm-8">
 				
 										<h5 class="progress-title font-inc">Your Digital Communications</h5>
@@ -137,14 +138,14 @@
 										</div>
 				
 									</div>
-									 -->
-							</article>
+									 
+							</article>-->
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-2">
 							<article>
-								<p>So there's a fair bit to do and this is where we come in. Have a look at some of the other digital design services we provide below.</p>
+								<p>It's never been more important to engage with your audience via your digital channels. Get in touch if you have something you want to have a chat about regarding your digital world.</p>
 							</article>
 							<a href="portfolio" class="btn btn-g btn-round">View work</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
 					</div>
