@@ -148,7 +148,7 @@
 							<article>
 								<p>Fancy having a chat and getting your hands on some of our beautiful print design work?</p>
 							</article>
-							<a href="contact" class="btn btn-g btn-round">Contact Us</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
+							<a href="contact" class="btn btn-g btn-round">View work</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
 					</div>
 							
 						<!-- /POST -->
