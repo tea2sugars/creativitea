@@ -71,7 +71,7 @@
 
 				</div>
 				
-				<div class="multi-row">
+				<div class="multi-columns-row">
 					<div class="col-sml-6">
 						<h3>Brief</h3>
 						<p>We believe that a project's success can be judged on the quality of the design process. It all begins with a brief; whether you have a solid idea in mind or not, it's always good to talk about your vision over a cuppa. Whatever your requirements are, we'll work towards creating a bespoke, well-crafted and engaging solution.</p>
