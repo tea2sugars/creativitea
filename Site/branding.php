@@ -55,7 +55,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Branding & Visual Identity</h1>
+						<h1 class="module-title align-center">Branding & Visual Identity Design</h1>
 
 						<div class="module-subtitle align-center">
 							<p class="lead">The who, what and why of your business</p>

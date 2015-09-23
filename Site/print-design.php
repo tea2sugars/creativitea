@@ -46,7 +46,7 @@
 	<div class="wrapper">
 
 		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/digital_header.jpg">
+		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/print_general_header.jpg">
 
 			<div class="container">
 
@@ -58,7 +58,7 @@
 						<h1 class="module-title align-center">Print Design</h1>
 
 						<div class="module-subtitle align-center">
-							<p class="lead">Delivering your brand message instantly anywhere in the world.</p>
+							<p class="lead">The hands on experience of your brand.</p>
 							<a class="btn btn-lg btn-y btn-round" href="contact">Contact Us</a>
 
 						</div>
@@ -83,13 +83,14 @@
 
 							<article>
 
-								<p class="lead">Blessed with over a decade's worth of experience in working with brands to achieve their digital potential. We help clients achieve tangible results based on great design, UX and strategic planning.</p>
+								<p class="lead">With more things behind a screen of glass, it’s more important than ever to have that great experience of texture, smell and beautiful colours printed on amazing stock. Engaging design, coupled with high quality materials, can give you an impactful and competitive edge in today’s cluttered marketing space.</p>
 
-<p>So why have a brand mascot? Mascots have been shown to act as brand spokespersons, with as many, if not more, followers across their social media pages than the brands they represent. They can help to build relationships with customers, without having them feel like they’re being sold to. It’s this relationship that can prove vital to your business. Mascots also have another thing going for them; they never age, they never go off brand, and they never ask for a pay rise!</p>
+<p>With expertise in branding, advertising and retail design, we bring to life innovative ideas B2B/B2C brands need. Whether it be brochures, quality stationery, turn-head advertising or eye-catching point of sale, we will design and manage the production of your print products, leaving you with collateral that people want to pick up, read, keep, share and engage with.</p>
 							</article>
 							<article>
-								<p>There's never been a time where your communication has to deliver on so many levels. Exposure to potential and new customers can come from anywhere in the digital spectrum which is why we work with clients to achieve this potential and balance their efforts.</p>
-								<p>As a brand this is what we recommend how to spread your efforts </p>
+								<p>The right representation of your brand and how your brand is received by your audience is crucial. Inconsistencies with colours across your collateral can lead to people turning away from your brand and into the arms of others. This is why print management is crucial.</p>
+								<p>We use the best printers, the right materials and most off all, we deliver the consistency needed, on time. We have our own print-buying partner, going up on press and making sure that what is printed is correct and right for your brand. Working with clients to develop print specs to the best quality and within budgets, we also develop new inventive ways print can be used, combining stock, finishes and even incorporating digital applications to make it even more of a integrated experience.</p>
+								<p>If you’re looking to create something beautiful you can leave on your customers desk to show-off the brand they’re buying into, or something that will engage with your audiences further than just paper and ink; a corporate brochure, packaging or point of sale, we will learn what makes your brand special and create print that makes people want to talk about you and to you.</p>
 							</article>
 							<article>
 								<!-- 
@@ -145,9 +146,9 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-2">
 							<article>
-								<p>So there's a fair bit to do and this is where we come in. Have a look at some of the other digital design services we provide below.</p>
+								<p>Fancy having a chat and getting your hands on some of our beautiful print design work?</p>
 							</article>
-							<a href="portfolio" class="btn btn-g btn-round">View work</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
+							<a href="contact" class="btn btn-g btn-round">Contact Us</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
 					</div>
 							
 						<!-- /POST -->
@@ -158,6 +159,137 @@
 		</section>
 		
 				<!-- DIVIDER -->
+		<hr class="divider-w">
+		<!-- /DIVIDER -->
+		
+		<!-- PORTFOLIO -->
+		<section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
+			<div class="container-fluid">
+				<div class="row">
+					<h2 class="align-center">Some of our recent Branding Projects</h2>
+				</div>
+				<div class="row">
+					<!-- PORTFOLIO LIST -->
+					<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-5.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-1.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">CrawfordJames Website Design</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Responsive Website Design<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-4.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-3.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+		
+						<!-- PORTFOLIO ITEM -->
+						<li class="work-item marketing photography">
+							<a href="portfolio-single">
+								<div class="work-image">
+									<img src="assets/images/work-sample-2.jpg" alt="">
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">Bag MockUp</h3>
+									<div class="work-descr ">
+										<span class="yellow">–</span><br/>
+										Marketing<br/>
+										<button class="btn btn-y btn-round m-t-20">View project</button>
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+					
+		
+					</ul>
+				</div>
+			</div>
+			
+		</section>
+		<!-- /PORTFOLIO -->
+		
+		<!-- DIVIDER -->
 		<hr class="divider-w">
 		<!-- /DIVIDER -->
 		
