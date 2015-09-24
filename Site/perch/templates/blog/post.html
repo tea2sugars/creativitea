@@ -40,6 +40,11 @@
     <perch:if exists="extraImages">
     <img src="<perch:blog id="extraImages" type="image" width="100%" height="auto" crop="true" label="Additional Images" order="5" />" alt="<perch:blog id="postTitle" />" />
     </perch:if>
+    <perch:categories id="categories" set="blog" label="Categories" display-as="checkboxes">
+            <a href="archive.php?cat=<perch:category id="catSlug" type="slug" />" class="p-category">
+                <perch:category id="catTitle" type="text" />
+            </a>
+        </perch:categories>
     
 </article>
 
