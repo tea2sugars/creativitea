@@ -85,7 +85,7 @@
 							<div class="team-image">
 								<img src="assets/images/team/rik.png" alt="Rik Barwick">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Patagonia </h5>
+									<h5>Raises 4 Pigs, 6 Sheep, 2 Chickens, 1 Cat, 3 Children with Deb. All free-range. </h5>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -107,7 +107,7 @@
 							<div class="team-image">
 								<img src="assets/images/team-2.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Carhartt</h5>
+									<h5>Lloyd means "grey Man"in Welsh. He is going grey!</h5>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -129,7 +129,7 @@
 							<div class="team-image">
 								<img src="assets/images/team-3.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Lucasarts</h5>
+									<h5>Just self-published a childrens' book. The Lonely Hole</h5>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -172,7 +172,7 @@
 							<div class="team-image">
 								<img src="assets/images/team-4.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>White Stuff</h5>
+									<h5>Fell in love with Rik at 16</h5>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -193,7 +193,7 @@
 							<div class="team-image">
 								<img src="assets/images/team-4.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Adnams</h5>
+									<h5>Big fan of buhmuda shorts</h5>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -215,7 +215,7 @@
 							<div class="team-image">
 								<img src="assets/images/team-4.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Gents Pack</h5>
+									<h5>Loves a good package</h5>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -281,7 +281,7 @@
 							<div class="team-image">
 								<img src="assets/images/team-4.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Canon</h5>
+									<h5>Loves gravy on chips</h5>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -325,7 +325,7 @@
 							<div class="team-image">
 								<img src="assets/images/team-4.jpg" alt="">
 								<div class="team-detail">
-									<h5>Favorite Brand<br/>Google</h5>
+									<h5>Our SEO Welshman</h5>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
