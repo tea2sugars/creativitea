@@ -39,3 +39,7 @@ Place here your custom CSS styles
 	vertical-align: top;
 	min-height: 300px;
 	}
+
+.team-item {
+	min-height:200px;
+}
