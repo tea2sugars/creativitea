@@ -49,10 +49,10 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title font-alt align-center">About</h1>
+						<h1 class="module-title font-alt align-center">About Creativitea Design Studio</h1>
 
 						<div class="module-subtitle font-inc align-center">
-							A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.
+							Our Story
 						</div>
 
 					</div>
