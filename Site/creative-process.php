@@ -114,8 +114,8 @@
 				</div>
 				<div class="row">
 					<div class="portfolio-contact text-center">
-										<p class="lead">Do you have an idea you want to bring to life? We would love to hear from you.</p>
-										<a href="#" class="btn btn-y btn-round btn-lg">Contact Us</a>
+										<p class="lead">Do you have an idea you want to bring to life?<br/>We would love to hear from you.</p>
+										<a href="contact" class="btn btn-y btn-round btn-lg">Contact Us</a>
 					</div>
 				</div>
 
