@@ -77,10 +77,10 @@
 						<p>We believe that a project's success can be judged on the quality of the design process. It all begins with a brief; whether you have a solid idea in mind or not, it's always good to talk about your vision over a cuppa. Whatever your requirements are, we'll work towards creating a bespoke, well-crafted and engaging solution.</p>
 					</div>
 					<div class="col-sm-6">
-						image
+						<img src="assets/images/process_brief.gif" alt="process_brief" width="550" height="302">
 					</div>
 					<div class="col-sm-6">
-						image
+						<img src="assets/images/process_research.gif" alt="process_research" width="550" height="302">
 					</div>
 					<div class="col-sm-6">
 						<h3>Research</h3>
@@ -92,10 +92,10 @@
 <p>The studio team works together to envisage and share concepts, fully exploring each idea using wireframes, visuals and prototypes. Working this way helps us to push ideas further, to efficiently and imaginatively create a project solution. These concepts are presented to you to ensure we are headed in the right direction, before we get the green light to proceed with the execution stage.</p>
 					</div>
 					<div class="col-sm-6">
-						image
+						<img src="assets/images/process_ideas.gif" alt="process_ideas" width="550" height="302">
 					</div>
 					<div class="col-sm-6">
-						image
+						<img src="assets/images/process_development.gif" alt="process_development" width="550" height="302">
 					</div>
 					<div class="col-sm-6">
 						<h3>Development</h3>
@@ -106,7 +106,7 @@
 <p>We take great pride in our work, making certain that at the conclusion of the project our clients come away happy. Once the project has been launched there is an opportunity for us to gain feedback, make improvements and measure goals. This stage can also be the start of an ongoing creative partnership with tea*.</p>
 					</div>
 					<div class="col-sm-6">
-						image
+						<img src="assets/images/process_signoff.gif" alt="process_signoff" width="550" height="302">
 					</div>
 				</div>
 
