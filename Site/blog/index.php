@@ -106,7 +106,6 @@
 				 		perch_blog_recent_posts(12);
 					?>
 		    
-		    		<p><a href="archive.php">More posts</a></p>
 				</div>
 				
 	</section>

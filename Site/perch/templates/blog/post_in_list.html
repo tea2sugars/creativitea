@@ -2,7 +2,11 @@
 <div class="col-sm-6 col-md-4 col-lg-4">
     <div class="post">
         <div class="post-thumbnail">
-        	<perch:if exists="image"><img src="<perch:blog id="image" type="image" crop="true" />" alt="<perch:blog id="postTitle" />" /></perch:if>
+        	<perch:if exists="image">
+        		<a href="<perch:blog id="postURL" />">
+	        		<img src="<perch:blog id="image" type="image" crop="true" />" alt="<perch:blog id="postTitle" />" />
+	        	</a>
+	        </perch:if>
         </div>
         <div class="post-header">
         	<h2 class="post-title"><a href="<perch:blog id="postURL" />" rel="bookmark" class="entry-title"><perch:blog id="postTitle" /></a></h2>
