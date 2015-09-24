@@ -46,7 +46,7 @@
 	<div class="wrapper">
 
 		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/digital_header.jpg">
+		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/video_general_header.jpg">
 
 			<div class="container">
 
@@ -55,10 +55,10 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Digital Design</h1>
+						<h1 class="module-title align-center">Video Production & Animation</h1>
 
 						<div class="module-subtitle align-center">
-							<p class="lead">Delivering your brand message instantly anywhere in the world.</p>
+							<p class="lead">Beyond the still</p>
 							<a class="btn btn-lg btn-y btn-round" href="contact">Contact Us</a>
 
 						</div>
@@ -83,13 +83,15 @@
 
 							<article>
 
-								<p class="lead">Blessed with over a decade's worth of experience in working with brands to achieve their digital potential. We help clients achieve tangible results based on great design, UX and strategic planning.</p>
+								<p class="lead">Customer demands of information to be easy and quickly accessible is ever more present in the competitive market. So time can be money and the more time it takes for these consumers to find what it is they need from you website, email, point of sale or brochure, the less likely the are to buy your product or service.</p>
 
-<p>So why have a brand mascot? Mascots have been shown to act as brand spokespersons, with as many, if not more, followers across their social media pages than the brands they represent. They can help to build relationships with customers, without having them feel like they’re being sold to. It’s this relationship that can prove vital to your business. Mascots also have another thing going for them; they never age, they never go off brand, and they never ask for a pay rise!</p>
-							</article>
-							<article>
-								<p>There's never been a time where your communication has to deliver on so many levels. Exposure to potential and new customers can come from anywhere in the digital spectrum which is why we work with clients to achieve this potential and balance their efforts.</p>
-								<p>As a brand this is what we recommend how to spread your efforts </p>
+<p>With the increase of digital technologies and the use of video or motion within these, video and animation is more accessible for consumers, books can be condensed into 80 minute movie in the cinema, traditional retail window spaces of printed collateral are being replaced with LCD screen, reducing the potential production costs and delivery times, even outdoor spaces are using animation to get advertiser a better reach to there audiences.</p>
+
+<p>Video can extend your campaign and brand "beyond the still", it can have more of an impact on your audiences, making your messaging clearer, instant and more accessible. It will take longer but it is till a much quicker way of getting your message across than asking someone to read a brochure or go over your website.</p>
+
+<p>We will collaborate with you to create a great brand experience and guide you through the production process; from storyboarding and scripting to delivering a finished product you’ll be proud of and proud to share.</p>
+
+<p>So if you need a corporate video or presentation, showreel for an exhibition space, ad for social media or broadcast television, we work with individuals and businesses of all sizes to help bring there a stories to life on screen.</p>
 							</article>
 							<article>
 								<!-- SKILLS -->
