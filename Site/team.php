@@ -105,7 +105,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="assets/images/team-2.jpg" alt="">
+								<img src="assets/images/team/lloyd.png" alt="">
 								<div class="team-detail">
 									<h5>Lloyd means "grey Man"in Welsh. He is going grey!</h5>
 									<ul class="social-list">
@@ -127,7 +127,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="assets/images/team-3.jpg" alt="">
+								<img src="assets/images/team/rob.png" alt="">
 								<div class="team-detail">
 									<h5>Just self-published a childrens' book. The Lonely Hole</h5>
 									<ul class="social-list">
@@ -149,7 +149,7 @@
 					<div class="col-xs-6 col-sm-4 col-md-3 m-b-20 m-b-20">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="assets/images/team-4.jpg" alt="">
+								<img src="assets/images/team/michelle.png" alt="">
 								<div class="team-detail">
 									<h5>Favorite Brand<br/>Johnny Walker</h5>
 									<ul class="social-list">
