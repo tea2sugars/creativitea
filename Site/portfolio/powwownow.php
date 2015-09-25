@@ -46,7 +46,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Powwownow<br/><span class="small">Disruptive thinking for better brand communication</span></h1>
+						<h1 class="module-title align-center">Powwownow Branding<br/><span class="small">Disruptive thinking for better brand communication</span></h1>
 
 
 					</div>
