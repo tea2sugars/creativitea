@@ -37,7 +37,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/Pow_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-80" data-background="../assets/images/projects/Pow_general_header.jpg">
 
 			<div class="container">
 
@@ -88,7 +88,7 @@
 						<div class="work-details">
 							<ul>
 								<li><strong>Client: </strong>Powwownow</li>
-								<li><strong>Project: </strong>Branding, Visual Identity, Brand Guidelines & Disruption</li>
+								<li><strong>Project: </strong>Branding, Visual Identity, Brand Guidelines, Copywriting & Disruption</li>
 								<!--<li><strong>Online: </strong><a href="#" target="_blank">www.example.com</a></li>-->
 								<li><strong>Budget: </strong>£££££</li>
 								<!--<li><strong>Testimonial: </strong>
@@ -112,7 +112,7 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>Sometimes a business needs to look outside of its own walls to find the answers they need to take it further, getting the thoughts and ideas of others not associated with the company. We call this ‘ideas and distribution’.With there growing portfolio of voice and video conferencing services as well business growth, Powwownow approached us to help them review their current brand identity,  with the view of working together to explore new direction and help define their new ‘smarter working’ approach.</p>
+								<p>Sometimes a business needs to look outside of its own walls to find the answers they need to take it further, getting the thoughts and ideas of others not associated with the company. We call this ‘ideas and disruption’.With there growing portfolio of voice and video conferencing services as well business growth, Powwownow approached us to help them review their current brand identity,  with the view of working together to explore new direction and help define their new ‘smarter working’ approach.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
