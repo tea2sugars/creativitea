@@ -88,10 +88,10 @@
 						<div class="work-details">
 							<ul>
 								<li><strong>Client: </strong>FiveThree</li>
-								<li><strong>Project: </strong>Branding, Visual Identity, Stationary & Brand Guidelines</li>
+								<li><strong>Project: </strong>Branding, Visual Identity, Stationary, Website Design & Brand Guidelines</li>
 								<!--<li><strong>Online: </strong><a href="#" target="_blank">www.example.com</a></li>-->
 								<li><strong>Budget: </strong>££££</li>
-								<li><strong>Testimonal: </strong>
+								<li><strong>Testimonial: </strong>
 									<br/>
 									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking at Creativitea.</blockquote>
 									Michael Hockey <span class="yellow">|</span> Director
