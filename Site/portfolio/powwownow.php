@@ -37,7 +37,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-80" data-background="../assets/images/projects/Pow_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-20" data-background="../assets/images/projects/Pow_general_header.jpg">
 
 			<div class="container">
 
