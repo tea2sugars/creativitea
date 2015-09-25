@@ -46,7 +46,7 @@
 	<div class="wrapper">
 
 		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/ideas_general_header.jpg">
+		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/ideas_general_header.png">
 
 			<div class="container">
 

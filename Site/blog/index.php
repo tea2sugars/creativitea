@@ -40,7 +40,7 @@
 	</div>
 	<!-- /PRELOADER -->
 
-	<?php include('../assets/php/includes/nav-transparent.html');?>
+	<?php include('../assets/php/includes/nav-internal.html');?>
 
 
 	<!-- WRAPPER -->
