@@ -24,7 +24,7 @@
 	
 	<!-- Custom css -->
 	<link href="../assets/css/custom.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="..///cloud.typography.com/6440332/629266/css/fonts.css" />
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6440332/629266/css/fonts.css" />
 </head>
 <body>
 <!-- PRELOADER -->
@@ -40,7 +40,7 @@
 	<div class="wrapper">
 
 		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/portfolio-header.jpg">
+		<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/portfolio-header.jpg">
 
 			<div class="container">
 
@@ -54,7 +54,7 @@
 						<div class="module-subtitle align-center">
 							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							<div class="portfolio-contact">
-								<a href="../#" class="btn btn-y btn-round btn-lg">Contact Us</a>
+								<a href="#" class="btn btn-y btn-round btn-lg">Contact Us</a>
 							</div>
 						</div>
 
@@ -79,10 +79,10 @@
 
 						<ul id="filters" class="filter  hidden-xs">
 							<li><a href="#" data-filter="*" class="current wow fadeInUp">All</a></li>
-							<li><a href="#" data-filter=".illustration" class="wow fadeInUp" data-wow-delay="0.2s">Branding & Visual Identity</a></li>
-							<li><a href="#" data-filter=".marketing" class="wow fadeInUp" data-wow-delay="0.4s">Digital Design</a></li>
-							<li><a href="#" data-filter=".photography" class="wow fadeInUp" data-wow-delay="0.6s">Web Design</a></li>
-							<li><a href="#" data-filter=".webdesign" class="wow fadeInUp" data-wow-delay="0.8s">Print Design</a></li>
+							<li><a href="#" data-filter=".branding" class="wow fadeInUp" data-wow-delay="0.2s">Branding & Visual Identity</a></li>
+							<li><a href="#" data-filter=".digital" class="wow fadeInUp" data-wow-delay="0.4s">Digital Design</a></li>
+							<li><a href="#" data-filter=".webdesign" class="wow fadeInUp" data-wow-delay="0.6s">Web Design</a></li>
+							<li><a href="#" data-filter=".print" class="wow fadeInUp" data-wow-delay="0.8s">Print Design</a></li>
 							<li><a href="#" data-filter=".film" class="wow fadeInUp" data-wow-delay="0.8s">Film & Animation</a></li>
 
 						</ul>
@@ -97,7 +97,7 @@
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item illustration webdesign">
+				<li class="work-item branding webdesign">
 					<a href="fivethree">
 						<div class="work-image">
 							<img src="../assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding">
@@ -299,8 +299,8 @@
 			
 				<div class="pagination  text-uppercase">
 			
-					<a href="../#"><i class="fa fa-angle-left"></i> Prev</a>
-					<a href="../#">Next <i class="fa fa-angle-right"></i></a>
+					<a href="#"><i class="fa fa-angle-left"></i> Prev</a>
+					<a href="#">Next <i class="fa fa-angle-right"></i></a>
 			
 				</div>
 			
@@ -325,7 +325,7 @@
 							</div>
 							<div class="content-box-title table-display">
 								<div class="table-cell">
-									<h4><a href="../#">Branding</a></h4>
+									<h4><a href="#">Branding</a></h4>
 								</div>
 							</div>
 							<div class="content-box-text">
@@ -334,10 +334,10 @@
 							<div class="content-box-text">
 								<span class="yellow lead">–</span>
 								<ul>
-									<li><a href="../#">Digital Design</a></li>
-									<li><a href="../#">UX Design</a></li>
-									<li><a href="../#">Website Design & Development</a></li>
-									<li><a href="../#">Digital Marketing</a></li>
+									<li><a href="#">Digital Design</a></li>
+									<li><a href="#">UX Design</a></li>
+									<li><a href="#">Website Design & Development</a></li>
+									<li><a href="#">Digital Marketing</a></li>
 								</ul>
 							</div>
 						</div>
@@ -351,7 +351,7 @@
 							</div>
 							<div class="content-box-title table-display">
 								<div class="table-cell">
-									<h4><a href="../#">Digital & Website Design</a></h4>
+									<h4><a href="#">Digital & Website Design</a></h4>
 								</div>
 							</div>
 							<div class="content-box-text">
@@ -360,10 +360,10 @@
 							<div class="content-box-text">
 								<span class="yellow lead">–</span>
 								<ul>
-									<li><a href="../#">Digital Design</a></li>
-									<li><a href="../#">UX Design</a></li>
-									<li><a href="../#">Website Design & Development</a></li>
-									<li><a href="../#">Digital Marketing</a></li>
+									<li><a href="#">Digital Design</a></li>
+									<li><a href="#">UX Design</a></li>
+									<li><a href="#">Website Design & Development</a></li>
+									<li><a href="#">Digital Marketing</a></li>
 								</ul>
 							</div>
 						</div>
@@ -377,7 +377,7 @@
 							</div>
 							<div class="content-box-title table-display">
 								<div class="table-cell">
-									<h4><a href="../#">Print Design</a></h4>
+									<h4><a href="#">Print Design</a></h4>
 								</div>
 							</div>
 							<div class="content-box-text">
@@ -386,10 +386,10 @@
 							<div class="content-box-text">
 								<span class="yellow lead">–</span>
 								<ul>
-									<li><a href="../#">Digital Design</a></li>
-									<li><a href="../#">UX Design</a></li>
-									<li><a href="../#">Website Design & Development</a></li>
-									<li><a href="../#">Digital Marketing</a></li>
+									<li><a href="#">Digital Design</a></li>
+									<li><a href="#">UX Design</a></li>
+									<li><a href="#">Website Design & Development</a></li>
+									<li><a href="#">Digital Marketing</a></li>
 								</ul>
 							</div>
 						</div>
@@ -403,7 +403,7 @@
 							</div>
 							<div class="content-box-title table-display">
 								<div class="table-cell">
-									<h4><a href="../#">Motion Design & Animation</a></h4>
+									<h4><a href="#">Motion Design & Animation</a></h4>
 								</div>
 							</div>
 							<div class="content-box-text">
@@ -412,10 +412,10 @@
 							<div class="content-box-text">
 								<span class="yellow lead">–</span>
 								<ul>
-									<li><a href="../#">Digital Design</a></li>
-									<li><a href="../#">UX Design</a></li>
-									<li><a href="../#">Website Design & Development</a></li>
-									<li><a href="../#">Digital Marketing</a></li>
+									<li><a href="#">Digital Design</a></li>
+									<li><a href="#">UX Design</a></li>
+									<li><a href="#">Website Design & Development</a></li>
+									<li><a href="#">Digital Marketing</a></li>
 								</ul>
 							</div>
 						</div>
@@ -509,7 +509,7 @@
 								<h5>Be social</h5>
 							</div>
 							<div class="content-box-text">
-								<p class="lead"><a href="../#"><i class="fa-twitter fa-icons fa" aria-label="Twitter"></i></a> <a href="../#"><i class="fa-facebook fa-icons fa" aria-label="Facebook"></i></a> <a href="../#"><i class="fa-instagram fa-icons fa" aria-label="Instagram"></i></a> <a href="../#"><i class="fa-behance fa-icons fa" aria-label="Behance"></i></a> <a href="../#"><i class="fa-google-plus fa-icons fa" aria-label="Google Plus"></i></a> <a href="../#"><i class="fa-youtube fa-icons fa" aria-label="YouTube"></i></a> <a href="../#"><i class="fa-vimeo-square fa-icons fa" aria-label="Vimeo"></i></a> <a href="../#"><i class="fa-linkedin fa-icons fa" aria-label="LinkedIn"></i></a></p>
+								<p class="lead"><a href="#"><i class="fa-twitter fa-icons fa" aria-label="Twitter"></i></a> <a href="#"><i class="fa-facebook fa-icons fa" aria-label="Facebook"></i></a> <a href="#"><i class="fa-instagram fa-icons fa" aria-label="Instagram"></i></a> <a href="#"><i class="fa-behance fa-icons fa" aria-label="Behance"></i></a> <a href="#"><i class="fa-google-plus fa-icons fa" aria-label="Google Plus"></i></a> <a href="#"><i class="fa-youtube fa-icons fa" aria-label="YouTube"></i></a> <a href="#"><i class="fa-vimeo-square fa-icons fa" aria-label="Vimeo"></i></a> <a href="#"><i class="fa-linkedin fa-icons fa" aria-label="LinkedIn"></i></a></p>
 							</div>
 						</div>
 					</div>
@@ -530,7 +530,7 @@
 				<div class="row">
 		
 					<div class="col-sm-12 text-center ">
-						<p class="copyright m-b-0">© 2015 <a href="../index">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="../#">Privacy Statement</a></p>
+						<p class="copyright m-b-0">© 2015 <a href="../index">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="#">Privacy Statement</a></p>
 					</div>
 		
 				</div>
@@ -545,27 +545,27 @@
 
 	<!-- Scroll-up -->
 	<div class="scroll-up">
-		<a href="../#totop"><i class="fa fa-angle-double-up"></i></a>
+		<a href="#totop"><i class="fa fa-angle-double-up"></i></a>
 	</div>
 	
 	<!-- Javascript files -->
-	<script src="assets/js/jquery-2.1.3.min.js"></script>
-	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
-	<script src="assets/js/jquery.mb.YTPlayer.min.js"></script>
-	<script src="assets/js/appear.js"></script>
-	<script src="assets/js/jquery.simple-text-rotator.min.js"></script>
-	<script src="assets/js/jqBootstrapValidation.js"></script>
+	<script src="../assets/js/jquery-2.1.3.min.js"></script>
+	<script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+	<script src="../assets/js/jquery.mb.YTPlayer.min.js"></script>
+	<script src="../assets/js/appear.js"></script>
+	<script src="../assets/js/jquery.simple-text-rotator.min.js"></script>
+	<script src="../assets/js/jqBootstrapValidation.js"></script>
 	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-	<script src="assets/js/gmaps.js"></script>
-	<script src="assets/js/isotope.pkgd.min.js"></script>
-	<script src="assets/js/imagesloaded.pkgd.js"></script>
-	<script src="assets/js/jquery.flexslider-min.js"></script>
-	<script src="assets/js/jquery.magnific-popup.min.js"></script>
-	<script src="assets/js/jquery.fitvids.js"></script>
-	<script src="assets/js/smoothscroll.js"></script>
-	<script src="assets/js/wow.min.js"></script>
-	<script src="assets/js/contact.js"></script>
-	<script src="assets/js/custom.js"></script>
+	<script src="../assets/js/gmaps.js"></script>
+	<script src="../assets/js/isotope.pkgd.min.js"></script>
+	<script src="../assets/js/imagesloaded.pkgd.js"></script>
+	<script src="../assets/js/jquery.flexslider-min.js"></script>
+	<script src="../assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="../assets/js/jquery.fitvids.js"></script>
+	<script src="../assets/js/smoothscroll.js"></script>
+	<script src="../assets/js/wow.min.js"></script>
+	<script src="../assets/js/contact.js"></script>
+	<script src="../assets/js/custom.js"></script>
 
 </body>
 </html>
