@@ -37,7 +37,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-90" data-background="../assets/images/projects/Pow_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/Pow_general_header.jpg">
 
 			<div class="container">
 
@@ -46,7 +46,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Powwownow<br/><span class="small">Teaching a communication company how to communicate through better branding.</span></h1>
+						<h1 class="module-title align-center">Powwownow<br/><span class="small">Disruptive thinking for better brand communication</span></h1>
 
 
 					</div>

@@ -121,7 +121,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">Powwownow Branding</h3>
 							<div class="work-descr ">
-								Teaching a communications company how to communicate their brand
+								Disruptive thinking for better brand communication
 							</div>
 						</div>
 					</a>
