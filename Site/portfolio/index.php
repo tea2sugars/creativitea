@@ -164,7 +164,7 @@
 				<li class="work-item print branding">
 					<a href="gentspack">
 						<div class="work-image">
-							<img src="../assets/images/projects/Gents_portfolio_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging">
+							<img src="../assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging">
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">Gents Pack</h3>
