@@ -144,13 +144,13 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="<img src="../assets/images/projects/53_portfolio_01.jpg" alt="53_portfolio_01" width="700" height="400">" alt="Brand Stationary"></p>
+						<p><img src="../assets/images/projects/53_portfolio_02.jpg" alt="53_portfolio_01"></p>
 						<p><img src="../assets/images/projects/53_portfolio_03.jpg" alt="Brand Stationary"></p>
 						<p><img src="../assets/images/projects/53_portfolio_04.jpg" alt="Brand Guidelines"></p>
 						<p><img src="../assets/images/projects/53_portfolio_05.jpg" alt="Website Design and Development"></p>
 						<p><img src="../assets/images/projects/53_portfolio_06.jpg" alt="Website Design and Development"></p>
 						<p><img src="../assets/images/projects/53_portfolio_07.jpg" alt="Brand Guidelines - How to use the logo"></p>
-						<p><img src="../assets/images/projects/53_portfolio_028.jpg" alt="Brand Guidelines - Typography Treatment"></p>
+						<p><img src="../assets/images/projects/53_portfolio_08.jpg" alt="Brand Guidelines - Typography Treatment"></p>
 
 
 
