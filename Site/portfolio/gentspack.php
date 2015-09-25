@@ -47,7 +47,7 @@
 					<div class="col-sm-6 col-sm-offset-3">
 
 						<h1 class="module-title align-center">Gents Pack Branding and Packaging<br/>
-							<span class="small">Giving gentlemen a more refined package</span></h1>
+							<span class="small">A more refined package</span></h1>
 
 
 					</div>
