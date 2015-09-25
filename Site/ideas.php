@@ -46,7 +46,7 @@
 	<div class="wrapper">
 
 		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/digital_header.jpg">
+		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/ideas_general_header.jpg">
 
 			<div class="container">
 
@@ -58,8 +58,8 @@
 						<h1 class="module-title align-center">Ideas and Disruption</h1>
 
 						<div class="module-subtitle align-center">
-							<p class="lead">Working with you to create ideas, concepts and to stir the pot</p>
-							<a class="btn btn-lg btn-y btn-round" href="contact">Get in touch to discuss your project</a>
+							<p class="lead">Working with you to create ideas, concepts and to disrupt.</p>
+							<a class="btn btn-lg btn-y btn-round" href="contact">Get in touch to discuss your ideas</a>
 
 						</div>
 					</div>
@@ -82,15 +82,11 @@
 
 							<article>
 
-								<p class="lead">We're a creative digital agency founded on creative thinking, technical knowhow and a thirst for customer satisfaction, over-delivering on our clients KPI's and expectations.</p>
+								<p class="lead">"It's how it's always been done", "We don't know what needs to be done", phrases we often hear when working with companies. Sometimes you can't see the wood through the trees and that's not your fault. Sometimes t takes fresh eyes to make you realise what needs doing.</p>
+								<p>We're often called into businesses to discuss problems with branding or marketing activity and sometimes the problem lies deeper. You don't always see it as it takes a new approach or the right questions to be asked to expose what needs doing. It's called disruption. Changing what is always done.
 <p>A great idea is nothing without execution, and we have the people and experience to make things happen. We have more than a decade of experience delivering highly-effective digital communications for some of the biggest brands in the country, we use this expertise to scale ideas for businesses and charities of all shapes and sizes – Winning awards as we go. </p>
-<p>Creativitea has developed a team of trusted, experienced digital folk that adapt existing services, innovate and develop digital projects that cater for any budget. With creative thinking there's always a way!</p> 
 							</article>
-							<article>
-								<p>At Creativitea, we collaboratively with our clients to deliver creative digital solutions that deliver results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to integrated campaigns on social media, mobile and advertising. 
-									
-								</p>
-							</article>
+						
 							<!--<article>
 								 
 									<div class="col-sm-8">

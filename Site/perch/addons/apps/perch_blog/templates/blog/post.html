@@ -11,11 +11,7 @@
 		<perch:if exists="authorGivenName">
             by <span class="p-author h-card"><perch:blog id="authorGivenName" type="hidden" /> <perch:blog id="authorFamilyName" type="hidden" /></span>
         </perch:if>    
-        <perch:categories id="categories" set="blog" label="Categories" display-as="checkboxes">
-            <a href="archive.php?cat=<perch:category id="catSlug" type="slug" />" class="p-category">
-                <perch:category id="catTitle" type="text" />
-            </a>
-        </perch:categories>
+        
     
 	</p>
     <perch:if exists="image">
@@ -29,4 +25,9 @@
 </article>
 
 <perch:blog id="excerpt" type="textarea" label="Excerpt" markdown="true" order="3" suppress="true" size="s" />
-<perch:blog id="image" type="image" width="50" height="50" crop="true" suppress="true" />
+<perch:blog id="image" type="image" width="50" height="50" crop="true" suppress="true" />]
+<perch:categories id="categories" set="blog" label="Categories" display-as="checkboxes" suppress="true">
+            <a href="archive.php?cat=<perch:category id="catSlug" type="slug" />" class="p-category">
+                <perch:category id="catTitle" type="text" />
+            </a>
+        </perch:categories>
