@@ -229,40 +229,40 @@
 
 				<div class="row">
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.png" alt="client name"/>
+						<img src="assets/images/logo1.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo2.png" alt="client name"/>
+						<img src="assets/images/logo2.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo3.png" alt="client name"/>
+						<img src="assets/images/logo3.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.png" alt="client name"/>
+						<img src="assets/images/logo1.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo3.png" alt="client name"/>
+						<img src="assets/images/logo3.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo2.png" alt="client name"/>
+						<img src="assets/images/logo2.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.png" alt="client name"/>
+						<img src="assets/images/logo1.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo3.png" alt="client name"/>
+						<img src="assets/images/logo3.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.png" alt="client name"/>
+						<img src="assets/images/logo1.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo2.png" alt="client name"/>
+						<img src="assets/images/logo2.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.png" alt="client name"/>
+						<img src="assets/images/logo1.gif" alt="client name"/>
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo2.png" alt="client name"/>
+						<img src="assets/images/logo2.gif" alt="client name"/>
 					</article>
 					
 				</div>
@@ -316,21 +316,24 @@
 	<script src="assets/js/jquery-2.1.3.min.js"></script>
 	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
 	<script src="assets/js/jquery.mb.YTPlayer.min.js"></script>
-	<script src="assets/js/appear.js"></script>
+	
 	<script src="assets/js/jquery.simple-text-rotator.min.js"></script>
 	<script src="assets/js/jqBootstrapValidation.js"></script>
 
-	<script src="assets/js/isotope.pkgd.min.js"></script>
-	<script src="assets/js/imagesloaded.pkgd.js"></script>
 	
 	
-	<script src="assets/js/smoothscroll.js"></script>
-	<script src="assets/js/wow.min.js"></script>
+	
+	
 	<!--<script src="assets/js/contact.js"></script>
+		<script src="assets/js/wow.min.js"></script>
+		<script src="assets/js/isotope.pkgd.min.js"></script>
+	<script src="assets/js/imagesloaded.pkgd.js"></script>
 	<script src="assets/js/jquery.flexslider-min.js"></script>	
+	<script src="assets/js/appear.js"></script>
 	
 	<script src="assets/js/jquery.fitvids.js"></script>
-	<script src="assets/js/gmaps.js"></script>
+		<script src="assets/js/smoothscroll.js"></script>
+
 	<script src="assets/js/jquery.magnific-popup.min.js"></script>
 	<script src="assets/js/gmaps.js"></script>
 	-->
