@@ -28,6 +28,10 @@ Header set Cache-Control "proxy-revalidate, max-age=160704000"
 Header set Cache-Control "proxy-revalidate, max-age=36288000"
 </FilesMatch>
 
+<FilesMatch "\.(https://s3-eu-west-1.amazonaws.com/share.typeform.com/share.js)$">
+Header set Cache-Control "proxy-revalidate, max-age=964224000"
+</FilesMatch>
+
 ####################
 # GZIP COMPRESSION #
 ####################
