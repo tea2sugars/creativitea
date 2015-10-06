@@ -20,7 +20,6 @@
 
 </IfModule>
 
-//Caching schema
 <FilesMatch "\.(js)$">
 Header set Cache-Control "max-age=321408000"
 </FilesMatch>
