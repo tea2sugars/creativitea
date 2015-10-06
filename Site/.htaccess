@@ -19,3 +19,8 @@
     RewriteRule ^blog/tag/([a-zA-Z0-9-/]+)$ /blog/archive.php?tag=$1 [L]
 
 </IfModule>
+
+//Caching schema
+<FilesMatch "\.(js)$">
+Header set Cache-Control "max-age=321408000"
+</FilesMatch>
