@@ -28,11 +28,7 @@
 </head>
 <body>
 
-	<!-- PRELOADER -->
-	<div class="page-loader">
-		<div class="loader">Brewing...</div>
-	</div>
-	<!-- /PRELOADER -->
+
 
 	<?php include('assets/php/includes/nav-transparent.html');?>
 
