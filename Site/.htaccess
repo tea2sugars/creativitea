@@ -23,3 +23,7 @@
 <FilesMatch "\.(js)$">
 Header set Cache-Control "max-age=321408000"
 </FilesMatch>
+
+<FilesMatch "\.(jpg|gif|png|css)$">
+Header set Cache-Control "max-age=86400"
+</FilesMatch>
