@@ -1,10 +1,12 @@
 <?php include('../perch/runtime.php'); ?>
+<?php $excerpt = strip_tags(perch_blog_post_field(perch_get('s'), 'excerpt', true));?>
+<?php $postTitle = strip_tags(perch_blog_post_field(perch_get('s'), 'postTitle', true));?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<?php $excerpt = strip_tags(perch_blog_post_field(perch_get('s'), 'excerpt, postTitle', true));?>
+	
 	<meta name="description" content="<?php echo $excerpt ?>"/>
 	<meta name="author" content="">
 	
