@@ -4,10 +4,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="<?php perch_blog_post('Excerpt'); ?>">
+	<meta name="description" content="<?php perch_blog_post('excerpt');?>">
 	<meta name="author" content="">
 	
-	<title><?php perch_blog_post('postTitle'); ?> - Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title><?php perch_blog_post('postTitle');?> - Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>	
 	<!--Share widget-->
