@@ -4,10 +4,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="<perch:blog id="excerpt" type="textarea" label="Excerpt" markdown="true" order="3" size="s" />">
 	<meta name="author" content="">
 	
-	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title><perch:blog id="postTitle" type="text" label="Title" required="true" size="xl autowidth" order="1" /> - Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>	
 	<!--Share widget-->
@@ -60,27 +60,8 @@
 		<hr class="divider-w">
 		<!-- /DIVIDER -->
 	
-		<?php include('../assets/php/includes/footer-services.html');?>
-		<?php include('../assets/php/includes/footer-contact.html');?>
-	
-	<!-- Javascript files -->
-	<script src="../assets/js/jquery-2.1.3.min.js"></script>
-	<script src="../assets/bootstrap/js/bootstrap.min.js"></script>
-	<script src="../assets/js/jquery.mb.YTPlayer.min.js"></script>
-	<script src="../assets/js/appear.js"></script>
-	<script src="../assets/js/jquery.simple-text-rotator.min.js"></script>
-	<script src="../assets/js/jqBootstrapValidation.js"></script>
-	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-	<script src="../assets/js/gmaps.js"></script>
-	<script src="../assets/js/isotope.pkgd.min.js"></script>
-	<script src="../assets/js/imagesloaded.pkgd.js"></script>
-	<script src="../assets/js/jquery.flexslider-min.js"></script>
-	<script src="../assets/js/jquery.magnific-popup.min.js"></script>
-	<script src="../assets/js/jquery.fitvids.js"></script>
-	<script src="../assets/js/smoothscroll.js"></script>
-	<script src="../assets/js/wow.min.js"></script>
-	<script src="../assets/js/contact.js"></script>
-	<script src="../assets/js/custom.js"></script>
-
+		<?php include('assets/php/includes/footer-services.html');?>
+		<?php include('assets/php/includes/footer-contact.html');?>
+		<?php include('assets/php/includes/foot-scripts.html');?>
 </body>
 </html>
