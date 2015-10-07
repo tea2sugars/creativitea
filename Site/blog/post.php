@@ -62,6 +62,6 @@
 	
 		<?php include('assets/php/includes/footer-services.html');?>
 		<?php include('assets/php/includes/footer-contact.html');?>
-		<?php include('assets/php/includes/foot-scripts.html');?>
+		<?php include('assets/php/includes/foot-scripts-internal.html');?>
 </body>
 </html>
