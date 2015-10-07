@@ -20,13 +20,8 @@
 	
 </head>
 <body>
-<!-- PRELOADER -->
-	<div class="page-loader">
-		<div class="loader">Brewing...</div>
-	</div>
-	<!-- /PRELOADER -->
 
-	<?php include('../assets/php/includes/nav-internal.html');?>
+<?php include('../assets/php/includes/nav-internal.html');?>
 
 <!-- WRAPPER -->
 	<div class="wrapper">
@@ -63,8 +58,27 @@
 		<hr class="divider-w">
 		<!-- /DIVIDER -->
 	
-		<?php include('assets/php/includes/footer-services.html');?>
-		<?php include('assets/php/includes/footer-contact.html');?>
-		<?php include('assets/php/includes/foot-scripts-internal.html');?>
+		<?php include('../assets/php/includes/footer-services.html');?>
+		<?php include('../assets/php/includes/footer-contact.html');?>
+	
+	<!-- Javascript files -->
+	<script src="../assets/js/jquery-2.1.3.min.js"></script>
+	<script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+	<script src="../assets/js/jquery.mb.YTPlayer.min.js"></script>
+	<script src="../assets/js/appear.js"></script>
+	<script src="../assets/js/jquery.simple-text-rotator.min.js"></script>
+	<script src="../assets/js/jqBootstrapValidation.js"></script>
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script src="../assets/js/gmaps.js"></script>
+	<script src="../assets/js/isotope.pkgd.min.js"></script>
+	<script src="../assets/js/imagesloaded.pkgd.js"></script>
+	<script src="../assets/js/jquery.flexslider-min.js"></script>
+	<script src="../assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="../assets/js/jquery.fitvids.js"></script>
+	<script src="../assets/js/smoothscroll.js"></script>
+	<script src="../assets/js/wow.min.js"></script>
+	<script src="../assets/js/contact.js"></script>
+	<script src="../assets/js/custom.js"></script>
+
 </body>
 </html>
