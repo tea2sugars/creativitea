@@ -8,23 +8,12 @@
 	
 	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
 	
-	<!-- Bootstrap core CSS -->
-	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<?php include('assets/php/includes/head-css.html');?>
 	
-	<!-- Plugins -->
-	<link href="assets/css/theme.css" rel="stylesheet">
-	<link href="assets/css/font-awesome.min.css" rel="stylesheet">
-	
-	<!-- Template core CSS -->
-	<link href="assets/css/style.css" rel="stylesheet">
-	
-	<!-- Custom css -->
-	<link href="assets/css/custom.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6440332/629266/css/fonts.css" />
 </head>
 <body>
 
-
+	
 
 	<?php include('assets/php/includes/nav-transparent.html');?>
 
@@ -310,34 +299,12 @@
 		
 		<?php include('assets/php/includes/footer-services.html');?>
 		<?php include('assets/php/includes/footer-contact.html');?>
-		
-	
-	<!-- Javascript files -->
-	<script src="assets/js/jquery-2.1.3.min.js"></script>
-	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
-	<script src="assets/js/jquery.mb.YTPlayer.min.js"></script>
-	<script src="assets/js/jquery.simple-text-rotator.min.js"></script>
-	<script src="assets/js/jqBootstrapValidation.js"></script>
-	<script src="assets/js/imagesloaded.pkgd.js"></script>
+		<?php include('assets/php/includes/foot-scripts.html');?>
 	
 	
-	
-	
-	<!--<script src="assets/js/contact.js"></script>
-		<script src="assets/js/wow.min.js"></script>
-		<script src="assets/js/isotope.pkgd.min.js"></script>
-	
-	<script src="assets/js/jquery.flexslider-min.js"></script>	
-	<script src="assets/js/appear.js"></script>
-	
-	<script src="assets/js/jquery.fitvids.js"></script>
-		<script src="assets/js/smoothscroll.js"></script>
-
-	<script src="assets/js/jquery.magnific-popup.min.js"></script>
-	<script src="assets/js/gmaps.js"></script>
-	-->
-	<script src="assets/js/custom.js"></script>
-	<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
 
 </body>
+
+
+
 </html>
