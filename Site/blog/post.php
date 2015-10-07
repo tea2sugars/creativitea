@@ -10,7 +10,7 @@
 	<meta name="description" content="<?php echo $excerpt ?>"/>
 	<meta name="author" content="">
 	
-	<title><?php echo $postTitle ?> - Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title><?php echo $postTitle ?> - Design Blog by Creativitea</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>	
 	<!--Share widget-->
