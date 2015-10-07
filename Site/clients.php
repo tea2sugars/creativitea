@@ -18,11 +18,6 @@
 	
 </head>
 <body>
-<!-- PRELOADER -->
-	<div class="page-loader">
-		<div class="loader">Brewing...</div>
-	</div>
-	<!-- /PRELOADER -->
 
 	<?php include('assets/php/includes/nav-fixed.html');?>
 
@@ -40,19 +35,15 @@
 				<div class="row">
 
 					<div class="col-sm-8 col-sm-offset-2">
-						<h1>Creative design solutions for clients of all sizes</h1>
+						<h1>Creative design solutions for clients of all shapes and sizes</h1>
 						<!-- POST -->
 						<div class="post">
 
 							<article class="post-entry">
 
-								<p class="lead">Creativitea™ is an independently run creative design studio co-founded by Rik Barwick and Lloyd Bedford</p>
+								<p class="lead">We have had the pleasure of working with some great
+brands, organisations and people from all over the world.</p>
 
-<p>We offer a wide range of integrated services. These including Graphic & Digital Design, Brand Identity, Strategy and Motion Graphics. Our mission to produce beautiful graphic design on both the digital and traditional platforms. We work with our clients to deliver engaging creative work that delivers against our clients key performance indicators.</p>
-
-<p>Our approach is simple: We get to know our clients and how they want to present themselves to the world. And by working to understand their audiences and KPI's we create relevant creative content with them.</p>
-
-<p>By combining aptitude, originality and inspiration within the studio. We produce a melting pot of ideas and new directions for our clients.</p>
 							</article>
 							
 						</div>
@@ -61,11 +52,206 @@
 					</div>
 
 				</div>
+				
+				<div class="row">
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo2.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo3.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo3.gif" alt="logo1" width="160" height="95">
+					</article>
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo2.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo2.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo3.gif" alt="logo1" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					</article>
+				</div>
 
 			</div>
 
 		</section>
 		<!-- /BLOG SINGLE -->
+		
+		<section id="industries" class="module-small dark-section">
+			<div class="container ">
+				<div class="row">
+					<h2 class="text-center">Industry Experience since 2008</h2>
+					<p class="text-center lead">Over the years we've had the pleasure in working with clients on rosters, retainers & individual projects.</p>
+				</div>
+				<div class="row">
+					<article class="col-sm-3 m-b-10">
+						<h4>Retail & Fashion</h4>
+						<ul>
+							<li>Dixons Carphone</li>
+							<li>The Entertainer</li>
+							<li>Natterjacks.com</li>
+							<li>The Gents Pack</li>
+							<li>Decade Skateboarding</li>
+							<li>Nike</li>
+							<li>Dragonfli</li>
+						</ul>
+					</article>
+					<article class="col-sm-3 m-b-10">
+						<h4>Telecomms</h4>
+						<ul>
+							<li>The Carphone Warehouse</li>
+							<li>Talkmobile</li>
+							<li>iD Mobile</li>
+							<li>Sprint Mobile</li>
+							<li>Tesco Mobile</li>
+							<li>Lyca Mobile</li>
+							<li>Vectone Mobile</li>
+						</ul>
+					</article>
+					<article class="col-sm-3 m-b-10">
+						<h4>Entertainment</h4>
+						<ul>
+							<li>Channel 4</li>
+							<li>Freeview</li>
+							<li>Crawford James</li>
+							<li>Perfect Havoc</li>
+							<li>Orchid Events</li>
+							<li>Conquest Medieval Combat</li>
+						</ul>
+					</article>
+					<article class="col-sm-3 m-b-10">
+						<h4>Technology</h4>
+						<ul>
+							<li>Geek Squad</li>
+							<li>Corsaire</li>
+							<li>S4NITY</li>
+							<li>Media Devil</li>
+							<li>R8lst</li>
+						</ul>	
+					</article>
+					
+					
+				</div>
+				<div class="row">
+					<article class="col-sm-3 m-b-10">
+						<h4>Food & Drink</h4>
+							<ul>
+								<li>Tante Marie Culinary Academy</li>
+								<li>The Restaurant at Tante Marie</li>
+								<li>Domenico Pizza</li>
+								<li>Kiss Mix</li>
+								<li>Pit & Swallow BBQ</li>
+							</ul>
+					</article>
+				
+				<article class="col-sm-3 m-b-10">
+						<h4>Tech Start-ups</h4>
+							<ul>
+								<li>Powwownow</li>
+								<li>Buyapowa</li>
+								<li>Powa</li>
+								<li>Carphone World Services</li>
+								<li>Total Imaging</li>
+							</ul>
+				</article>
+				<article class="col-sm-3 m-b-10">
+						<h4>Creative Agencies</h4>
+							<ul>
+								<li>Publicis</li>
+								<li>AllOfUs</li>
+								<li>WDMP</li>
+								<li>Jarbrain</li>
+								<li>FiveThree</li>
+							</ul>
+				</article>
+				<article class="col-sm-3 m-b-10">
+						<h4>Charities</h4>
+						<ul>
+							<li>The Surrey Youth Focus</li>
+							<li>Communilab</li>
+							<li>The Surrey Mediation Society</li>
+							<li>Treehouse Foundation</li>
+							<li>Community Foundation For Surrey</li>
+						</ul>
+						
+					</article>
+				
+				</div>
+				<div class="row">
+					<article class="col-sm-3 m-b-10">
+						<h4>Gaming</h4>
+							<ul>
+								<li>Electronic Arts</li>
+								<li>Atari Games</li>
+								<li>Trion Worlds</li>
+								<li>Activision</li>
+							</ul>
+				</article>
+					
+					
+					<article class="col-sm-3 m-b-10">
+						<h4>Science & Pharmaceuticals</h4>
+						<ul>
+							<li>Glaxo Smith Kline</li>
+							<li>Maxinutrition</li>
+							<li>Thermo Fisher</li>
+							<li>Life Technologies</li>
+						</ul>
+					</article>
+					<article class="col-sm-3 m-b-10">
+						<h4>Wholesale</h4>
+						<ul>
+							<li>Penta Foods</li>
+							<li>Titan Cases</li>
+							<li>CP Cases</li>
+							<li>Marchon</li>
+						</ul>
+					</article>
+					<article class="col-sm-3 m-b-10">
+						<h4>Professional Services</h4>
+						<ul>
+							<li>Castle Partnership</li>
+							<li>Acasta Consulting</li>
+							<li>Gough Square</li>
+						</ul>
+					</article>
+				</div>
+				
+						
+				
+			</div>
+			
+		</section>
 		
 		<!-- DIVIDER -->
 		<hr class="divider-w">
