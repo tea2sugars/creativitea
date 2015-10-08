@@ -251,7 +251,67 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-<!-- PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item marketing webdesign">
+					<a href="../ portfolio-single">
+						<div class="work-image">
+							<img src="assets/images/work-2.jpg" alt="">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<div class="work-descr ">
+								Marketing
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item marketing webdesign">
+					<a href="../ portfolio-single">
+						<div class="work-image">
+							<img src="assets/images/work-2.jpg" alt="">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<div class="work-descr ">
+								Marketing
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item marketing webdesign">
+					<a href="../ portfolio-single">
+						<div class="work-image">
+							<img src="assets/images/work-2.jpg" alt="">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<div class="work-descr ">
+								Marketing
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item marketing webdesign">
+					<a href="../ portfolio-single">
+						<div class="work-image">
+							<img src="assets/images/work-2.jpg" alt="">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<div class="work-descr ">
+								Marketing
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
 				<li class="work-item marketing webdesign">
 					<a href="../ portfolio-single">
 						<div class="work-image">
