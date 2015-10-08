@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	
-	<title>5mm.co Website for Interior Design Consultancy | Creativitea - A digital design agency | London, Guildford, Suffolk</title>
+	<title>Buyapowa B2B Website for Social Commerce Startup | Creativitea - A digital design agency | London, Guildford, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/5mm_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/buyapowa_general_header.jpg">
 
 			<div class="container">
 
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">5mm Interior Design Responsive Website design<br/><span class="small">Using the browser as a tool to deliver stunning imagery</span></h1>
+						<h1 class="module-title align-center">Buyapowa Responsive Website<br/><span class="small">B2B doesn't have to be boring!</span></h1>
 
 
 					</div>
@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/5mm_portfolio_03.jpg" alt="5mm Responsive Website Design"></p>
+						<p><img src="../assets/images/projects/buyapowa_portfolio_01.jpg" alt="Buyapowa Responsive Website Design"></p>
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -66,15 +66,15 @@
 					<div class="col-md-4">
 						<div class="work-details">
 							<ul>
-								<li><strong>Client: </strong>5mm</li>
-								<li><strong>Project: </strong>Responsive Website Design & Development, Bootstrap, Perch CMS</li>
-								<li><strong>Online: </strong><a href="http:www.5mm.co" target="_blank">www.5mm.co</a></li>
+								<li><strong>Client: </strong>Buyapowa</li>
+								<li><strong>Project: </strong>Responsive Website Design & Development, Bootstrap</li>
+								<!--<li><strong>Online: </strong><a href="http:www.5mm.co" target="_blank">www.5mm.co</a></li>-->
 								<li><strong>Budget: </strong>££££</li>
-								<!--<li><strong>Testimonial: </strong>
+								<li><strong>Testimonial: </strong>
 									<br/>
-									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking at Creativitea.</blockquote>
-									Michael Hockey <span class="yellow">|</span> Director
-								</li>-->
+									<blockquote>I worked with Creativitea on a number of web projects during my tenure at Buyapowa. We worked together on simplifying the web landscape which had been botched together, to provide a seamless integration between legacy static HTML, a WordPress blog, and Hubspot marketing system - not an easy task. </blockquote>
+									James T Fletcher <span class="yellow">|</span> Digital Marketing Consultant
+								</li>
 							</ul>
 						</div>
 					</div>
@@ -85,19 +85,21 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>5mm is a London-based but globally minded high end residential interiors design consultancy</p>
+								<p>One of Europe's hottest startups. Buyapowa brings dynamic pricing, co-creation and gamification to ecommerce.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>Our brief was to re-design 5mm's website to help them show off key projects and their fabulous photography.</p>
+								<p>Our brief was to re-develop and optimise Buyapowa's existing website making it responsive and work on multiple devices.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>We were under quite a tight budget and deadline for this project so we stepped up to the challenge and opted to build 5mm a website using Twitter Bootstrap which enable us to efficiently build and design a elegant website around the framework.</p>
-								<p>We opted to use full-screen, scalable imagery for the clients photography to really help show off their work in the browser. The website is a means of serving this content and we didn't want the website to draw attention away from our clients amazing portfolio.</p>
-								<p>The website scales gracefully across different devices ensuring the content looks beautiful wherever their users happen to be.</p>
+								<p>Buyapowa approached us and asked if we could help them with their existing website as it was performing badly. It was a combination of badly adopted Wordpress CMS integration and had a third party marketing platform hacked on which was causing their team problems when it came to content authoring and management.</p>
+
+<p>We stripped out the WordPress side of things which wasn’t needed and used the Foundation Framework to re-build the website from the ground up. It was certainly a challenge as the site was very graphical and used infographics to present information which needed to be viewable by all their users - no matter the device.</p>
+
+<p>By streamlining the connected services and analysing the performance of the site we were able to make the site run a lot smoother. We optimised the way the site was loaded by checking how the site loaded it’s scripts. We managed to ensure content is loaded from the start so there was no delay improving the bounce rates.</p>
 
 								<div class="portfolio-contact">
 									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
@@ -125,9 +127,8 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/5mm_portfolio_01.jpg" alt="5mm Mobile Website"></p>
-						<p><img src="../assets/images/projects/5mm_portfolio_05.jpg" alt="5mm Desktop Website"></p>
-						<p><img src="../assets/images/projects/5mm_portfolio_02.jpg" alt="5mm Portfolio Website"></p>
+						<p><img src="../assets/images/projects/buyapowa_portfolio_02.jpg" alt="Buyapowa Mobile Website"></p>
+						<p><img src="../assets/images/projects/buyapowa_portfolio_03.jpg" alt="Buyapowa Website"></p>
 						</div>
 
 				</div><!-- .row -->

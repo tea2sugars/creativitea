@@ -78,7 +78,7 @@
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding webdesign print disrupt digital">
-					<a href="/powwownow">
+					<a href="powwownow">
 						<div class="work-image">
 							<img src="../assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
 						</div>
@@ -94,7 +94,7 @@
 
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding webdesign print digital">
-					<a href="/fivethree">
+					<a href="fivethree">
 						<div class="work-image">
 							<img src="../assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding"/>
 						</div>
@@ -112,7 +112,7 @@
 
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item webdesign digital">
-					<a href="/5mm">
+					<a href="5mm">
 						<div class="work-image">
 							<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
 						</div>
@@ -128,7 +128,7 @@
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item print branding">
-					<a href="/gentspack">
+					<a href="gentspack">
 						<div class="work-image">
 							<img src="../assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
 						</div>
@@ -144,7 +144,7 @@
 
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print">
-					<a href="/nikerx">
+					<a href="nikerx">
 						<div class="work-image">
 							<img src="../assets/images/projects/NikeRX_thumbnail.jpg" alt="Nike RX at Marchon"/>
 						</div>
@@ -160,7 +160,7 @@
 
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding">
-					<a href="/river">
+					<a href="river">
 						<div class="work-image">
 							<img src="../assets/images/projects/River_thumbnail.jpg" alt="River Brand & Visual Identity"/>
 						</div>
@@ -175,15 +175,15 @@
 				<!-- /PORTFOLIO ITEM -->
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
-					<a href="/portfolio-single">
+				<li class="work-item webdesign digital">
+					<a href="buyapowa">
 						<div class="work-image">
-							<img src="assets/images/work-7.jpg" alt="">
+							<img src="../assets/images/projects/buyapowa_portfolio_thumbnail.jpg" alt="Buyapowa Website">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">Buyapowa B2B Website</h3>
 							<div class="work-descr ">
-								Marketing
+								Responsive Website Development
 							</div>
 						</div>
 					</a>
@@ -191,15 +191,15 @@
 				<!-- /PORTFOLIO ITEM -->
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
-					<a href="../ portfolio-single">
+				<li class="work-item digital webdesign">
+					<a href="tantemarie-restaurant">
 						<div class="work-image">
-							<img src="assets/images/work-1.jpg" alt="">
+							<img src="../assets/images/projects/tantemarie-restaurant_portfolio_thumbnail.jpg" alt="tantemarie restaurant website">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">The Restaurant at Tante Marie</h3>
 							<div class="work-descr ">
-								Marketing
+								Website Design & Development
 							</div>
 						</div>
 					</a>

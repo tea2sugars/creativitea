@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	
-	<title>5mm.co Website for Interior Design Consultancy | Creativitea - A digital design agency | London, Guildford, Suffolk</title>
+	<title>The Restaurant at Tante Marie Website Design | Creativitea - A digital design agency | London, Guildford, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/5mm_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/tantemarie-restaurant_general_header.jpg">
 
 			<div class="container">
 
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">5mm Interior Design Responsive Website design<br/><span class="small">Using the browser as a tool to deliver stunning imagery</span></h1>
+						<h1 class="module-title align-center">Tante Marie Responsive Website<br/><span class="small">Delicious Design for Delicious Food</span></h1>
 
 
 					</div>
@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/5mm_portfolio_03.jpg" alt="5mm Responsive Website Design"></p>
+						<p><img src="../assets/images/projects/tantemarie-restaurant_portfolio_01.jpg" alt="Buyapowa Responsive Website Design"></p>
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -66,14 +66,14 @@
 					<div class="col-md-4">
 						<div class="work-details">
 							<ul>
-								<li><strong>Client: </strong>5mm</li>
+								<li><strong>Client: </strong>Tante Marie Culinary Academy & Restaurant</li>
 								<li><strong>Project: </strong>Responsive Website Design & Development, Bootstrap, Perch CMS</li>
-								<li><strong>Online: </strong><a href="http:www.5mm.co" target="_blank">www.5mm.co</a></li>
+								<li><strong>Online: </strong><a href="http://www.tantemarierestaurant.co.uk" target="_blank">tantemarierestaurant.co.uk/</a></li>
 								<li><strong>Budget: </strong>££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
-									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking at Creativitea.</blockquote>
-									Michael Hockey <span class="yellow">|</span> Director
+									<blockquote>I worked with Creativitea on a number of web projects during my tenure at Buyapowa. We worked together on simplifying the web landscape which had been botched together, to provide a seamless integration between legacy static HTML, a WordPress blog, and Hubspot marketing system - not an easy task. </blockquote>
+									James T Fletcher <span class="yellow">|</span> Digital Marketing Consultant
 								</li>-->
 							</ul>
 						</div>
@@ -85,19 +85,23 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>5mm is a London-based but globally minded high end residential interiors design consultancy</p>
+								<p>Tante Marie Culinary Academy in 2015 moved premises to a cutting edge facility in the centre of Woking and opened an Award Winning Restaurant where their students would train to deliver top quality food and service to paying customers.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>Our brief was to re-design 5mm's website to help them show off key projects and their fabulous photography.</p>
+								<p>Our brief was to design the restaurant a simple website to deliver the concept of the restaurant which integrating OpenTable booking system.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>We were under quite a tight budget and deadline for this project so we stepped up to the challenge and opted to build 5mm a website using Twitter Bootstrap which enable us to efficiently build and design a elegant website around the framework.</p>
-								<p>We opted to use full-screen, scalable imagery for the clients photography to really help show off their work in the browser. The website is a means of serving this content and we didn't want the website to draw attention away from our clients amazing portfolio.</p>
-								<p>The website scales gracefully across different devices ensuring the content looks beautiful wherever their users happen to be.</p>
+								<p>After the success of working with Tante Marie over the past few years they invited us in for a brief for their new business venture – Tante Marie The Restaurant. We worked closely with their Director Andrew Maxwell to design a fresh looking website for a fresh looking restaurant. The website had to work with the interior design of the restaurant which was ever-changing and adapting as it got built which was great fun to be a part of.</p>
+
+<p>UX on restaurant websites is very important; We designed this restaurant website responsively so people out and about can make use of mobile search and find the website on their mobile device. It was also fundamental to the success of the website we portrayed the fine dining experience the client was aiming for so we used some stunning photography of the restaurant and it's facilities to make this more premium than some of their competitors. It is also extremely important with restaurant websites to show-off the menu and allow users to see a range of meals that is available and price points. We opted for a tab system so it was very easy for visitors to flick through the ever-changing menu.</p>
+
+<p>The restaurant website integrates with Open Table so visitors can easily book a table in advance also adding to the great user experience.</p>
+
+<p>The site was hand-coded using the Bootstrap framework to manage the responsive website development.</p>
 
 								<div class="portfolio-contact">
 									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
@@ -125,9 +129,7 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/5mm_portfolio_01.jpg" alt="5mm Mobile Website"></p>
-						<p><img src="../assets/images/projects/5mm_portfolio_05.jpg" alt="5mm Desktop Website"></p>
-						<p><img src="../assets/images/projects/5mm_portfolio_02.jpg" alt="5mm Portfolio Website"></p>
+						<p><img src="../assets/images/projects/tantemarie-restaurant_portfolio_02.jpg" alt="The Restaurant at Tante Marie Website"></p>
 						</div>
 
 				</div><!-- .row -->
