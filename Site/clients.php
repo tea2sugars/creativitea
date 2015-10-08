@@ -54,51 +54,55 @@ brands, organisations and people from all over the world.</p>
 				</div>
 				
 				<div class="row">
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/C4blk.png" alt="Channel 4" width="60" height="81">
 					</article>
 					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo2.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/CPWblk.png" alt="Carphone Warehouse" width="160" height="29">
 					</article>
 					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/DixonsCPWblk.png" alt="Dixons Carphone" width="157" height="57">
 					</article>
 					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo3.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/Freeviewblk.png" alt="Freeview" width="160" height="53">
 					</article>
 					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/GeekSquadblk.png" alt="GeekSquad" width="137" height="79">
 					</article>
 					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo3.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/GSKblk.png" alt="GSK" width="159" height="56">
 					</article>
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo2.gif" alt="logo1" width="160" height="95">
-					</article>
-					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/iDwhit.png" alt="iD" width="87" height="71">
 					</article>
 					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo2.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/iDblk.png" alt="iD Mobile" width="87" height="70">
 					</article>
 					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/Powwownowblk.png" alt="Powwownow" width="160" height="36">
 					</article>
 					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo3.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/Sodexoblk.png" alt="Sodexo" width="158" height="53">
 					</article>
 					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/logo1.gif" alt="logo1" width="160" height="95">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/Talkmobileblk.png" alt="Talkmobile" width="154" height="53">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/TanteMariewhit.png" alt="Tante Marie Culinary Academy & Restaurant" width="160" height="30">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
+						<img src="assets/images/clients/ThermoFblk.png" alt="Thermo Fisher" width="160" height="34">
 					</article>
 				</div>
 
