@@ -80,7 +80,7 @@
 				<li class="work-item branding webdesign print disrupt">
 					<a href="/powwownow">
 						<div class="work-image">
-							<img src="../assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding">
+							<img src="../assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">Powwownow Branding</h3>
@@ -96,7 +96,7 @@
 				<li class="work-item branding webdesign print">
 					<a href="/fivethree">
 						<div class="work-image">
-							<img src="../assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding">
+							<img src="../assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding"/>
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">FiveThree Branding</h3>
@@ -114,7 +114,7 @@
 				<li class="work-item webdesign">
 					<a href="/5mm">
 						<div class="work-image">
-							<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design">
+							<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">5mm.co</h3>
@@ -130,7 +130,7 @@
 				<li class="work-item print branding">
 					<a href="/gentspack">
 						<div class="work-image">
-							<img src="../assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging">
+							<img src="../assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">Gents Pack</h3>
@@ -146,7 +146,7 @@
 				<li class="work-item branding print">
 					<a href="/nikerx">
 						<div class="work-image">
-							<img src="../assets/images/projects/NikeRX_thumbnail.jpg" alt="Nike RX at Marchon">
+							<img src="../assets/images/projects/NikeRX_thumbnail.jpg" alt="Nike RX at Marchon"/>
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">Nike RX @ Marchon</h3>
@@ -162,7 +162,7 @@
 				<li class="work-item branding">
 					<a href="/river">
 						<div class="work-image">
-							<img src="../assets/images/projects/River_thumbnail.jpg" alt="River Brand & Visual Identity">
+							<img src="../assets/images/projects/River_thumbnail.jpg" alt="River Brand & Visual Identity"/>
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">River</h3>
