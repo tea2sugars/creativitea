@@ -77,7 +77,7 @@
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding webdesign print disrupt">
+				<li class="work-item branding webdesign print disrupt digital">
 					<a href="/powwownow">
 						<div class="work-image">
 							<img src="../assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
@@ -93,7 +93,7 @@
 				<!-- /PORTFOLIO ITEM -->
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding webdesign print">
+				<li class="work-item branding webdesign print digital">
 					<a href="/fivethree">
 						<div class="work-image">
 							<img src="../assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding"/>
@@ -111,7 +111,7 @@
 				
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item webdesign">
+				<li class="work-item webdesign digital">
 					<a href="/5mm">
 						<div class="work-image">
 							<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
