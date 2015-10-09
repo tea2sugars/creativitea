@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Creativitea worked with Buyapowa to help deliver a responsive website solution for their B2B Marketing Website using Foundation Framework">
 	<meta name="author" content="">
 	
-	<title>Buyapowa B2B Website for Social Commerce Startup | Creativitea - A digital design agency | London, Guildford, Suffolk</title>
+	<title>Buyapowa | B2B Marketing Website Design | Creativitea - A digital design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

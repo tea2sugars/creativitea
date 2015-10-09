@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea are a brand, print and digital design agency based in London & Guildford">
+	<meta name="description" content="Creativitea - A Brand, Digital & Print design Agency - Specialising in brand design, print design & digital design in London, Surrey and Suffolk">
 	<meta name="author" content="Creativitea">
 	
 	<title>Creativitea | Brand Design Agency | Print Design Agency | Web Design Agency | London, Guildford, Suffolk</title>

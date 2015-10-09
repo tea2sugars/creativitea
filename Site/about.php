@@ -3,20 +3,16 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Creativitea was established in 2008 to help brands work stronger across their communication channels. This is their story.">
 	<meta name="author" content="">
 	
-	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title>About Us | Creativitea - A brand, digital and print design agency</title>
 	
 	<?php include('assets/php/includes/head-css.html');?>
 
 </head>
 <body>
-<!-- PRELOADER -->
-	<div class="page-loader">
-		<div class="loader">Brewing...</div>
-	</div>
-	<!-- /PRELOADER -->
+
 
 	<?php include('assets/php/includes/nav-transparent.html');?>
 

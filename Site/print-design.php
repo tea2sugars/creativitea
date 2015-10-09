@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="London, Surrey and Suffolk based Print Design Agency, Lloyd Bedford and Rik Barwick’s creative studio Creativitea has a wide range of experience with print design for the telecoms, retail and tech startup sectors.">
 	<meta name="author" content="">
 	
-	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title>Print Design | Creativitea - A London Print Agency | Surrey & Suffolk</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 

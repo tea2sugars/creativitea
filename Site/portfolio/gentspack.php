@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Gents Pack approached Creativitea to re-brand and align their company to a larger audiance">
 	<meta name="author" content="">
 	
-	<title>Gents Pack Re-Brand and Packaging | Creativitea - A brand design agency | London, Guildford, Suffolk</title>
+	<title>Gents Pack | Brand and Packaging | Creativitea - A brand design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

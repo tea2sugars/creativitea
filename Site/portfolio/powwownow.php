@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Disruption is not always a bad thing. Creativitea worked with Powwownow to investigate the pitfalls of their brand and align their business strategy.">
 	<meta name="author" content="">
 	
-	<title>Powwownow Branding and Creative Distruption | Creativitea - A brand design agency | London, Guildford, Suffolk</title>
+	<title>Powwownow | Branding and Creative Disruption | Creativitea - A disruptive design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

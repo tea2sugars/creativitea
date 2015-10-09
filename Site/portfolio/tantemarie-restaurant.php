@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Creativitea work with Tante Marie Culianry Academy and The Restauarnt and have designed The Restaurant a slick, responsive website to showcase their menu and restaurant.">
 	<meta name="author" content="">
 	
-	<title>The Restaurant at Tante Marie Website Design | Creativitea - A digital design agency | London, Guildford, Suffolk</title>
+	<title>Tante Marie The Restaurant | Website Design | Responsive Website Design | Creativitea Ltd - A digital design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

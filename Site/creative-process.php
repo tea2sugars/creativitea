@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Not all creative processes are the same and there is no process that's better than anyone elses. We all have a process. This is ours at Creativitea">
 	<meta name="author" content="">
 	
-	<title>The Creative Team | Creativitea Limited | London, Guildford, Suffolk</title>
+	<title>The Creative Process | Creativitea</title>
 	
 	<?php include('assets/php/includes/head-css.html');?>
 

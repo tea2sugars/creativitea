@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="A London, Surrey & Suffolk based Digital Design Agency working on Website Design, Social Media, Digital Marketing and SEO">
 	<meta name="author" content="">
 	
-	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title>Digital Design | London Digital Design Agency | Creativitea</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 

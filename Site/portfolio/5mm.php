@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Creativitea worked with 5mm Interior Design Consultants to design them a responsive website with full-screen images to help showcase their portfolio">
 	<meta name="author" content="">
 	
-	<title>5mm.co Website for Interior Design Consultancy | Creativitea - A digital design agency | London, Guildford, Suffolk</title>
+	<title>5mm.co | Website Design | Creativitea - A digital design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

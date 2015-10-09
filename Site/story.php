@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Creativitea was established in 2008 to help brands work stronger across their communication channels. This is their story.">
 	<meta name="author" content="">
 	
-	<title>The Creative Team | Creativitea Limited | London, Guildford, Suffolk</title>
+	<title>About Us | Creativitea - A brand, digital and print design agency</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 

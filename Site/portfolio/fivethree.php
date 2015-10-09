@@ -3,19 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Creativitea worked with new marketing agency startup FiveThree to deliver a strong, flexible brand, brand guidelines and digital presence">
 	<meta name="author" content="">
 	
-	<title>5FiveThree Branding and Visual design | Creativitea - A brand design agency | London, Guildford, Suffolk</title>
+	<title>FiveThree | Branding and Visual Design | Creativitea - A brand design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
 <body>
-<!-- PRELOADER -->
-	<div class="page-loader">
-		<div class="loader">Brewing...</div>
-	</div>
-	<!-- /PRELOADER -->
 
 	<?php include('../assets/php/includes/nav-internal.html');?>
 

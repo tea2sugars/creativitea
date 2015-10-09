@@ -4,10 +4,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Creativitea's blog brings you an insight to creative industry, agency news, inspiration and our personal opinions related to creative culture.">
 	<meta name="author" content="">
 	
-	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title>Design Blog | Agency News | Press | Creativitea</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>	
 	<!--Share widget-->

@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Creativitea work with Perfect Havok and their Recording artist Rover. We designed a adaptable logotype that featured a custom geometric san serif typeface in the footsteps of the traditional grotesque typeface Avantgarde.">
 	<meta name="author" content="">
 	
-	<title>River Branding | Creativitea - A brand design agency | London, Guildford, Suffolk</title>
+	<title>River | Branding | Album Cover Design | Creativitea - A brand design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

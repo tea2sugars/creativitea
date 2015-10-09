@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="A creative team working across the world together to solve design problems for our clients">
 	<meta name="author" content="">
 	
 	<title>The Creative Team | Creativitea Limited | London, Guildford, Suffolk</title>
@@ -46,7 +45,7 @@
 
 							<article class="post-entry">
 
-								<p class="lead">We're a team of best mates, business associates and trusted individuals that are independently working towards creating great work and experiences for our clients.</p>
+								<p class="lead">We're a team of friends, business associates and trusted individuals that are independently working towards creating great work and experiences for our clients.</p>
 
 <p>So why have a brand mascot? Mascots have been shown to act as brand spokespersons, with as many, if not more, followers across their social media pages than the brands they represent. They can help to build relationships with customers, without having them feel like they’re being sold to. It’s this relationship that can prove vital to your business. Mascots also have another thing going for them; they never age, they never go off brand, and they never ask for a pay rise!</p>
 							</article>
