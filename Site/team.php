@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+		<meta charset="UTF-8">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="A creative team working across the world together to solve design problems for our clients">
 	<meta name="author" content="">
