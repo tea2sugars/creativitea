@@ -74,7 +74,7 @@
 			</div>
 
 			<!-- PORTFOLIO LIST -->
-			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
+			<ul id="works-grid" class="works-grid works-grid-5 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding webdesign print disrupt digital">
@@ -194,10 +194,10 @@
 				<li class="work-item digital webdesign">
 					<a href="tantemarie-restaurant">
 						<div class="work-image">
-							<img src="../assets/images/projects/tantemarie-restaurant_portfolio_thumbnail.jpg" alt="tantemarie restaurant website">
+							<img src="../assets/images/projects/tantemarie-restaurant_portfolio_thumbnail.jpg" alt="Tante Marie The Restaurant website">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">The Restaurant at Tante Marie</h3>
+							<h3 class="work-title ">Tante Marie The Restaurant</h3>
 							<div class="work-descr ">
 								Website Design & Development
 							</div>

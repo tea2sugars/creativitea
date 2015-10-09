@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-70" data-background="">
+	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/River_general_header.jpg">
 
 			<div class="container">
 
