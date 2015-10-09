@@ -65,7 +65,7 @@
 							<div class="team-descr">
 								<div class="team-name">Rik Barwick</div>
 								<div class="team-role">Head of Digital / Founder</div>
-								<h5>Raises 4 Pigs, 6 Sheep, 2 Chickens, 1 Cat, 3 Children with Deb. All free-range. </h5>
+								<h5>Raises Pigs, Sheep, Chickens, A Cat & 3 Children with Deb.</h5>
 									<ul class="social-list">
 										<li><a href="#"><span class="icon-facebook"></span></a></li>
 										<li><a href="#"><span class="icon-twitter"></span></a></li>
