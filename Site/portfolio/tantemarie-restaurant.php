@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea work with Tante Marie Culianry Academy and The Restaurant and have designed a new responsive website to showcase the restaurant and it's menu">
+	<meta name="description" content="Creativitea work with Tante Marie Culianry Academy and The Restauarnt and have designed The Restaurant a slick, responsive website to showcase their menu and restaurant.">
 	<meta name="author" content="">
 	
-	<title>Tante Marie The Restaurant Website | Website Design | Creativitea - A Brand Design Agency</title>
+	<title>Tante Marie The Restaurant | Website Design | Responsive Website Design | Creativitea Ltd - A digital design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/Tante_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/tantemarie-restaurant_general_header.jpg">
 
 			<div class="container">
 
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Tante Marie Restaurant Website<br/><span class="small">Beautiful design for luxurious food</span></h1>
+						<h1 class="module-title align-center">Tante Marie Responsive Website<br/><span class="small">Delicious Design for Delicious Food</span></h1>
 
 
 					</div>
@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/tantm_portfolio_1.jpg" alt="Tante Marie Brand Guidelines"></p>
+						<p><img src="../assets/images/projects/tantemarie-restaurant_portfolio_01.jpg" alt="Buyapowa Responsive Website Design"></p>
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -67,9 +67,9 @@
 						<div class="work-details">
 							<ul>
 								<li><strong>Client: </strong>Tante Marie Culinary Academy & Restaurant</li>
-								<li><strong>Project: </strong>Brand Guidelines</li>
-								<!--<li><strong>Online: </strong><a href="http://www.tantemarierestaurant.co.uk" target="_blank">tantemarierestaurant.co.uk/</a></li>-->
-								<li><strong>Budget: </strong>£££££</li>
+								<li><strong>Project: </strong>Responsive Website Design & Development, Bootstrap, Perch CMS</li>
+								<li><strong>Online: </strong><a href="http://www.tantemarierestaurant.co.uk" target="_blank">tantemarierestaurant.co.uk/</a></li>
+								<li><strong>Budget: </strong>££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
 									<blockquote>I worked with Creativitea on a number of web projects during my tenure at Buyapowa. We worked together on simplifying the web landscape which had been botched together, to provide a seamless integration between legacy static HTML, a WordPress blog, and Hubspot marketing system - not an easy task. </blockquote>
@@ -85,23 +85,27 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>Tante Marie was founded in 1954 and has become one of countries leading culinary schools, being the first in the UK to offer a Cordon Bleu Diploma. Since then Tante Marie has gone strength to strength, and in the Spring of 2015 moved to a new stat-of-the-art premises and opened The Restaurant at Tante Marie where graduates of the Academy showcase their skills to the public.</p>
+								<p>Tante Marie Culinary Academy in 2015 moved premises to a cutting edge facility in the centre of Woking and opened an Award Winning Restaurant where their students would train to deliver top quality food and service to paying customers.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>With the opening of The Restaurant earlier in the year and the recent launch of Tante Marie Live, the need for a consistence brand presence across all marketing, advertising, retail, social media and digital communications was a must to reflect the companies evolving service and direction.</p>
+								<p>Our brief was to design the restaurant a simple website to deliver the concept of the restaurant which integrating OpenTable booking system.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>Having worked with the brand for a long time, we where positioned to understand and collate everything into a set of best practice guides. We designed a complete set of brand guidelines, covering the history, positioning, full logo type usage and makeup, defined colour palette and usage, typography and type settings, as well as a series of grid layouts and photography art direction.</p>
+								<p>After the success of working with Tante Marie over the past few years they invited us in for a brief for their new business venture – Tante Marie The Restaurant. We worked closely with their Director Andrew Maxwell to design a fresh looking website for a fresh looking restaurant. The website had to work with the interior design of the restaurant which was ever-changing and adapting as it got built which was great fun to be a part of.</p>
 
-<p>The final guidelines were produced in a digital and printed format.</p>
+<p>UX on restaurant websites is very important; We designed this restaurant website responsively so people out and about can make use of mobile search and find the website on their mobile device. It was also fundamental to the success of the website we portrayed the fine dining experience the client was aiming for so we used some stunning photography of the restaurant and it's facilities to make this more premium than some of their competitors. It is also extremely important with restaurant websites to show-off the menu and allow users to see a range of meals that is available and price points. We opted for a tab system so it was very easy for visitors to flick through the ever-changing menu.</p>
+
+<p>The restaurant website integrates with Open Table so visitors can easily book a table in advance also adding to the great user experience.</p>
+
+<p>The site was hand-coded using the Bootstrap framework to manage the responsive website development.</p>
 
 								<div class="portfolio-contact">
 									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="contact" class="btn btn-y btn-round btn-lg">Contact Us</a>
+									<a href="#" class="btn btn-y btn-round btn-lg">Contact Us</a>
 								</div>
 							</div>
 
@@ -124,14 +128,8 @@
 
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
-						<p><img src="../assets/images/projects/tantm_portfolio_2.jpg" alt="Tante Marie Brand Guidelines - Logo Usage"></p>
-						<p><img src="../assets/images/projects/tantm_portfolio_3.jpg" alt="Tante Marie Brand Guidelines - Riband Logo"></p>
-						<p><img src="../assets/images/projects/tantm_portfolio_4.jpg" alt="Tante Marie Brand Guidelines - Headers"></p>
-						<p><img src="../assets/images/projects/tantm_portfolio_5.jpg" alt="Tante Marie Brand Guidelines - Palette"></p>
-						<p><img src="../assets/images/projects/tantm_portfolio_6.jpg" alt="Tante Marie Brand Guidelines - Colours"></p>
-						<p><img src="../assets/images/projects/tantm_portfolio_7.jpg" alt="Tante Marie Brand Guidelines - Typography"></p>
-						<p><img src="../assets/images/projects/tantm_portfolio_8.jpg" alt="Tante Marie Brand Guidelines - Layout"></p>
-						<p><img src="../assets/images/projects/tantm_portfolio_9.jpg" alt="Tante Marie Brand Guidelines - Photography"></p>
+
+						<p><img src="../assets/images/projects/tantemarie-restaurant_portfolio_02.jpg" alt="The Restaurant at Tante Marie Website"></p>
 						</div>
 
 				</div><!-- .row -->
@@ -148,7 +146,7 @@
 			
 				<div class="pagination font-inc text-uppercase">
 			
-					<a href="./portfolio" role="button" class="btn btn-lg btn-y btn-round">View portfolio</a>
+					<a href="#" role="button" class="btn btn-lg btn-y btn-round">View portfolio</a>
 			
 				</div>
 			
