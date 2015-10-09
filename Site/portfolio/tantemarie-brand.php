@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Tante Marie Brand Guidelines<br/><span class="small">The recipe for brand consistancy</span></h1>
+						<h1 class="module-title align-center">Tante Marie Brand Guidelines<br/><span class="small">The recipe for brand consistency</span></h1>
 
 
 					</div>

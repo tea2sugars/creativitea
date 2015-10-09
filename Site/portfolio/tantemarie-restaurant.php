@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea work with Tante Marie Culianry Academy and The Restaurant and have put together their brand guidelines to help guide the visual identity.">
+	<meta name="description" content="Creativitea work with Tante Marie Culianry Academy and The Restaurant and have designed a new responsive website to showcase the restaurant and it's menu">
 	<meta name="author" content="">
 	
-	<title>Tante Marie Branding | Brand Guidelines | Creativitea - A Brand Design Agency</title>
+	<title>Tante Marie The Restaurant Website | Website Design | Creativitea - A Brand Design Agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Tante Marie Brand Guidelines<br/><span class="small">The recipe for brand consistancy</span></h1>
+						<h1 class="module-title align-center">Tante Marie Restaurant Website<br/><span class="small">Beautiful design for luxurious food</span></h1>
 
 
 					</div>
