@@ -20,11 +20,49 @@
 <body>	
 	<?php include('../assets/php/includes/nav-internal.html');?>
 
-<!-- WRAPPER -->
+	<!-- WRAPPER -->
 	<div class="wrapper">
+
+		<!-- HOME -->
+		<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/blog-header.jpg">
+
+			<div class="container">
+
+				<!-- MODULE TITLE -->
+				<div class="row">
+
+					<div class="col-sm-6 col-sm-offset-3">
+
+						<h1 class="module-title align-center">Our Creative World</h1>
+
+						<div class="module-subtitle align-center">
+							The latest news and musings from our agency, the industry and life in general
+							<div class="post-share">
+								<span class="yellow lead">–</span><br/>
+								<span class='st_sharethis_large' displayText='ShareThis'></span>
+								<span class='st_facebook_large' displayText='Facebook'></span>
+								<span class='st_twitter_large' displayText='Tweet'></span>
+								<span class='st_linkedin_large' displayText='LinkedIn'></span>
+								<span class='st_pinterest_large' displayText='Pinterest'></span>
+								<span class='st_pocket_large' displayText='Pocket'></span>
+								<span class='st_instapaper_large' displayText='Instapaper'></span>
+								<span class='st_email_large' displayText='Email'></span>
+							</div>
+
+						</div>
+						
+					</div>
+
+				</div>
+				<!-- /MODULE TITLE -->
+
+			</div>
+
+		</section >
+		<!-- /HOME -->
+
 	
-	<!-- BLOG SINGLE -->
-		<section class="module">
+		<section class="module p-b-0">
 
 			<div class="container">
 
@@ -34,7 +72,7 @@
 		   
 									    <?php 	        
 		        // defaults for all modes
-		        $posts_per_page = 20;
+		        $posts_per_page = 18;
 		        $template 		= 'post_in_list.html';
 		        $sort_order		= 'DESC';
 		        $sort_by		= 'postDateTime';
