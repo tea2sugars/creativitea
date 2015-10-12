@@ -66,11 +66,7 @@
 								<div class="team-name">Rik Barwick</div>
 								<div class="team-role">Head of Digital / Founder</div>
 								<h5>Raises Pigs, Sheep, Chickens, A Cat & 3 Children with Deb.</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -83,11 +79,7 @@
 								<div class="team-name">Lloyd Bedford</div>
 								<div class="team-role">Creative Director / Founder</div>
 								<h5>Lloyd means "grey Man"in Welsh. He is going grey!</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -100,11 +92,7 @@
 								<div class="team-name">Roberto Acuna</div>
 								<div class="team-role">Designer / Illustrator</div>
 								<h5>Just self-published a childrens' book. The Lonely Hole</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -117,11 +105,7 @@
 								<div class="team-name">Michelle Forsythe</div>
 								<div class="team-role">Finance Controller</div>
 								<h5>Favorite Brand<br/>Johnny Walker</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -133,11 +117,7 @@
 								<div class="team-name">Deborah Barwick</div>
 								<div class="team-role">Studio Admin</div>
 								<h5>Fell in love with Rik at 16</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -150,11 +130,7 @@
 								<div class="team-name">Daniel Duke</div>
 								<div class="team-role">Senior Developer*</div>
 								<h5>Big fan of buhmuda shorts</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -168,11 +144,7 @@
 								<div class="team-name">James T Fletcher</div>
 								<div class="team-role">Social Marketing*</div>
 								<h5>Loves a good package</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -186,11 +158,7 @@
 								<div class="team-name">Tim Mills</div>
 								<div class="team-role">Copywriter*</div>
 								<h5>Favorite Brand<br/>Oxford's</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -204,11 +172,7 @@
 								<div class="team-name">Dean Phillips</div>
 								<div class="team-role">Print Manager</div>
 								<h5>Favorite Brand<br/>Pantone</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -222,11 +186,7 @@
 								<div class="team-name">Adam Zygadlo</div>
 								<div class="team-role">Motion Designer*</div>
 								<h5>Loves gravy on chips</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -240,11 +200,7 @@
 								<div class="team-name">Hannah Doust</div>
 								<div class="team-role">PPC Consultant</div>
 								<h5>Favorite Brand<br/>EA Games</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
@@ -258,11 +214,7 @@
 								<div class="team-name">Luke Rowlands</div>
 								<div class="team-role">SEO Manager*</div>
 								<h5>Our SEO Welshman</h5>
-									<ul class="social-list">
-										<li><a href="#"><span class="icon-facebook"></span></a></li>
-										<li><a href="#"><span class="icon-twitter"></span></a></li>
-										<li><a href="#"><span class="icon-googleplus"></span></a></li>
-									</ul>
+									
 							</div>
 						</div>
 					</div>
