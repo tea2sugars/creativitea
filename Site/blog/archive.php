@@ -30,7 +30,7 @@
 										
 									    <?php 	        
 		        // defaults for all modes
-		        $posts_per_page = 6;
+		        $posts_per_page = 18;
 		        $template 		= 'post_in_list.html';
 		        $sort_order		= 'DESC';
 		        $sort_by		= 'postDateTime';
@@ -54,7 +54,6 @@
 		        /* --------------------------- POSTS BY CATEGORY --------------------------- */
 		        if (perch_get('cat')) {
 		            echo '<div class="row"><h1>'.perch_blog_category(perch_get('cat'), true).'</h1></div>';
-					echo '<div class="row multi-columns-row post-columns">'
 			            perch_blog_custom(array(
 								'category'   => perch_get('cat'),
 								'template'   => $template,
