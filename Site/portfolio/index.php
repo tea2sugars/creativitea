@@ -206,15 +206,15 @@
 				<!-- /PORTFOLIO ITEM -->
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
-					<a href="../ portfolio-single">
+				<li class="work-item branding">
+					<a href="tantemarie-brand">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="../assets/images/projects/tantm_portfolio_thumbnail.jpg" alt="Tante Marie Brand Guidelines">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">Tante Marie Branding</h3>
 							<div class="work-descr ">
-								Marketing
+								Brand Guidelines &amp; Development
 							</div>
 						</div>
 					</a>
