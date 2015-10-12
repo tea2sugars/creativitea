@@ -30,7 +30,7 @@
 
 				<div class="row">
 
-					<div class="col-sm-12 col-sm-offset-2">
+					<div class="col-sm-12">
 						
 						<!-- POST -->
 						<div class="post">
