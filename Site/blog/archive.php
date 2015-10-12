@@ -53,7 +53,7 @@
 		        
 		        /* --------------------------- POSTS BY CATEGORY --------------------------- */
 		        if (perch_get('cat')) {
-		            echo '<h1>'.perch_blog_category(perch_get('cat'), true).'</h1>';
+		            echo '<div class="row"><h1>'.perch_blog_category(perch_get('cat'), true).'</h1></div>';
 
 		            perch_blog_custom(array(
 							'category'   => perch_get('cat'),
