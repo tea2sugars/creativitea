@@ -30,7 +30,7 @@
 				<div class="row multi-columns-row post-columns">						
 									    <?php 	        
 		        // defaults for all modes
-		        $posts_per_page = 18;
+		        $posts_per_page = 6;
 		        $template 		= 'post_in_list.html';
 		        $sort_order		= 'DESC';
 		        $sort_by		= 'postDateTime';
