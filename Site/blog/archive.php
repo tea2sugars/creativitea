@@ -2,33 +2,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title>Perch Blog Example Archive Page</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
-	<?php perch_get_css(); ?>
-	<?php include('../assets/php/includes/head-css-internal.html');?>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<meta name="description" content="<?php echo $excerpt ?>"/>
+	<meta name="author" content="">
+	
+	<title>Archive - Design Blog by Creativitea</title>
+	
+	<?php include('../assets/php/includes/head-css-internal.html');?>	
+	<!--Share widget-->
+	<script type="text/javascript">var switchTo5x=true;</script>
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+	
 </head>
-<body>
-	<header class="layout-header">
-		<div class="wrapper">
-			<div class="company-name">Perch Blog App - Company Name</div>
-			<img src="<?php perch_path('feathers/quill/img/logo.gif'); ?>" alt="Your Logo Here" class="logo" />
-		</div>
-		<nav class="main-nav">
-			<?php perch_pages_navigation(array(
-					'levels'=>1
-				));
-			?>
-		</nav>
-	</header>
+<body>	
+	<?php include('../assets/php/includes/nav-internal.html');?>
+
+<!-- WRAPPER -->
+	<div class="wrapper">
 	
-	<!--  change cols2-nav-right to cols2-nav-left if you want the sidebar on the left -->
-	<div class="wrapper cols2-nav-right">
-	
-		<div class="primary-content">
-	   
-		    <?php 	        
+	<!-- BLOG SINGLE -->
+		<section class="module">
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-sm-8 col-sm-offset-2">
+						
+						<!-- POST -->
+						<div class="post">
+		   
+									    <?php 	        
 		        // defaults for all modes
 		        $posts_per_page = 10;
 		        $template 		= 'post_in_list.html';
@@ -157,6 +164,48 @@
 		      	}
 
 		    ?>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	
+	<!-- DIVIDER -->
+		<hr class="divider-w">
+		<!-- /DIVIDER -->
+	
+		<?php include('../assets/php/includes/footer-services.html');?>
+		<?php include('../assets/php/includes/footer-contact.html');?>
+	
+	<!-- Javascript files -->
+	<script src="../assets/js/jquery-2.1.3.min.js"></script>
+	<script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+	<script src="../assets/js/jquery.mb.YTPlayer.min.js"></script>
+	<script src="../assets/js/appear.js"></script>
+	<script src="../assets/js/jquery.simple-text-rotator.min.js"></script>
+	<script src="../assets/js/jqBootstrapValidation.js"></script>
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script src="../assets/js/gmaps.js"></script>
+	<script src="../assets/js/isotope.pkgd.min.js"></script>
+	<script src="../assets/js/imagesloaded.pkgd.js"></script>
+	<script src="../assets/js/jquery.flexslider-min.js"></script>
+	<script src="../assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="../assets/js/jquery.fitvids.js"></script>
+	<script src="../assets/js/smoothscroll.js"></script>
+	<script src="../assets/js/wow.min.js"></script>
+	<script src="../assets/js/contact.js"></script>
+	<script src="../assets/js/custom.js"></script>
+
+</body>
+</html>
+	
+	
+	<!--  change cols2-nav-right to cols2-nav-left if you want the sidebar on the left -->
+	<div class="wrapper cols2-nav-right">
+	
+		<div class="primary-content">
+	   
+
 	    </div>
 		<nav class="sidebar">
 		    <h2>Filter archive</h2>
