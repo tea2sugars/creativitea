@@ -34,13 +34,16 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Our Creative World</h1>
 						 <?php if (perch_get('cat')) {
-		            echo '<h4>'.perch_blog_category(perch_get('cat'), true).'</h4>';}
+		            echo '<h1 class="module-title align-center">'.perch_blog_category(perch_get('cat'), true).'</h1>';}
 		            ?>
+		            <?php if (perch_get('tag')) {
+		            echo '<h1>'.perch_blog_tag(perch_get('tag'), true).'</h1>';
+					?>
+
 
 						<div class="module-subtitle align-center">
-							The latest news and musings from our agency, the industry and life in general
+							Our Blog Archive
 							<div class="post-share">
 								<span class="yellow lead">–</span><br/>
 								<span class='st_sharethis_large' displayText='ShareThis'></span>
@@ -110,8 +113,7 @@
 		        
 		        /* --------------------------- POSTS BY TAG --------------------------- */
 		        if (perch_get('tag')) {
-		            echo '<h1>'.perch_blog_tag(perch_get('tag'), true).'</h1>';
-
+		            
 		            perch_blog_custom(array(
 							'tag'   	 => perch_get('tag'),
 							'template'   => $template,
