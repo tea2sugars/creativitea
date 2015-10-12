@@ -129,6 +129,8 @@
 						<div class="col-sm-8 col-sm-offset-4">
 
 						<p><img src="../assets/images/projects/tantemarie-restaurant_portfolio_02.jpg" alt="The Restaurant at Tante Marie Website"></p>
+						<p><img src="../assets/images/projects/tantemarie-restaurant_portfolio_03.jpg" alt="The Restaurant at Tante Marie Website"></p>						<p><img src="../assets/images/projects/tantemarie-restaurant_portfolio_04.jpg" alt="The Restaurant at Tante Marie Website"></p>
+						<p><img src="../assets/images/projects/tantemarie-restaurant_portfolio_05.jpg" alt="The Restaurant at Tante Marie Website"></p>
 						</div>
 
 				</div><!-- .row -->
