@@ -28,10 +28,7 @@
 
 			<div class="container">
 
-				<div class="row">
-
-					<div class="col-sm-12 post-columns">
-						
+				<div class="row multi-columns-row post-columns">						
 						<!-- POST -->
 						<div class="post">
 		   
@@ -60,7 +57,7 @@
 		        
 		        /* --------------------------- POSTS BY CATEGORY --------------------------- */
 		        if (perch_get('cat')) {
-		            echo '<h1>Archive of: '.perch_blog_category(perch_get('cat'), true).'</h1>';
+		            echo '<h1>'.perch_blog_category(perch_get('cat'), true).'</h1>';
 
 		            perch_blog_custom(array(
 							'category'   => perch_get('cat'),
@@ -76,7 +73,7 @@
 		        
 		        /* --------------------------- POSTS BY TAG --------------------------- */
 		        if (perch_get('tag')) {
-		            echo '<h1>Archive of: '.perch_blog_tag(perch_get('tag'), true).'</h1>';
+		            echo '<h1>'.perch_blog_tag(perch_get('tag'), true).'</h1>';
 
 		            perch_blog_custom(array(
 							'tag'   	 => perch_get('tag'),
@@ -165,7 +162,6 @@
 
 		    ?>
 						</div>
-					</div>
 				</div>
 			</div>
 		</section>
