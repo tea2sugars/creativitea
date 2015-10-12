@@ -35,10 +35,10 @@
 					<div class="col-sm-6 col-sm-offset-3">
 
 						 <?php if (perch_get('cat')) {
-		            echo '<h1 class="module-title align-center">'.perch_blog_category(perch_get('cat'), true).' Archive</h1>';}
+		            echo '<h1 class="module-title align-center">'.perch_blog_category(perch_get('cat'), true).'</h1>';}
 		            ?>
 			            <?php if (perch_get('tag')) {
-			            echo '<h1 class="module-title align-center">'.perch_blog_tag(perch_get('tag'), true).' Archive</h1>';
+			            echo '<h1 class="module-title align-center">'.perch_blog_tag(perch_get('tag'), true).'</h1>';
 						?>
 
 
