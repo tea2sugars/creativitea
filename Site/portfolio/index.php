@@ -34,8 +34,7 @@
 						<div class="module-subtitle align-center">
 							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
 							<div class="portfolio-contact">
-								<a href="#" class="btn btn-y btn-round btn-lg">Contact Us</a>
-							</div>
+								<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>							</div>
 						</div>
 
 					</div>

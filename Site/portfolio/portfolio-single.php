@@ -162,8 +162,7 @@
 <p>Cred listicle XOXO, Truffaut post-ironic PBR trust fund mlkshk shabby chic art party. Small batch disrupt bicycle rights, artisan cray Odd Future Tumblr hella sustainable craft beer Carles single-origin coffee. Pitchfork kale chips tousled bespoke, pour-over typewriter keytar vegan Schlitz Shoreditch. Chillwave mumblecore Marfa chia wolf twee, cray typewriter actually normcore umami hella. 8-bit Odd Future selfies Tumblr pour-over, freegan vinyl. Gluten-free Carles synth cray meditation. Master cleanse before they sold out typewriter four dollar toast semiotics, squid aesthetic.</p>
 								<div class="portfolio-contact">
 									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="#" class="btn btn-y btn-round btn-lg">Contact Us</a>
-								</div>
+									<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>								</div>
 							</div>
 
 						</div>
@@ -208,7 +207,7 @@
 			
 				<div class="pagination font-inc text-uppercase">
 			
-					<a href="#" role="button" class="btn btn-lg btn-y btn-round">View portfolio</a>
+					<a href="http://teabagging.theteapot.me.uk/portfolio/" role="button" class="btn btn-lg btn-y btn-round">View portfolio</a>
 			
 				</div>
 			
