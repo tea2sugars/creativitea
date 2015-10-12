@@ -53,7 +53,7 @@
 		        
 		        /* --------------------------- POSTS BY CATEGORY --------------------------- */
 		        if (perch_get('cat')) {
-		            echo '<div class="row multi-columns-row post-columns"><h1>'.perch_blog_category(perch_get('cat'), true).'</h1></div>';
+		            echo '<div class="row multi-columns-row post-columns"><h1>'.perch_blog_category(perch_get('cat'), true).'</h1>';
 			            perch_blog_custom(array(
 								'category'   => perch_get('cat'),
 								'template'   => $template,
@@ -61,7 +61,6 @@
 								'sort'       => $sort_by,
 								'sort-order' => $sort_order,
 			                    ));
-						'</div>';
 		            $posts_displayed = true;
 		        }
 		        
@@ -156,6 +155,7 @@
 		      	}
 
 		    ?>
+		    			</div>
 						</div>
 				</div>
 		</section>
