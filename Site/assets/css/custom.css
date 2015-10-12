@@ -46,6 +46,6 @@ Place here your custom CSS styles
 	min-height:200px;
 }
 
-#category_list {
+#category_list .post {
 	height:400px;
 }
