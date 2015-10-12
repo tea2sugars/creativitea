@@ -127,9 +127,10 @@
 						<p><img src="../assets/images/projects/River_portfolio_2.jpg" alt="River Logo Lockup"></p>
 						<p><img src="../assets/images/projects/River_portfolio_3.jpg" alt="River Custom Typeface"></p>
 						<p><img src="../assets/images/projects/River_portfolio_4.jpg" alt="River iTunes Covers"></p>
+						<p><img src="../assets/images/projects/River_portfolio_7.jpg" alt="River Logo Varients"></p>
 						<p><img src="../assets/images/projects/River_portfolio_5.jpg" alt="River Spotify Covers"></p>
 						<p><img src="../assets/images/projects/River_portfolio_6.jpg" alt="River Soundcloud Covers"></p>
-						<p><img src="../assets/images/projects/River_portfolio_6.jpg" alt="River Logo Varients"></p>
+						
 						</div>
 
 				</div><!-- .row -->
