@@ -30,14 +30,14 @@
 
 				<div class="row">
 
-					<div class="col-sm-8 col-sm-offset-2">
+					<div class="col-sm-12 col-sm-offset-2">
 						
 						<!-- POST -->
 						<div class="post">
 		   
 									    <?php 	        
 		        // defaults for all modes
-		        $posts_per_page = 10;
+		        $posts_per_page = 20;
 		        $template 		= 'post_in_list.html';
 		        $sort_order		= 'DESC';
 		        $sort_by		= 'postDateTime';
