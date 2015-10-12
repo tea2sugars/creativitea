@@ -18,7 +18,7 @@
 	<?php include('assets/php/includes/nav-transparent.html');?>
 
 	<!-- HOME -->
-	<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-30" data-background="assets/images/header-1.jpg" style="background:black;">
+	<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-30">
 
 		<div class="hs-caption container">
 			<div class="caption-content">

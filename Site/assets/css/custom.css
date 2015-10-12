@@ -49,3 +49,21 @@ Place here your custom CSS styles
 #category_list .post {
 	height:400px;
 }
+
+#home {
+	background-color: black;
+	background-image: url(../images/home-mobile.jpg);
+	background-repeat: none;}
+/*small device*/
+@media only screen and (min-width: 480px) {
+	#home {
+		background-image: url(../images/home-tablet.jpg);
+	}
+}
+/*medium & larger device*/
+@media (min-width: 768px){ 
+	#home {
+		background-image: url(../images/home-desktop.jpg);
+	}
+}
+
