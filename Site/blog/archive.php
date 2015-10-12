@@ -27,7 +27,7 @@
 		<!-- HOME -->
 		<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/blog-header.jpg">
 
-			<div class="container" id="category_post">
+			<div class="container">
 
 				<!-- MODULE TITLE -->
 				<div class="row">
@@ -37,13 +37,10 @@
 						 <?php if (perch_get('cat')) {
 		            echo '<h1 class="module-title align-center">'.perch_blog_category(perch_get('cat'), true).'</h1>';}
 		            ?>
-			            <?php if (perch_get('tag')) {
-			            echo '<h1 class="module-title align-center">'.perch_blog_tag(perch_get('tag'), true).'</h1>';
-						?>
-
+		            
 
 						<div class="module-subtitle align-center">
-							Our Blog Archive
+							The latest news and musings from our agency, the industry and life in general
 							<div class="post-share">
 								<span class="yellow lead">–</span><br/>
 								<span class='st_sharethis_large' displayText='ShareThis'></span>
