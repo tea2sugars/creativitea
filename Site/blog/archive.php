@@ -37,6 +37,7 @@
 						<h1 class="module-title align-center">Our Creative World</h1>
 						 <?php if (perch_get('cat')) {
 		            echo '<h4>'.perch_blog_category(perch_get('cat'), true).'</h4>';
+		            ?>
 
 						<div class="module-subtitle align-center">
 							The latest news and musings from our agency, the industry and life in general
