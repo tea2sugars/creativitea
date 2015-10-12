@@ -31,10 +31,10 @@
 					<h1>
 						<span class="yellow">–</span><br/>
 						We are Creativitea&trade;<br/>
-						A <a href="#">brand</a>, <a href="#">digital</a> & <a href="#">print design</a> agency.<br/>
+						A <a href="branding">brand</a>, <a href="digital-design">digital</a> & <a href="print-design">print design</a> agency.<br/>
 						<span class="yellow">–</span>
 					</h1>
-					<a class="btn btn-lg btn-y btn-round" href="#">View our work</a>
+					<a class="btn btn-lg btn-y btn-round" href="portfolio/">View our work</a>
 				</div>
 			</div>
 		</div>
