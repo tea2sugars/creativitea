@@ -1,0 +1,12 @@
+
+<h3>Categories</h3>
+<ul>
+
+    <li><a href="archive.php?cat=design">Design (3)</a></li>
+
+    <li><a href="archive.php?cat=business">Business (4)</a></li>
+
+    <li><a href="archive.php?cat=general">General (1)</a></li>
+
+    <li><a href="archive.php?cat=press">Press (11)</a></li>
+</ul>
