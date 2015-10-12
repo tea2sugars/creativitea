@@ -22,54 +22,12 @@
 
 	<!-- WRAPPER -->
 	<div class="wrapper">
-
-		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/blog-header.jpg">
-
-			<div class="container">
-
-				<!-- MODULE TITLE -->
-				<div class="row">
-
-					<div class="col-sm-6 col-sm-offset-3">
-
-						<h1 class="module-title align-center">Our Creative World</h1>
-
-						<div class="module-subtitle align-center">
-							The latest news and musings from our agency, the industry and life in general
-							<div class="post-share">
-								<span class="yellow lead">–</span><br/>
-								<span class='st_sharethis_large' displayText='ShareThis'></span>
-								<span class='st_facebook_large' displayText='Facebook'></span>
-								<span class='st_twitter_large' displayText='Tweet'></span>
-								<span class='st_linkedin_large' displayText='LinkedIn'></span>
-								<span class='st_pinterest_large' displayText='Pinterest'></span>
-								<span class='st_pocket_large' displayText='Pocket'></span>
-								<span class='st_instapaper_large' displayText='Instapaper'></span>
-								<span class='st_email_large' displayText='Email'></span>
-							</div>
-
-						</div>
-						
-					</div>
-
-				</div>
-				<!-- /MODULE TITLE -->
-
-			</div>
-
-		</section >
-		<!-- /HOME -->
-
 	
 		<section class="module p-b-0">
 
 			<div class="container">
 
 				<div class="row multi-columns-row post-columns">						
-						<!-- POST -->
-						<div class="post">
-		   
 									    <?php 	        
 		        // defaults for all modes
 		        $posts_per_page = 18;
@@ -201,7 +159,6 @@
 		    ?>
 						</div>
 				</div>
-			</div>
 		</section>
 	
 	<!-- DIVIDER -->
@@ -230,42 +187,5 @@
 	<script src="../assets/js/contact.js"></script>
 	<script src="../assets/js/custom.js"></script>
 
-</body>
-</html>
-	
-	
-	<!--  change cols2-nav-right to cols2-nav-left if you want the sidebar on the left -->
-	<div class="wrapper cols2-nav-right">
-	
-		<div class="primary-content">
-	   
-
-	    </div>
-		<nav class="sidebar">
-		    <h2>Filter archive</h2>
-		    <!--  By category listing -->
-		    <?php perch_blog_categories(); ?>
-		    <!--  By tag -->
-		    <?php perch_blog_tags(); ?>
-		    <!--  By year -->
-		    <?php perch_blog_date_archive_years(); ?>
-		    <!--  By year and then month - can take parameters for two templates. The first displays the years and the second the months see the default templates for examples -->
-		    <?php perch_blog_date_archive_months(); ?>
-    	</nav>
-	</div>
-	
-	<footer class="layout-footer">
-		<div class="wrapper">
-			<ul class="social-links">
-				<li class="twitter"><a href="#" rel="me">Twitter</a></li>
-				<li class="facebook"><a href="#" rel="me">Facebook</a></li>
-				<li class="flickr"><a href="#" rel="me">Flickr</a></li>
-				<li class="linkedin"><a href="#" rel="me">LinkedIn</a></li>
-				<li class="rss"><a href="rss.php">RSS</a></li>
-			</ul>
-			<small>Copyright &copy; <?php echo date('Y'); ?></small>
-		</div>
-	</footer>
-	<?php perch_get_javascript(); ?>
 </body>
 </html>
