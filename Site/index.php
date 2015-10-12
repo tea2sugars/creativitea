@@ -82,113 +82,102 @@
 					<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
 		
 						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-5.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-1.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">CrawfordJames Website Design</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Responsive Website Design<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-4.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-3.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-2.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
+				<li class="work-item branding webdesign print disrupt digital">
+					<a href="portfolio/powwownow">
+						<div class="work-image">
+							<img src="assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Powwownow Branding</h3>
+							<div class="work-descr ">
+								Disruptive thinking for better brand communication
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding webdesign print digital">
+					<a href="portfolio/fivethree">
+						<div class="work-image">
+							<img src="assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">FiveThree Branding</h3>
+							<div class="work-descr ">
+								Branding a new Marketing Consultancy
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+
+				
+
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item webdesign digital">
+					<a href="portfolio/5mm">
+						<div class="work-image">
+							<img src="assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">5mm.co</h3>
+							<div class="work-descr ">
+								Website Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print branding">
+					<a href="portfolio/gentspack">
+						<div class="work-image">
+							<img src="assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Gents Pack</h3>
+							<div class="work-descr ">
+								Brand design and Packaging
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding print">
+					<a href="portfolio/nikerx">
+						<div class="work-image">
+							<img src="assets/images/projects/NikeRX_thumbnail.jpg" alt="Nike RX at Marchon"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Nike RX @ Marchon</h3>
+							<div class="work-descr ">
+								Premium Product Brochure
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding">
+					<a href="portfolio/river">
+						<div class="work-image">
+							<img src="assets/images/projects/River_thumbnail.jpg" alt="River Brand & Visual Identity"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">River</h3>
+							<div class="work-descr ">
+								Brand & Visual Identity
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 					
 		
 					</ul>
