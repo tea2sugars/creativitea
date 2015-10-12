@@ -4,11 +4,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<meta name="description" content="<?php echo $excerpt ?>"/>
+	<meta name="description" content="Creativitea's blog brings you an insight to creative industry, agency news, inspiration and our personal opinions related to creative culture.">
 	<meta name="author" content="">
 	
-	<title>Archive - Design Blog by Creativitea</title>
+	<title>Design Blog | Agency News | Press | Creativitea</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>	
 	<!--Share widget-->
@@ -17,16 +16,57 @@
 	<script type="text/javascript">stLight.options({publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 	
 </head>
-<body>	
+<body>
+
 	<?php include('../assets/php/includes/nav-internal.html');?>
+
 
 	<!-- WRAPPER -->
 	<div class="wrapper">
+
+		<!-- HOME -->
+		<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/blog-header.jpg">
+
+			<div class="container">
+
+				<!-- MODULE TITLE -->
+				<div class="row">
+
+					<div class="col-sm-6 col-sm-offset-3">
+
+						<h1 class="module-title align-center">Our Creative World</h1>
+
+						<div class="module-subtitle align-center">
+							The latest news and musings from our agency, the industry and life in general
+							<div class="post-share">
+								<span class="yellow lead">–</span><br/>
+								<span class='st_sharethis_large' displayText='ShareThis'></span>
+								<span class='st_facebook_large' displayText='Facebook'></span>
+								<span class='st_twitter_large' displayText='Tweet'></span>
+								<span class='st_linkedin_large' displayText='LinkedIn'></span>
+								<span class='st_pinterest_large' displayText='Pinterest'></span>
+								<span class='st_pocket_large' displayText='Pocket'></span>
+								<span class='st_instapaper_large' displayText='Instapaper'></span>
+								<span class='st_email_large' displayText='Email'></span>
+							</div>
+
+						</div>
+						
+					</div>
+
+				</div>
+				<!-- /MODULE TITLE -->
+
+			</div>
+
+		</section >
+		<!-- /HOME -->
+
 	
 		<section class="module p-b-0">
 
 			<div class="container">
-
+				
 										
 									    <?php 	        
 		        // defaults for all modes
@@ -155,9 +195,11 @@
 		      	}
 
 		    ?>
-		    			</div>
-						</div>
-				</div>
+
+				
+		    
+			</div>
+				
 		</section>
 	
 	<!-- DIVIDER -->
