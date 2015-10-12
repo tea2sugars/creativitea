@@ -73,7 +73,7 @@
 			</div>
 
 			<!-- PORTFOLIO LIST -->
-			<ul id="works-grid" class="works-grid works-grid-5 works-hover-w">
+			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding webdesign print disrupt digital">
