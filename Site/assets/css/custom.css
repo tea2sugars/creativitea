@@ -53,12 +53,20 @@ Place here your custom CSS styles
 #home {
 	background-color: black;
 	background-image: url(../images/home-mobile.jpg);
-	background-repeat: none;}
+	background-repeat: none;
+	}
+	
+#social-links .lead {
+	font-size:20px;
+}
 /*small device*/
 @media only screen and (min-width: 480px) {
 	#home {
 		background-image: url(../images/home-tablet.jpg);
 	}
+	#social-links .lead { 
+		font-size:12px;
+		}
 }
 /*medium & larger device*/
 @media (min-width: 768px){ 
