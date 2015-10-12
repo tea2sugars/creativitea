@@ -17,11 +17,6 @@
 	
 </head>
 <body>
-<!-- PRELOADER -->
-	<div class="page-loader">
-		<div class="loader">Brewing...</div>
-	</div>
-	<!-- /PRELOADER -->
 
 	<?php include('../assets/php/includes/nav-internal.html');?>
 
@@ -86,7 +81,7 @@
 			paths used in these templates are correct for your installation.
 			 -->
 			 		<?php 
-				 		perch_blog_recent_posts(12);
+				 		perch_blog_recent_posts(18);
 					?>
 		    
 				</div>
