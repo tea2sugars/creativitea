@@ -27,7 +27,7 @@
 		<!-- HOME -->
 		<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/blog-header.jpg">
 
-			<div class="container">
+			<div class="container" id="category_post">
 
 				<!-- MODULE TITLE -->
 				<div class="row">

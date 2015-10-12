@@ -45,3 +45,7 @@ Place here your custom CSS styles
 .team-item {
 	min-height:200px;
 }
+
+#category_post {
+	height:400px;
+}
