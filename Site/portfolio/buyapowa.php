@@ -135,21 +135,7 @@
 		</section>
 		<!-- /PORTFOLIO CONTENT -->
 
-		<!-- PAGINATION -->
-		<section class="module-small p-t-50">
-
-			<div class="container">
-			
-				<div class="pagination font-inc text-uppercase">
-			
-					<a href="http://teabagging.theteapot.me.uk/portfolio/" role="button" class="btn btn-lg btn-y btn-round">View portfolio</a>
-			
-				</div>
-			
-			</div>
-
-		</section>
-		<!-- /PAGINATION -->
+		<?php include('../assets/php/includes/portfolio-pagination.html');?>
 
 		<!-- DIVIDER -->
 		<hr class="divider-w">
