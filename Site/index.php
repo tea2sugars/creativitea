@@ -101,11 +101,11 @@
 				<li class="work-item print branding">
 					<a href="portfolio/sodexo-pass">
 						<div class="work-image">
-							<img src="../assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Say Shopping Pass">
+							<img src="assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Say Shopping Pass">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Sodexo SayShopping Pas</h3>
-							<div class="work-descr ">
+							<h3 class="work-title">Sodexo SayShopping Pass</h3>
+							<div class="work-descr">
 								Print design for Benefits & Award Services
 							</div>
 						</div>

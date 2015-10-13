@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/Sodexo_portfolio_01" alt="Sodexo Say Shopping Pass Visual Identity"></p>
+						<p><img src="../assets/images/projects/Sodexo_portfolio_01.jpg" alt="Sodexo Say Shopping Pass Visual Identity"></p>
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -128,11 +128,11 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 						<p><img src="../assets/images/projects/Sodexo_portfolio_02.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
-						<p><img src="../assets/images/projects/Sodexo_portfolio_02.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
-						<p><img src="../assets/images/projects/Sodexo_portfolio_02.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
-						<p><img src="../assets/images/projects/Sodexo_portfolio_02.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
-						<p><img src="../assets/images/projects/Sodexo_portfolio_02.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
-						<p><img src="../assets/images/projects/Sodexo_portfolio_02.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
+						<p><img src="../assets/images/projects/Sodexo_portfolio_03.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
+						<p><img src="../assets/images/projects/Sodexo_portfolio_04.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
+						<p><img src="../assets/images/projects/Sodexo_portfolio_05.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
+						<p><img src="../assets/images/projects/Sodexo_portfolio_06.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
+						<p><img src="../assets/images/projects/Sodexo_portfolio_07.jpg" alt="Sodexo Say Shopping Pass Voucher"></p>
 						</div>
 
 				</div><!-- .row -->

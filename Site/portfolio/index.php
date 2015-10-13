@@ -208,7 +208,7 @@
 				<li class="work-item branding">
 					<a href="tantemarie-brand">
 						<div class="work-image">
-							
+							<img src="../assets/images/projects/tantm_portfolio_thumbnail.jpg" alt="Tante Marie Branding">
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">Tante Marie Branding</h3>
@@ -235,10 +235,10 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digtal">
-					<a href="sodexo-pass">
+				<li class="work-item digital">
+					<a href="lycamobile-app">
 						<div class="work-image">
-							<img src="../assets/images/projects/Lyca_portfolio_thumbnail.jpg" alt="Sodexo Say Shopping Pass">
+							<img src="../assets/images/projects/Lyca_portfolio_thumbnail.jpg" alt="Lycamobile Customer service App">
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">Lycamobile Customer Services App</h3>
