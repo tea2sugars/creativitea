@@ -98,7 +98,7 @@
 								<h5 class="m-t-0">What we did</h5>
 								<p>We designed a modern and contemporary brand, featuring logo design, visual identity and a tone of voice to reflect the relaxed and easy nature of Simon Webbe's approach to healthily living and exercise.</p>
 
-<p>The bold typography and minimum palette works along side the clean and structured design mantissa a premium feel with a relaxed approach underpinned by a tone of voice and attitude inspired by casual ‘Gym chat’.</p>
+<p>The bold typography and minimum palette works along side the clean and structured design makes a premium feel with a relaxed approach underpinned by a tone of voice and attitude inspired by casual ‘Gym chat’.</p>
 
 <p>A complete set of brand guidelines and branded marketing collateral including advertising and digital communications was produced ready for the launch and for the internal team at Crawford James to take forward and manage further outputs. We also designed the packaging for the entire SizeMe range, compiling of various tub and bottle sizes.
 </p>
