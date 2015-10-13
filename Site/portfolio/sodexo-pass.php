@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea work with Tante Marie Culianry Academy and The Restaurant and have put together their brand guidelines to help guide the visual identity.">
+	<meta name="description" content="Creativitea work with Sodexo to design a unique identity and voucher design for tehir nationwide Say Shopping pass">
 	<meta name="author" content="">
 	
 	<title>Sodexo Shopping Pass | Print Design | Voucher Design | Creativitea - A Print & Brand Design Agency</title>
