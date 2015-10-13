@@ -91,12 +91,12 @@
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
-					<a href="../ portfolio-single">
+					<a href="buyapowa_saas">
 						<div class="work-image">
 							<img src="../assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Buyapowa Social Commerce SAAS</h3>
+							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
 							<div class="work-descr ">
 								UX & Website Design
 							</div>
