@@ -208,7 +208,7 @@
 				<li class="work-item branding">
 					<a href="tantemarie-brand">
 						<div class="work-image">
-							<img src="../assets/images/projects/tantm_portfolio_thumbnail.jpg" alt="Tante Marie Brand Guidelines">
+							
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">Tante Marie Branding</h3>
@@ -220,15 +220,15 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing">
-					<a href="../ portfolio-single">
+				<li class="work-item print branding">
+					<a href="sodexo-pass">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="../assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Say Shopping Pass">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">Sodexo SayShopping Pas</h3>
 							<div class="work-descr ">
-								Marketing
+								Print design for Benefits & Award Services
 							</div>
 						</div>
 					</a>

@@ -98,20 +98,19 @@
 				<!-- /PORTFOLIO ITEM -->
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding webdesign print digital">
-					<a href="portfolio/fivethree">
+				<li class="work-item print branding">
+					<a href="portfolio/sodexo-pass">
 						<div class="work-image">
-							<img src="assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding"/>
+							<img src="../assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Say Shopping Pass">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">FiveThree Branding</h3>
+							<h3 class="work-title ">Sodexo SayShopping Pas</h3>
 							<div class="work-descr ">
-								Branding a new Marketing Consultancy
+								Print design for Benefits & Award Services
 							</div>
 						</div>
 					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
+				</li>				<!-- /PORTFOLIO ITEM -->
 
 				
 
