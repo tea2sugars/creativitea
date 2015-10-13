@@ -226,7 +226,7 @@
 							<img src="../assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Say Shopping Pass">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Sodexo SayShopping Pas</h3>
+							<h3 class="work-title ">Sodexo SayShopping Pass</h3>
 							<div class="work-descr ">
 								Print design for Benefits & Award Services
 							</div>
@@ -235,15 +235,15 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing">
-					<a href="../ portfolio-single">
+				<li class="work-item digtal">
+					<a href="sodexo-pass">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="../assets/images/projects/Lyca_portfolio_thumbnail.jpg" alt="Sodexo Say Shopping Pass">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">Lycamobile Customer Services App</h3>
 							<div class="work-descr ">
-								Marketing
+								Android App design
 							</div>
 						</div>
 					</a>
