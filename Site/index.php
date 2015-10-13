@@ -207,38 +207,38 @@
 
 				<div class="row">
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/C4wht.gif" alt="C4wht" width="160" height="95">
+						<img src="assets/images/clients/C4wht.png" alt="C4wht" width="160" height="95">
 					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/CPWwht.gif" alt="CPWwht" width="160" height="95">
+						<img src="assets/images/clients/CPWwht.png" alt="CPWwht" width="160" height="95">
 					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/DixonsCPWwht.gif" alt="DixonsCPWwht" width="160" height="95">
+						<img src="assets/images/clients/DixonsCPWwht.png" alt="DixonsCPWwht" width="160" height="95">
 					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/Freeviewwht.gif" alt="Freeview" width="160" height="95">
+						<img src="assets/images/clients/Freeviewwht.png" alt="Freeview" width="160" height="95">
 					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/GeekSquadwht.gif" alt="Geek Squad" width="160" height="95">
+						<img src="assets/images/clients/GeekSquadwht.png" alt="Geek Squad" width="160" height="95">
 					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/GSKwht.gif" alt="GSK" width="160" height="95">
+						<img src="assets/images/clients/GSKwht.png" alt="GSK" width="160" height="95">
 					</article>
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/iDwhit.gif" alt="iD Mobile" width="160" height="95">
-					</article>
-					
-					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/Powwownowwht.gif" alt="Powwownow" width="160" height="95">
+						<img src="assets/images/clients/iDwhit.png" alt="iD Mobile" width="160" height="95">
 					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/Sodexowht.gif" alt="Sodexo" width="160" height="95">
+						<img src="assets/images/clients/Powwownowwht.png" alt="Powwownow" width="160" height="95">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10">
+						<img src="assets/images/clients/Sodexowht.png" alt="Sodexo" width="160" height="95">
 					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10">
@@ -246,11 +246,11 @@
 					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/TanteMariewht.gif" alt="TanteMarie" width="160" height="95">
+						<img src="assets/images/clients/TanteMariewht.png" alt="TanteMarie" width="160" height="95">
 					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10">
-						<img src="assets/images/clients/ThermoFwht.gif" alt="Thermo Fisher" width="160" height="95">
+						<img src="assets/images/clients/ThermoFwht.png" alt="Thermo Fisher" width="160" height="95">
 					</article>
 					
 				</div>
