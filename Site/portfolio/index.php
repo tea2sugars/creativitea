@@ -89,25 +89,21 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding print digital">
-					<a href="fivethree">
+				<li class="work-item digital">
+					<a href="../ portfolio-single">
 						<div class="work-image">
-							<img src="../assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding"/>
+							<img src="../assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">FiveThree Branding</h3>
+							<h3 class="work-title ">Buyapowa Social Commerce SAAS</h3>
 							<div class="work-descr ">
-								Branding a new Marketing Consultancy
+								UX & Website Design
 							</div>
 						</div>
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-
-				
-
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
 					<a href="5mm">
@@ -280,15 +276,15 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing">
-					<a href="../ portfolio-single">
+				<li class="work-item branding print digital">
+					<a href="fivethree">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="../assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding"/>
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">FiveThree Branding</h3>
 							<div class="work-descr ">
-								Marketing
+								Branding a new Marketing Consultancy
 							</div>
 						</div>
 					</a>
