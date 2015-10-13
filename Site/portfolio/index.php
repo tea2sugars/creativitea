@@ -250,15 +250,15 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing">
-					<a href="../ portfolio-single">
+				<li class="work-item branding">
+					<a href="sizeme-branding">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="../assets/images/projects/SizeMe_thumbnail.jpg" alt="SizeMe Branding">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">SizeMe Nutrition</h3>
 							<div class="work-descr ">
-								Marketing
+								Branding & Visual Identity
 							</div>
 						</div>
 					</a>
