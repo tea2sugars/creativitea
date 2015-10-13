@@ -267,33 +267,7 @@
 		<!-- /CLIENTS -->
 
 		<!-- TESTIMONIAL -->
-		<section class="module-small dark-section-80" id="testimonials">
-
-			<div class="container">
-
-				<div class="row">
-				<!-- MODULE TITLE -->
-					<div class="col-sm-2 col-sm-offset-2">
-						<h3>Tante Marie</h3>
-					</div>
-					<!-- /MODULE TITLE -->
-
-					<!-- BLOCKQUOTE -->
-					<div class="col-sm-6">
-						<span class="yellow">–</span>
-						<blockquote>
-							Creativitea made it look easy and throughout the process their creative team have just naturally understood what we were looking to achieve… they offer all the benefits of a small business, who we have formed a great personal relationships with, but with all the professionalism of an experienced professional outfit.	
-						</blockquote>
-						<span class="yellow">–</span>
-						<p class="small font-uppercase">Andrew Maxwell | Principle & Director</p>
-					</div>
-					<!-- /BLOCKQUOTE -->
-
-				</div>
-
-			</div>
-
-		</section>
+		<?php include('assets/php/includes/testimonial.html');?>
 		<!-- /TESTIMONIAL -->
 		
 		<?php include('assets/php/includes/footer-services.html');?>
