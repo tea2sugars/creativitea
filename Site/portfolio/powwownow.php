@@ -105,9 +105,7 @@
 								<p>A collective decision was made that a new, better defined proposition - company vision was need to align it more with the direction the business was taking and their strategic planning. We devised a series of new ‘visions’ based on the finding from the workshops, deciding on the new statement of ‘When it matters’, underpinned by there quality of service, reliability, customer care and reputation.</p>
 								<p>This translated into the development a of proposed brand redesign, including new logo, visual identity and tone of voice. </p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>

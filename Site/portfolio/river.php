@@ -98,9 +98,7 @@
 								<p>We designed a adaptable logotype that featured a custom geometric san serif typeface in the footsteps of the traditional grotesque typeface Avantgarde. A softer and more contemporary approach with visual corrections. The addition of islands, bridges and rounded corners within the letterforms created a stencil style forms that made up the logos typeface. The identity also features the use of geometric shapes in bright colours forming abstract patterns...</p>
 								<p>Deliverables for the project were a new full logo design and digital cover artwork for iTunes, SoundCloud and Spotify.</p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>

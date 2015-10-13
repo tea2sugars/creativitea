@@ -98,9 +98,7 @@
 								<p>We had to develop a look and feel that would set this sophisticated sports collection apart, whilst adhering to Nike's recognisable brand.</p>
 								<p>We have worked on various projects for the Nike RX collection, designing different themes for every season, as well as designing bespoke branding schemes for opening events at retailers such as Nike @ Turners.</p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>

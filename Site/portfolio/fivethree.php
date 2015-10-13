@@ -97,9 +97,7 @@
 								<h5 class="m-t-0">What we did</h5>
 								<p>We designed an identity that reflected their friendly, passionate and knowledgable approach that was underpinned by a simple but strong logo mark, bold gridded typography in confident combinations of colour, positioned on deep black. This look was then translated into a website, stationery, presentation systems and complete brand guidelines.</p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>

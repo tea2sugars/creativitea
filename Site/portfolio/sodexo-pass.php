@@ -102,10 +102,7 @@
 								<p>Working closely with the production team in place, we implemented the use of holographic, gold foil areas and colour changing thermo inks on both sides of the voucher into the artworks design, to increase the security and officiation of the vouchers and to prevent the risk of them being easily replicated.</p>
 								<p>The final vouchers are now proudly part of the Sodexo product portfolio, bringing a brighter and modern look and feel and giving a long serving product a new lease of life.</p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="contact" class="btn btn-y btn-round btn-lg">Contact Us</a>
-								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>

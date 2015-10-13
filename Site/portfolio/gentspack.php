@@ -105,9 +105,7 @@
 <p>Based around the idea of “the club to join”, we created a identity that reflects the luxury products and lifestyle The Gents Pack provides, whilst giving it a distinctly modern and contemporary feel. The new identity will be visible across marketing materials including advertising, packaging and digital communications.</p>
 <p>Deliverables for the project were a set of guidelines, new full logo design and packaging.</p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>

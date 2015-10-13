@@ -103,10 +103,7 @@
 <p>A complete set of brand guidelines and branded marketing collateral including advertising and digital communications was produced ready for the launch and for the internal team at Crawford James to take forward and manage further outputs. We also designed the packaging for the entire SizeMe range, compiling of various tub and bottle sizes.
 </p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="contact" class="btn btn-y btn-round btn-lg">Contact Us</a>
-								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>

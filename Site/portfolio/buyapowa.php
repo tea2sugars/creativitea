@@ -101,9 +101,7 @@
 
 <p>By streamlining the connected services and analysing the performance of the site we were able to make the site run a lot smoother. We optimised the way the site was loaded by checking how the site loaded it’s scripts. We managed to ensure content is loaded from the start so there was no delay improving the bounce rates.</p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>

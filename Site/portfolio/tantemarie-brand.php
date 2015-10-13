@@ -99,10 +99,7 @@
 
 <p>The final guidelines were produced in a digital and printed format.</p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="contact" class="btn btn-y btn-round btn-lg">Contact Us</a>
-								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>

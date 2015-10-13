@@ -98,10 +98,8 @@
 								<p>We were under quite a tight budget and deadline for this project so we stepped up to the challenge and opted to build 5mm a website using Twitter Bootstrap which enable us to efficiently build and design a elegant website around the framework.</p>
 								<p>We opted to use full-screen, scalable imagery for the clients photography to really help show off their work in the browser. The website is a means of serving this content and we didn't want the website to draw attention away from our clients amazing portfolio.</p>
 								<p>The website scales gracefully across different devices ensuring the content looks beautiful wherever their users happen to be.</p>
-
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
+								
 							</div>
 
 						</div>

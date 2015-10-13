@@ -103,10 +103,7 @@
 
 <p>Elements of Surrey Uncovered is now being used by Community Foundation for Surrey as a standard of ’best practices’ for their brand going forward.</p>
 
-								<div class="portfolio-contact">
-									<p class="lead">Do you have a similar project? We would love to hear from you.</p>
-									<a href="contact" class="btn btn-y btn-round btn-lg">Contact Us</a>
-								</div>
+								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
 
 						</div>
