@@ -56,13 +56,12 @@
 				<div class="row">
 					<div class="col-sm-12">
 
-						<ul id="filters" class="filter  hidden-xs">
+						<ul id="filters" class="filter hidden-xs">
 							<li><a href="#" data-filter="*" class="current wow fadeInUp">All</a></li>
 							<li><a href="#" data-filter=".branding" class="wow fadeInUp" data-wow-delay="0.2s">Branding</a></li>
-							<li><a href="#" data-filter=".digital" class="wow fadeInUp" data-wow-delay="0.4s">Digital Design</a></li>
-							<li><a href="#" data-filter=".webdesign" class="wow fadeInUp" data-wow-delay="0.6s">Web Design</a></li>
+							<li><a href="#" data-filter=".digital" class="wow fadeInUp" data-wow-delay="0.4s">Digital & Web Design</a></li>
 							<li><a href="#" data-filter=".print" class="wow fadeInUp" data-wow-delay="0.8s">Print Design</a></li>
-							<li><a href="#" data-filter=".film" class="wow fadeInUp" data-wow-delay="0.8s">Film & Animation</a></li>
+							<li><a href="#" data-filter=".video" class="wow fadeInUp" data-wow-delay="0.8s">Video Production</a></li>
 							<li><a href="#" data-filter=".disrupt" class="wow fadeInUp" data-wow-delay="0.8s">Ideas & Disruption</a></li>
 						</ul>
 
@@ -76,7 +75,7 @@
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding webdesign print disrupt digital">
+				<li class="work-item branding print disrupt digital">
 					<a href="powwownow">
 						<div class="work-image">
 							<img src="../assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
@@ -92,7 +91,7 @@
 				<!-- /PORTFOLIO ITEM -->
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding webdesign print digital">
+				<li class="work-item branding print digital">
 					<a href="fivethree">
 						<div class="work-image">
 							<img src="../assets/images/projects/53_portfolio_thumbnail.jpg" alt="FiveThree Branding"/>
@@ -110,7 +109,7 @@
 				
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item webdesign digital">
+				<li class="work-item digital">
 					<a href="5mm">
 						<div class="work-image">
 							<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
@@ -174,7 +173,7 @@
 				<!-- /PORTFOLIO ITEM -->
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item webdesign digital">
+				<li class="work-item digital">
 					<a href="buyapowa">
 						<div class="work-image">
 							<img src="../assets/images/projects/buyapowa_portfolio_thumbnail.jpg" alt="Buyapowa Website">
@@ -190,7 +189,7 @@
 				<!-- /PORTFOLIO ITEM -->
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital webdesign">
+				<li class="work-item digital">
 					<a href="tantemarie-restaurant">
 						<div class="work-image">
 							<img src="../assets/images/projects/tantemarie-restaurant_portfolio_thumbnail.jpg" alt="Tante Marie The Restaurant website">
@@ -221,7 +220,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
+				<li class="work-item marketing">
 					<a href="../ portfolio-single">
 						<div class="work-image">
 							<img src="assets/images/work-2.jpg" alt="">
@@ -236,7 +235,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
+				<li class="work-item marketing">
 					<a href="../ portfolio-single">
 						<div class="work-image">
 							<img src="assets/images/work-2.jpg" alt="">
@@ -251,7 +250,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
+				<li class="work-item marketing">
 					<a href="../ portfolio-single">
 						<div class="work-image">
 							<img src="assets/images/work-2.jpg" alt="">
@@ -266,7 +265,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
+				<li class="work-item marketing">
 					<a href="../ portfolio-single">
 						<div class="work-image">
 							<img src="assets/images/work-2.jpg" alt="">
@@ -281,7 +280,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
+				<li class="work-item marketing">
 					<a href="../ portfolio-single">
 						<div class="work-image">
 							<img src="assets/images/work-2.jpg" alt="">
@@ -296,7 +295,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
+				<li class="work-item marketing">
 					<a href="../ portfolio-single">
 						<div class="work-image">
 							<img src="assets/images/work-2.jpg" alt="">
@@ -311,7 +310,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing webdesign">
+				<li class="work-item marketing">
 					<a href="../ portfolio-single">
 						<div class="work-image">
 							<img src="assets/images/work-2.jpg" alt="">
