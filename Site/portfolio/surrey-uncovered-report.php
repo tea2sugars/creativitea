@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/CFS_general_headers.jpg">
+	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/CFS_general_header.jpg">
 
 			<div class="container">
 
