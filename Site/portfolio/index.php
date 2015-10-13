@@ -265,15 +265,15 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing">
-					<a href="../ portfolio-single">
+				<li class="work-item branding">
+					<a href="surrey-uncovered-report">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="../assets/images/projects/CFS_portfolio_thumbnail.jpg" alt="Surrey Uncovered Annual Report">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">Surrey Uncovered</h3>
 							<div class="work-descr ">
-								Marketing
+								Annual Report
 							</div>
 						</div>
 					</a>
