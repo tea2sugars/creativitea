@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/buyapowa_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/Buyapowa_SAAS_general_header.jpg">
 
 			<div class="container">
 
@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/buyapowa_portfolio_01.jpg" alt="Buyapowa Responsive Website Design"></p>
+						<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_01.jpg" alt="Buyapowa Responsive Website Design"></p>
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -121,9 +121,10 @@
 
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
-
-						<p><img src="../assets/images/projects/buyapowa_portfolio_02.jpg" alt="Buyapowa Mobile Website"></p>
-						<p><img src="../assets/images/projects/buyapowa_portfolio_03.jpg" alt="Buyapowa Website"></p>
+							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_02.jpg" alt="Buyapowa Website"></p>
+							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_03.jpg" alt="Buyapowa Website"></p>
+							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_04.jpg" alt="Buyapowa Website"></p>
+							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_05.jpg" alt="Buyapowa Website"></p>
 						</div>
 
 				</div><!-- .row -->
