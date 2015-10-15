@@ -62,33 +62,38 @@
 
 				</div>
 				<!-- /MODULE TITLE -->
-				<div class="row">
-					<perch:form id="contact" method="post" app="perch_forms">
-					<perch:content id="intro" type="textarea" label="Intro" textile="true" editor="markitup" size="m" />
-				<div>
-					<perch:label for="name">Name</perch:label>
-					<perch:input type="text" id="name" required="true" label="Name" />
-					<perch:error for="name" type="required">Please add your name</perch:error>
-					</div>
-				<div>
-					<perch:label for="email">Email</perch:label>
-					<perch:input type="email" id="email" required="true" label="Email" placeholder="you@company.com" />
-					<perch:error for="email" type="required">Please add your email address</perch:error>
-					<perch:error for="email" type="format">Please check your email address</perch:error>
-					</div>
-					<div>
-				<perch:label for="message">Message</perch:label>
-					<perch:input type="textarea" id="message" required="true" label="Message" />
-					<perch:error for="message" type="required">Please add a message</perch:error>
-				</div>
-				<div>
-					<perch:input type="submit" id="submit" value="Send" />
-				</div>
-			<perch:success>
-			<perch:content id="success" type="textarea" label="Thank you message" textile="true" editor="markitup" />
-		</perch:success>
-	</perch:form>
-				</div>
+				<perch:form id="contact" method="post" app="perch_forms" class="form-horizontal">
+	<div class="form-group">
+  		<perch:label for="name" class="col-sm-2 control-label">Name</perch:label>
+	  	<div class="col-sm-10">
+		    <perch:input type="text" id="name" required="true" label="Name" />
+			<perch:error for="name" type="required">Please add your name</perch:error>
+		</div>  
+	</div>
+  <div class="form-group">
+		<perch:label for="email" class="col-sm-2 control-label">Email</perch:label>
+		<div class="col-sm-10">
+			<perch:input type="email" id="email" required="true" label="Email" placeholder="you@company.com" />
+			<perch:error for="email" type="required">Please add your email address</perch:error>
+			<perch:error for="email" type="format">Please check your email address</perch:error>
+		</div>
+  </div>
+  <div class="form-group">
+	  	<perch:label for="message" class="col-sm-2 control-label">Message</perch:label>
+	  	<div class="col-sm-10">
+		  	<perch:input type="textarea" id="message" required="true" label="Message" />
+		  	<perch:error for="message" type="required">Please add a message</perch:error>
+		</div>
+  </div>
+  <div class="form-group">
+	  	<div class="col-sm-offset-2 col-sm-10">
+	  		<perch:input type="submit" id="submit" value="Send Message" class="btn btn-success btn-lg"/>
+	  	</div>
+  </div>
+  <perch:success>
+        <perch:content id="success" type="textarea" label="Thank you message" textile="true" editor="markitup" />
+   </perch:success>
+</perch:form>
 				<!-- CONTACT FORM -->
 				<div class="row">
 
