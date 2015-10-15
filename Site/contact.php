@@ -65,9 +65,10 @@
 				<!-- CONTACT FORM -->
 				<div class="row">
 
-					<div class="col-sm-6 col-sm-offset-3" style="height:400px;"">
+					<div class="col-sm-6 col-sm-offset-3" style="height:400px;">
 					<iframe id="typeform-full" width="100%" height="100%" style="display: block;" frameborder="0" src="https://creativitea.typeform.com/to/H1Gm5d"></iframe>
 					</div>
+				</div>
 
 		</section>
 		<!-- /CONTACT -->
