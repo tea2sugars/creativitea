@@ -64,21 +64,37 @@
 				</div>
 				<!-- /MODULE TITLE -->
 				<div class="row">
-					<p><perch:email id="email_message" encode="false" /></p>
-  <table>
-    <tr>
-      <th>Name</th>
-      <td><perch:email id="name" /></td>
-	</tr>
-    <tr>
-      <th>Email</th>
-      <td><perch:email id="email" /></td>
-	</tr>
-    <tr>
-      <th>Message</th>
-      <td><perch:email id="message" encode="false" /></td>
-	</tr>
-  </table>
+					<perch:form id="contact" method="post" app="perch_forms">
+    
+    <perch:content id="intro" type="textarea" label="Intro" textile="true" editor="markitup" size="m" />
+
+    <div>
+        <perch:label for="name">Name</perch:label>
+        <perch:input type="text" id="name" required="true" label="Name" />
+        <perch:error for="name" type="required">Please add your name</perch:error>
+    </div>
+
+    <div>
+        <perch:label for="email">Email</perch:label>
+        <perch:input type="email" id="email" required="true" label="Email" placeholder="you@company.com" />
+        <perch:error for="email" type="required">Please add your email address</perch:error>
+        <perch:error for="email" type="format">Please check your email address</perch:error>
+    </div>
+
+    <div>
+        <perch:label for="message">Message</perch:label>
+        <perch:input type="textarea" id="message" required="true" label="Message" />
+        <perch:error for="message" type="required">Please add a message</perch:error>
+    </div>
+
+    <div>
+        <perch:input type="submit" id="submit" value="Send" />
+    </div>
+
+    <perch:success>
+        <perch:content id="success" type="textarea" label="Thank you message" textile="true" editor="markitup" />
+    </perch:success>
+</perch:form>
 				</div>
 				<!-- CONTACT FORM -->
 				<div class="row">
