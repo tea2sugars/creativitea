@@ -1,3 +1,5 @@
+<?php include('../perch/runtime.php'); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,7 +63,23 @@
 
 				</div>
 				<!-- /MODULE TITLE -->
-
+				<div class="row">
+					<p><perch:email id="email_message" encode="false" /></p>
+					  <table>
+					    <tr>
+					      <th>Name</th>
+					      <td><perch:email id="name" /></td>
+						</tr>
+					    <tr>
+					      <th>Email</th>
+					      <td><perch:email id="email" /></td>
+						</tr>
+					    <tr>
+					      <th>Message</th>
+					      <td><perch:email id="message" encode="false" /></td>
+						</tr>
+					  </table>
+				</div>
 				<!-- CONTACT FORM -->
 				<div class="row">
 
