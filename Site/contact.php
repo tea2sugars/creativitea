@@ -9,13 +9,28 @@
 	<title>Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
+		<style type="text/css">
+    html{
+      margin: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+    iframe{
+      position: absolute;
+      left:0;
+      right:0;
+      bottom:0;
+      top:0;
+      border:0;
+    }
+  </style>
 
 </head>
 <body>
 
 
 	<?php include('assets/php/includes/nav-transparent.html');?>
-
+	
 
 	<!-- GOOGLE MAP -->
 	<section id="map-section" class="module-hero module-parallax module-fade">
@@ -50,40 +65,9 @@
 				<!-- CONTACT FORM -->
 				<div class="row">
 
-					<div class="col-sm-6 col-sm-offset-3">
-
-						<form id="contact-form" role="form" novalidate="">
-
-							<div class="form-group">
-								<label class="sr-only" for="cname">Name</label>
-								<input type="text" id="cname" class="form-control" name="cname" placeholder="Name" required="" data-validation-required-message="Please enter your name." aria-invalid="false">
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<div class="form-group">
-								<label class="sr-only" for="cemail">Your Email</label>
-								<input type="email" id="cemail" name="cemail" class="form-control" placeholder="Your E-mail" required="" data-validation-required-message="Please enter your email address.">
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<div class="form-group">
-								<textarea class="form-control" id="cmessage" name="cmessage" rows="7" placeholder="Message" required="" data-validation-required-message="Please enter your message."></textarea>
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<button type="submit" class="btn btn-round btn-g">Submit</button>
-
-						</form>
-
-						<!-- Ajax response -->
-						<div id="contact-response" class="ajax-response font-alt"></div>
-
+					<div class="col-sm-6 col-sm-offset-3" style="height:400px;"">
+					<iframe id="typeform-full" width="100%" height="100%" style="display: block;" frameborder="0" src="https://creativitea.typeform.com/to/H1Gm5d"></iframe>
 					</div>
-
-				</div>
-				<!-- /CONTACT FORM -->
-
-			</div>
 
 		</section>
 		<!-- /CONTACT -->
@@ -113,6 +97,7 @@
 	<script src="assets/js/wow.min.js"></script>
 	<script src="assets/js/contact.js"></script>
 	<script src="assets/js/custom.js"></script>
+	<script type="text/javascript" src="https://s3-eu-west-1.amazonaws.com/share.typeform.com/embed.js"></script>
 
 </body>
 </html>
