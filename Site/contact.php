@@ -46,19 +46,19 @@
 							<div class="form-group">
 								<label class="sr-only" for="cname">Name</label>
 								<input type="text" id="cname" class="form-control" name="cname" placeholder="Name*" required="" data-validation-required-message="Please enter your name.">
-								<p class="help-block text-danger"></p>
+								<p class="text-danger"></p>
 							</div>
 
 							<div class="form-group">
 								<label class="sr-only" for="cemail">Your Email</label>
 								<input type="email" id="cemail" name="cemail" class="form-control" placeholder="Your E-mail*" required="" data-validation-required-message="Please enter your email address.">
-								<p class="help-block text-danger"></p>
+								<p class="text-danger"></p>
 							</div>
 							
 							<div class="form-group">
 								<label class="sr-only" for="cphone">Your Phone Number</label>
 								<input type="text" id="cphone" name="cphone" class="form-control" placeholder="Phone Number" required="" data-validation-required-message="Please enter your phone number.">
-								<p class="help-block text-danger"></p>
+								<p class="text-danger"></p>
 							</div>
 							
 							<div class="form-group">
@@ -79,7 +79,6 @@
 
 							<div class="form-group">
 								<textarea class="form-control" id="cmessage" name="cmessage" rows="7" placeholder="Message*" required="" data-validation-required-message="Please enter your message."></textarea>
-								<p class="help-block text-danger"></p>
 							</div>
 							
 							<div class="text-center">
@@ -89,7 +88,7 @@
 						</form>
 
 						<!-- Ajax response -->
-						<div id="contact-response" class="ajax-response font-alt"></div>
+						<div id="contact-response" class="ajax-response"></div>
 						<!-- DIVIDER -->
 						<hr class="divider-w m-t-20 m-b-20">
 						<!-- /DIVIDER -->
