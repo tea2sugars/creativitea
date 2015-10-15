@@ -91,7 +91,7 @@
 							<div class="team-descr">
 								<div class="team-name">Roberto Acuna</div>
 								<div class="team-role">Designer / Illustrator</div>
-								<h5>Just self-published a childrens' book. The Lonely Hole</h5>
+								<h5>Just self-published a children's book. The Lonely Hole</h5>
 									
 							</div>
 						</div>
@@ -127,9 +127,9 @@
 						<div class="team-item">
 							
 							<div class="team-descr">
-								<div class="team-name">Daniel Duke</div>
-								<div class="team-role">Senior Developer*</div>
-								<h5>Big fan of buhmuda shorts</h5>
+								<div class="team-name">Dan Duke</div>
+								<div class="team-role">Senior Developer</div>
+								<h5>Big fan of bermuda shorts</h5>
 									
 							</div>
 						</div>
@@ -142,7 +142,7 @@
 							
 							<div class="team-descr">
 								<div class="team-name">James T Fletcher</div>
-								<div class="team-role">Social Marketing*</div>
+								<div class="team-role">Social Marketing</div>
 								<h5>Loves a good package</h5>
 									
 							</div>
@@ -156,7 +156,7 @@
 							
 							<div class="team-descr">
 								<div class="team-name">Tim Mills</div>
-								<div class="team-role">Copywriter*</div>
+								<div class="team-role">Copywriter</div>
 								<h5>Favorite Brand<br/>Oxford's</h5>
 									
 							</div>
@@ -184,7 +184,7 @@
 							
 							<div class="team-descr">
 								<div class="team-name">Adam Zygadlo</div>
-								<div class="team-role">Motion Designer*</div>
+								<div class="team-role">Motion Designer</div>
 								<h5>Loves gravy on chips</h5>
 									
 							</div>
@@ -198,7 +198,7 @@
 							
 							<div class="team-descr">
 								<div class="team-name">Hannah Doust</div>
-								<div class="team-role">PPC Consultant</div>
+								<div class="team-role">Email Marketing Consultant</div>
 								<h5>Favorite Brand<br/>EA Games</h5>
 									
 							</div>
@@ -212,7 +212,7 @@
 							
 							<div class="team-descr">
 								<div class="team-name">Luke Rowlands</div>
-								<div class="team-role">SEO Manager*</div>
+								<div class="team-role">SEO Manager</div>
 								<h5>Our SEO Welshman</h5>
 									
 							</div>
