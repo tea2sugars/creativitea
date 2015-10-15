@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 		<meta charset="UTF-8">
-
-	<meta name="description" content="London, Surrey and Suffolk based Digital Design Agency, Lloyd Bedford and Rik Barwick’s creative studio Creativitea has a wide range of experience motion and video production for the telecoms, retail and tgaming industries.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="London, Surrey and Suffolk based Digital Design Agency, Lloyd Bedford and Rik Barwick’s creative studio Creativitea has a wide range of experience motion and video production for the telecoms, retail and gaming industries.">
 	<meta name="author" content="">
 	
 	<title>Video Production and Motion Design | Creativitea - A London Brand & Digital Agency | Surrey & Suffolk</title>
