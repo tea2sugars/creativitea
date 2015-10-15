@@ -3,8 +3,7 @@
 	// Mail settings
 	$to = "info@creativitea.co.uk";
 	$subject = "Creativitea Contact Form";
-	$from = "Website";
-
+	
 	if (isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["message"])) {
 
 		$content  = "Name: "     . $_POST["name"]    . "\r\n";
