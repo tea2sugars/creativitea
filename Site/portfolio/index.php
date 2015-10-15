@@ -19,36 +19,10 @@
 	<!-- WRAPPER -->
 	<div class="wrapper">
 
-		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/portfolio-header.jpg">
 
-			<div class="container">
-
-				<!-- MODULE TITLE -->
-				<div class="row">
-
-					<div class="col-sm-6 col-sm-offset-3">
-
-						<h1 class="module-title align-center">Our Portfolio of Work</h1>
-
-						<div class="module-subtitle align-center">
-							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
-							<div class="portfolio-contact">
-								<a href="http://teabagging.theteapot.me.uk/contact" class="btn btn-y btn-round btn-lg">Contact Us</a>							</div>
-						</div>
-
-					</div>
-
-				</div>
-				<!-- /MODULE TITLE -->
-
-			</div>
-
-		</section >
-		<!-- /HOME -->
 
 		<!-- PORTFOLIO -->
-		<section class="module-small p-t-20 p-b-60">
+		<section class="module-small p-b-60">
 
 			<div class="container">
 

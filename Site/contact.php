@@ -22,7 +22,7 @@
 	<div class="wrapper">
 
 		<!-- CONTACT -->
-		<section class="module">
+		<section class="module-small">
 
 			<div class="container">
 
@@ -31,7 +31,7 @@
 
 					<div class="col-sm-8 col-sm-offset-2">
 
-						<h1 class="module-title">Contact our team today</h1>
+						<h1>Contact our team today</h1>
 						<p class="lead">Smoke Signals&hellip;</p>
 							<p>Smoke Signals are probably the oldest forms of long-distance visual communication. Native American's used to light smokey fires and use the smoke to spread news and warnings and to call people together for gatherings.</p>
 							<p>Whilst the idea of lighting a fire and getting together for some kind of tribal gathering / creative meeting sounds great, Life is a lot simpler now, just use the devices below to say hello to the team and we'll get back to you as soon as possible!</em></p>
