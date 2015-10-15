@@ -9,12 +9,6 @@
 	<title>The Creative Team | Creativitea Limited | London, Guildford, Suffolk</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
-
-	
-	<!--Share widget-->
-	<script type="text/javascript">var switchTo5x=true;</script>
-	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-	<script type="text/javascript">stLight.options({publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 	
 </head>
 <body>
