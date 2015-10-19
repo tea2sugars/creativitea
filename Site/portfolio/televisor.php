@@ -56,7 +56,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/Televisor_new_portfolio_01.jpg" alt="Televisor Design"></p>
+						<p><img src="../assets/images/projects/Televisor_portfolio_01.jpg" alt="Televisor Design"></p>
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -121,11 +121,11 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/Televisor_new_portfolio_02.jpg" alt="Televisor"></p>
-						<p><img src="../assets/images/projects/Televisor_new_portfolio_03.jpg" alt="Televisor"></p>
-						<p><img src="../assets/images/projects/Televisor_new_portfolio_04.jpg" alt="Televisor"></p>
-						<p><img src="../assets/images/projects/Televisor_new_portfolio_05.jpg" alt="Televisor"></p>
-						<p><img src="../assets/images/projects/Televisor_new_portfolio_06.jpg" alt="Televisor"></p>
+						<p><img src="../assets/images/projects/Televisor_portfolio_02.jpg" alt="Televisor"></p>
+						<p><img src="../assets/images/projects/Televisor_portfolio_03.jpg" alt="Televisor"></p>
+						<p><img src="../assets/images/projects/Televisor_portfolio_04.jpg" alt="Televisor"></p>
+						<p><img src="../assets/images/projects/Televisor_portfolio_05.jpg" alt="Televisor"></p>
+						<p><img src="../assets/images/projects/Televisor_portfolio_06.jpg" alt="Televisor"></p>
 					</div>
 
 				</div><!-- .row -->
