@@ -52,18 +52,16 @@
 
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-2">
-						<h2>We are an independent, creative design agency based in Guildford & London.</h2>
+						<h2>We are an independent, creative design agency based in London & the South-East of England.</h2>
 						<p class="lead">
-							We provide a full cycle solution from concept to design, through to build and market.
+							Creativitea was established in 2008 by Rik Barwick and Lloyd Bedford to help provoke change through great design.
 						</p>
 						<p>
-							Whether you want to build a powerful online presence, improve your brand’s image, 
-							or create an engaging campaign. We have a specialist range of services to meet your exact requirements.
+							Our disruptive ways of thinking challenges brands to realise their full potential. Using creative thought and skilful craftsmanship we help businesses achieve their goals and their objectives.
 						</p>
 						<p>
-							Contact Us today via our website or call our London office today on 0208 123 0246, 
-							or visit us in our Guildford studio for more information.</p>
-						</p>
+							The studio is developing into an <a href="blog/archive.php?cat=awards">award-winning</a> hub of creative talent that is now working for some of the top <a href="clients">brands and start-ups</a> in the UK and around the world.</p>
+							<p>If you’d like to know more about us (and we’d love to learn more about you) why not <a href="contact">get in touch</a> to see if we could work together.</p>
 						<div>
 							<a href="about" class="btn btn-g btn-round">More about Us</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
 						</div>
