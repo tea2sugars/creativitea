@@ -147,123 +147,62 @@
 		<section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
 			<div class="container-fluid">
 				<div class="row">
-					<h2 class="align-center">Some of our recent Branding Projects</h2>
+					<h2 class="align-center">Some of our recent Print Design Projects</h2>
 				</div>
 				<div class="row">
 					<!-- PORTFOLIO LIST -->
-					<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-5.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-1.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">CrawfordJames Website Design</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Responsive Website Design<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-4.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-3.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-2.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-					
-		
-					</ul>
+			<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print branding">
+					<a href="./portfolio/gentspack">
+						<div class="work-image">
+							<img src="assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Gents Pack</h3>
+							<div class="work-descr ">
+								Brand design and Packaging
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print branding">
+					<a href="./portfolio/televisor">
+						<div class="work-image">
+							<img src="assets/images/projects/Televisor_portfolio_thumbnail.jpg" alt="Televisor Branding">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Televisor</h3>
+							<div class="work-descr ">
+								Branding & Record Label Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding print">
+					<a href="./portfolio/surrey-uncovered-report">
+						<div class="work-image">
+							<img src="assets/images/projects/CFS_portfolio_thumbnail.jpg" alt="Surrey Uncovered Annual Report">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Surrey Uncovered</h3>
+							<div class="work-descr ">
+								Annual Report
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				
+							</ul>
+			<!-- /PORTFOLIO LIST -->
 				</div>
 			</div>
 			

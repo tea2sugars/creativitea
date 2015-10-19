@@ -103,120 +103,44 @@
 					<h2 class="align-center">Some of our Video & Animation Projects</h2>
 				</div>
 				<div class="row">
-					<!-- PORTFOLIO LIST -->
-					<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-5.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-1.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">CrawfordJames Website Design</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Responsive Website Design<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-4.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-3.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-2.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-					
-		
-					</ul>
+		<!-- PORTFOLIO LIST -->
+			<ul id="works-grid" class="works-grid works-grid-2 works-hover-w">
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item video branding">
+					<a href="./portfolio/s4nity-ident">
+						<div class="work-image">
+							<img src="assets/images/projects/s4nity_portfolio_thumbnail.jpg" alt="">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">S4NITY Mascot</h3>
+							<div class="work-descr ">
+								Animation & Mascot Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item video branding print">
+					<a href="./portfolio/trion-worlds-end-of-nations">
+						<div class="work-image">
+							<img src="assets/images/projects/EON_portfolio_thumbnail.jpg" alt="End of Nations Campaign">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">End of Nations</h3>
+							<div class="work-descr ">
+								Marketing Campaign Work
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+
+						
+
+			</ul>
+			<!-- /PORTFOLIO LIST -->
 				</div>
 			</div>
 			
