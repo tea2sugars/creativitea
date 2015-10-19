@@ -309,6 +309,21 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item video branding">
+					<a href="trion-worlds-end-of-nations">
+						<div class="work-image">
+							<img src="../assets/images/projects/EON_portfolio_thumbnail.jpg" alt="">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">End of Nations</h3>
+							<div class="work-descr ">
+								Marketing Campaign Work
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 						
 
 			</ul>
@@ -317,7 +332,7 @@
 		</section>
 		<!-- /PORTFOLIO -->
 
-		<!-- PAGINATION -->
+		<!-- PAGINATION
 		<section class="module-small p-t-0">
 
 			<div class="container">
