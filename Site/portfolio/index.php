@@ -49,6 +49,21 @@
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding print branding digital">
+					<a href="domenico">
+						<div class="work-image">
+							<img src="../assets/images/projects/Domenico_portfolio_thumbnail.jpg" alt="Domenico Pizza Branding"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Domenico Pizza</h3>
+							<div class="work-descr ">
+								Artisanal Branding &amp; Digital Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print disrupt digital">
 					<a href="powwownow">
 						<div class="work-image">
