@@ -6,7 +6,7 @@ Place here your custom CSS styles
 	color: #eaeaea;
 }
 
-p a:link, p a:visited {
+p a:link, p a:visited, p a:active {
 	border-bottom: 2px dotted #FBBA00;
 }
 
