@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/s4nity_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/s4nity_general_header.jpg">
 
 			<div class="container">
 
@@ -56,8 +56,8 @@
 				<!-- PORTFOLIO KEY IMAGE -->
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
-
-						<p><img src="../assets/images/projects/s4nity_portfolio_1.jpg" alt="s4nity mascot design"></p>
+						<iframe src="https://player.vimeo.com/video/36897724" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/36897724">S4nity - Ident</a> from <a href="https://vimeo.com/creativitea">Creativitea Design Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+						
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -68,7 +68,7 @@
 							<ul>
 								<li><strong>Client: </strong>S4NITY</li>
 								<li><strong>Project: </strong>Branding, Mascot Design & Animation</li>
-								<!--<li><strong>Online: </strong><a href="http:www.5mm.co" target="_blank"></a></li>-->
+								<li><strong>Online: </strong><a href="https://vimeo.com/creativitea/s4nity-check-ident" target="_blank"></a>Vimeo Video</li>
 								<li><strong>Budget: </strong>£££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
@@ -121,7 +121,7 @@
 
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
-
+						<p><img src="../assets/images/projects/s4nity_portfolio_1.jpg" alt="s4nity mascot design"></p>
 						<p><img src="../assets/images/projects/s4nity_portfolio_2.jpg" alt="s4nity Information Architecture"></p>
 						<p><img src="../assets/images/projects/s4nity_portfolio_3.jpg" alt="s4nity Brand Pages"></p>
 						

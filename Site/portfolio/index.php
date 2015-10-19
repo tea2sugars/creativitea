@@ -268,7 +268,7 @@
 				<li class="work-item digital branding">
 					<a href="maxishop">
 						<div class="work-image">
-							<img src="assets/projects/maxishop_portfolio_thumbnail.jpg" alt="Maxishop Branding and E-Commerce">
+							<img src="../assets/images/projects/maxishop_portfolio_thumbnail.jpg" alt="Maxishop Branding and E-Commerce">
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">Maxishop.com</h3>
@@ -283,7 +283,7 @@
 				<li class="work-item video branding">
 					<a href="s4nity-ident">
 						<div class="work-image">
-							<img src="assets/projects/s4nity_portfolio_thumbnail.jpg" alt="">
+							<img src="../assets/images/projects/s4nity_portfolio_thumbnail.jpg" alt="">
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">S4NITY Mascot</h3>
