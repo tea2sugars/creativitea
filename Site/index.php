@@ -77,11 +77,26 @@
 			<div class="container-fluid">
 				<div class="row">
 					<!-- PORTFOLIO LIST -->
-					<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
-		
-						<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding webdesign print disrupt digital">
-					<a href="portfolio/powwownow">
+			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding print branding digital">
+					<a href="domenico">
+						<div class="work-image">
+							<img src="assets/images/projects/Domenico_portfolio_thumbnail.jpg" alt="Domenico Pizza Branding"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Domenico Pizza</h3>
+							<div class="work-descr ">
+								Hand-Crafted Branding &amp; Digital Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding print disrupt digital">
+					<a href="powwownow">
 						<div class="work-image">
 							<img src="assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
 						</div>
@@ -94,27 +109,24 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item print branding">
-					<a href="portfolio/sodexo-pass">
+				<li class="work-item digital">
+					<a href="buyapowa_saas">
 						<div class="work-image">
-							<img src="assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Say Shopping Pass">
+							<img src="assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title">Sodexo SayShopping Pass</h3>
-							<div class="work-descr">
-								Print design for Benefits & Award Services
+							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
+							<div class="work-descr ">
+								UX & Website Design
 							</div>
 						</div>
 					</a>
-				</li>				<!-- /PORTFOLIO ITEM -->
-
-				
-
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item webdesign digital">
-					<a href="portfolio/5mm">
+				<li class="work-item digital">
+					<a href="5mm">
 						<div class="work-image">
 							<img src="assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
 						</div>
@@ -130,7 +142,7 @@
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item print branding">
-					<a href="portfolio/gentspack">
+					<a href="gentspack">
 						<div class="work-image">
 							<img src="assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
 						</div>
@@ -146,7 +158,7 @@
 
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print">
-					<a href="portfolio/nikerx">
+					<a href="nikerx">
 						<div class="work-image">
 							<img src="assets/images/projects/NikeRX_thumbnail.jpg" alt="Nike RX at Marchon"/>
 						</div>
@@ -162,7 +174,7 @@
 
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding">
-					<a href="portfolio/river">
+					<a href="river">
 						<div class="work-image">
 							<img src="assets/images/projects/River_thumbnail.jpg" alt="River Brand & Visual Identity"/>
 						</div>
@@ -175,9 +187,26 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-					
-		
-					</ul>
+
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="buyapowa">
+						<div class="work-image">
+							<img src="assets/images/projects/buyapowa_portfolio_thumbnail.jpg" alt="Buyapowa Website">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Buyapowa B2B Website</h3>
+							<div class="work-descr ">
+								Responsive Website Development
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+						
+
+			</ul>
+			<!-- /PORTFOLIO LIST -->
 				</div>
 			</div>
 			

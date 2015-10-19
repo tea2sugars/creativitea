@@ -149,119 +149,58 @@
 				</div>
 				<div class="row">
 					<!-- PORTFOLIO LIST -->
-					<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-5.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-1.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">CrawfordJames Website Design</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Responsive Website Design<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-4.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-3.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-		
-						<!-- PORTFOLIO ITEM -->
-						<li class="work-item marketing photography">
-							<a href="portfolio-single">
-								<div class="work-image">
-									<img src="assets/images/work-sample-2.jpg" alt="">
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">Bag MockUp</h3>
-									<div class="work-descr ">
-										<span class="yellow">–</span><br/>
-										Marketing<br/>
-										<button class="btn btn-y btn-round m-t-20">View project</button>
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
-					
-		
-					</ul>
+			<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding print branding digital">
+					<a href="./portfolio/domenico">
+						<div class="work-image">
+							<img src="assets/images/projects/Domenico_portfolio_thumbnail.jpg" alt="Domenico Pizza Branding"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Domenico Pizza</h3>
+							<div class="work-descr ">
+								Hand-Crafted Branding &amp; Digital Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="./portfolio/buyapowa_saas">
+						<div class="work-image">
+							<img src="assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
+							<div class="work-descr ">
+								UX & Website Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="./portfolio/5mm">
+						<div class="work-image">
+							<img src="assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">5mm.co</h3>
+							<div class="work-descr ">
+								Website Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				
+				
+							</ul>
+			<!-- /PORTFOLIO LIST -->
 				</div>
 			</div>
 			
