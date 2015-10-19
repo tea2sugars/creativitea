@@ -63,7 +63,7 @@
 							The studio is developing into an <a href="blog/archive.php?cat=awards">award-winning</a> hub of creative talent that is now working for some of the top <a href="clients">brands and start-ups</a> in the UK and around the world.</p>
 							<p>If you’d like to know more about us (and we’d love to learn more about you) why not <a href="contact">get in touch</a> to see if we could work together.</p>
 						<div>
-							<a href="story" class="btn btn-g btn-round">More about Us</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
+							<a href="contact" class="btn btn-y btn-round">Contact Us</a> <a href="story" class="btn btn-d btn-round">More about Us</a>
 						</div>
 
 
