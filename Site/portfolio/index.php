@@ -220,6 +220,21 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print branding">
+					<a href="televisor">
+						<div class="work-image">
+							<img src="../assets/images/projects/Televisor_portfolio_thumbnail.jpg" alt="Televisor Branding">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Televisor</h3>
+							<div class="work-descr ">
+								Branding & Record Label Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
 					<a href="lycamobile-app">
 						<div class="work-image">
