@@ -11,11 +11,6 @@
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
 <body>
-<!-- PRELOADER -->
-	<div class="page-loader">
-		<div class="loader">Brewing...</div>
-	</div>
-	<!-- /PRELOADER -->
 
 	<?php include('../assets/php/includes/nav-internal.html');?>
 
