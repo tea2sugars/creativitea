@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Domenico Pizza<br/><span class="small">Artisanal Brand & Website Design</span></h1>
+						<h1 class="module-title align-center">Domenico Pizza<br/><span class="small">Hand-Crafted Brand & Website Design</span></h1>
 
 
 					</div>

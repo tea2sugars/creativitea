@@ -57,7 +57,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">Domenico Pizza</h3>
 							<div class="work-descr ">
-								Artisanal Branding &amp; Digital Design
+								Hand-Crafted Branding &amp; Digital Design
 							</div>
 						</div>
 					</a>
