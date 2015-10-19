@@ -56,7 +56,7 @@
 				<!-- PORTFOLIO KEY IMAGE -->
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
-						<iframe src="https://player.vimeo.com/video/36897724" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/36897724">S4nity - Ident</a> from <a href="https://vimeo.com/creativitea">Creativitea Design Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+						<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/36897724?color=e1a706&title=0&byline=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 						
 					</div>
 
@@ -68,7 +68,7 @@
 							<ul>
 								<li><strong>Client: </strong>S4NITY</li>
 								<li><strong>Project: </strong>Branding, Mascot Design & Animation</li>
-								<li><strong>Online: </strong><a href="https://vimeo.com/creativitea/s4nity-check-ident" target="_blank"></a>Vimeo Video</li>
+								<li><strong>Online: </strong><a href="https://vimeo.com/creativitea/s4nity-check-ident" target="_blank">View Video</a></li>
 								<li><strong>Budget: </strong>£££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
@@ -121,9 +121,9 @@
 
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
-						<p><img src="../assets/images/projects/s4nity_portfolio_1.jpg" alt="s4nity mascot design"></p>
-						<p><img src="../assets/images/projects/s4nity_portfolio_2.jpg" alt="s4nity Information Architecture"></p>
-						<p><img src="../assets/images/projects/s4nity_portfolio_3.jpg" alt="s4nity Brand Pages"></p>
+						<p><img src="../assets/images/projects/s4nity_portfolio_01.jpg" alt="s4nity mascot design"></p>
+						<p><img src="../assets/images/projects/s4nity_portfolio_02.jpg" alt="s4nity Information Architecture"></p>
+						<p><img src="../assets/images/projects/s4nity_portfolio_03.jpg" alt="s4nity Brand Pages"></p>
 						
 						
 						</div>

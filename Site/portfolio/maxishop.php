@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/maxishop_portfolio_1.jpg" alt="Maxishop E-Commerce Design"></p>
+						<p><img src="../assets/images/projects/maxishop_portfolio_01.jpg" alt="Maxishop E-Commerce Design"></p>
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -124,9 +124,9 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/maxishop_portfolio_2.jpg" alt="Maxishop Information Architecture"></p>
-						<p><img src="../assets/images/projects/maxishop_portfolio_3.jpg" alt="Maxishop Brand Pages"></p>
-						<p><img src="../assets/images/projects/maxishop_portfolio_4.jpg" alt="Maxishop Personal Tracker"></p>
+						<p><img src="../assets/images/projects/maxishop_portfolio_02.jpg" alt="Maxishop Information Architecture"></p>
+						<p><img src="../assets/images/projects/maxishop_portfolio_03.jpg" alt="Maxishop Brand Pages"></p>
+						<p><img src="../assets/images/projects/maxishop_portfolio_04.jpg" alt="Maxishop Personal Tracker"></p>
 						
 						
 						</div>
