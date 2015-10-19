@@ -6,7 +6,7 @@
 	<meta name="description" content="Creativitea worked with Artisan Pizza Restaurant 'Domenico' to design a fresh new brand and website design.">
 	<meta name="author" content="">
 	
-	<title>Domenico | Branding | Website Design | Creativitea - A Brand & Digital Design Agency</title>
+	<title>Domenico | Branding | Website Design | Creativitea - A Brand, Digital, Print Design Agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/Domenico_portfolio_01.jpg" alt="Domenico Brand Design"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_01.jpg" alt="Domenico Logo Design"></p>
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -122,15 +122,15 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/Domenico_portfolio_02.jpg" alt="Domenico Information Architecture"></p>
-						<p><img src="../assets/images/projects/Domenico_portfolio_03.jpg" alt="Domenico Brand Pages"></p>
-						<p><img src="../assets/images/projects/Domenico_portfolio_04.jpg" alt="Domenico Personal Tracker"></p><p><img src="../assets/images/projects/Domenico_portfolio_05.jpg" alt="Domenico Personal Tracker"></p>
-						<p><img src="../assets/images/projects/Domenico_portfolio_06.jpg" alt="Domenico Personal Tracker"></p>
-						<p><img src="../assets/images/projects/Domenico_portfolio_07.jpg" alt="Domenico Personal Tracker"></p>
-						<p><img src="../assets/images/projects/Domenico_portfolio_08.jpg" alt="Domenico Personal Tracker"></p>
-						<p><img src="../assets/images/projects/Domenico_portfolio_09.jpg" alt="Domenico Personal Tracker"></p>
-						<p><img src="../assets/images/projects/Domenico_portfolio_10.jpg" alt="Domenico Personal Tracker"></p>
-						<p><img src="../assets/images/projects/Domenico_portfolio_11.jpg" alt="Domenico Personal Tracker"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_02.jpg" alt="Domenico Icon Design"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_03.jpg" alt="Domenico Colours"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_04.jpg" alt="Domenico Website Design"></p><p><img src="../assets/images/projects/Domenico_portfolio_05.jpg" alt="Domenico Website Design"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_06.jpg" alt="Domenico Website Design"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_07.jpg" alt="Domenico Website Design"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_08.jpg" alt="Domenico Responsive Website Design"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_09.jpg" alt="Domenico Pizza Box Design"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_10.jpg" alt="Domenico Apparel design"></p>
+						<p><img src="../assets/images/projects/Domenico_portfolio_11.jpg" alt="Domenico Restaurant Signage and Fit-out"></p>
 						
 						
 						</div>
