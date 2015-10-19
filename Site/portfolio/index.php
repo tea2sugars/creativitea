@@ -265,30 +265,30 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing">
-					<a href="../ portfolio-single">
+				<li class="work-item digital branding">
+					<a href="maxishop">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="assets/projects/maxishop_portfolio_thumbnail.jpg" alt="Maxishop Branding and E-Commerce">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">Maxishop.com</h3>
 							<div class="work-descr ">
-								Marketing
+								E-Commerce UX & Information Architecture
 							</div>
 						</div>
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing">
-					<a href="../ portfolio-single">
+				<li class="work-item video branding">
+					<a href="s4nity-ident">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="assets/projects/s4nity_portfolio_thumbnail.jpg" alt="">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">S4NITY Mascot</h3>
 							<div class="work-descr ">
-								Marketing
+								Animation & Mascot Design
 							</div>
 						</div>
 					</a>
