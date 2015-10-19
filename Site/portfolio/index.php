@@ -235,7 +235,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding">
+				<li class="work-item branding print">
 					<a href="sizeme-branding">
 						<div class="work-image">
 							<img src="../assets/images/projects/SizeMe_thumbnail.jpg" alt="SizeMe Branding">
@@ -250,7 +250,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding">
+				<li class="work-item branding print">
 					<a href="surrey-uncovered-report">
 						<div class="work-image">
 							<img src="../assets/images/projects/CFS_portfolio_thumbnail.jpg" alt="Surrey Uncovered Annual Report">
@@ -310,7 +310,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item video branding">
+				<li class="work-item video branding print">
 					<a href="trion-worlds-end-of-nations">
 						<div class="work-image">
 							<img src="../assets/images/projects/EON_portfolio_thumbnail.jpg" alt="">
