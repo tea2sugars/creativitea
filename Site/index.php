@@ -57,7 +57,7 @@
 							Creativitea was established in 2008 by Rik Barwick and Lloyd Bedford to help provoke change through great design.
 						</p>
 						<p>
-							Our disruptive ways of thinking challenges brands to realise their full potential. Using creative thought and skilful craftsmanship we help businesses achieve their goals and their objectives.
+							Our disruptive way of thinking challenges brands to realise their full potential. Using creative thought and skilful craftsmanship we help businesses achieve their goals and their objectives.
 						</p>
 						<p>
 							The studio is developing into an <a href="blog/archive.php?cat=awards">award-winning</a> hub of creative talent that is now working for some of the top <a href="clients">brands and start-ups</a> in the UK and around the world.</p>

@@ -2,9 +2,18 @@
 Project: Semantic
 Place here your custom CSS styles
 ------------------------------------------------------------------ */
-.h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
+.h1 .small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 	color: #eaeaea;
 }
+
+p a:link, p a:visited {
+	border-bottom: 2px dotted #FBBA00;
+}
+
+p a:hover {
+	color:#e1a706;
+}
+
 .yellow {color:#FBBA00;}
 
 #home .caption-content {text-align: left;}
