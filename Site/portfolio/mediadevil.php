@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Disruption is not always a bad thing. Creativitea worked with Powwownow to investigate the pitfalls of their brand and align their business strategy.">
+	<meta name="description" content="Creativitea worked with MediaDevil to design the visual identity and packaging for their Artisan Pouch Case range. It won an award!">
 	<meta name="author" content="">
 	
 	<title>MediaDevil Artisan Pouch Packaging | Award-wining Packaging Design | Creativitea - A brand & print design agency</title>
