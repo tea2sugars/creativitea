@@ -313,12 +313,27 @@
 				<li class="work-item video branding print">
 					<a href="trion-worlds-end-of-nations">
 						<div class="work-image">
-							<img src="../assets/images/projects/EON_portfolio_thumbnail.jpg" alt="">
+							<img src="../assets/images/projects/EON_portfolio_thumbnail.jpg" alt="End of Nations Campaign">
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">End of Nations</h3>
 							<div class="work-descr ">
 								Marketing Campaign Work
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding print">
+					<a href="mediadevil">
+						<div class="work-image">
+							<img src="../assets/images/projects/Artisanpouch_portfolio_thumbnail.jpg" alt="MediaDevil Artisan Pouch">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">MediaDevil</h3>
+							<div class="work-descr ">
+								Award-winning Packaging
 							</div>
 						</div>
 					</a>
