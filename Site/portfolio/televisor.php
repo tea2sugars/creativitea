@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea worked with MediaDevil to design the visual identity and packaging for their Artisan Pouch Case range. It won an award!">
+	<meta name="description" content="Creativitea were asked by Perfect Havoc to help brand their artist Televisor">
 	<meta name="author" content="">
 	
-	<title>MediaDevil Artisan Pouch Packaging | Award-wining Packaging Design | Creativitea - A brand & print design agency</title>
+	<title>Televisor Branding | Perfect Havoc | Creativitea - A brand design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark">
+	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/Televisor_general_headers.jpg">
 
 			<div class="container">
 
@@ -25,8 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">MediaDevil Artisan Pouch Packaging<br/><span class="small">Award-winning packaging design</span></h1>
-
+						<h1 class="module-title align-center">Televisor Branding<br/><span class="small">Spinning the creative tunes for Perfect Havoc</span></h1>
 
 					</div>
 
@@ -57,7 +56,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/Artisanpouch_portfolio_01.jpg" alt="Artisanpouch Packaging"></p>
+						<p><img src="../assets/images/projects/Televisor_new_portfolio_01.jpg" alt="Televisor Design"></p>
 					</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
@@ -66,10 +65,10 @@
 					<div class="col-md-4">
 						<div class="work-details">
 							<ul>
-								<li><strong>Client: </strong>MediaDevil</li>
-								<li><strong>Project: </strong>Branding, Visual Identity, Packaging</li>
+								<li><strong>Client: </strong>Perfect Havoc</li>
+								<li><strong>Project: </strong>Branding, Record Label Design</li>
 								<!--<li><strong>Online: </strong><a href="#" target="_blank">www.example.com</a></li>-->
-								<li><strong>Budget: </strong>£££££</li>
+								<li><strong>Budget: </strong>££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
 									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking at Creativitea.</blockquote>
@@ -85,24 +84,19 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>MediaDevil is a leading mobile accessory company, selling various products for the mobile lifestyle across the globe.
+								<p>Perfect Havoc is a Hoxton based music management, record label and club night, consisting of producer and DJs within the world of dance music.
 </p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>MediaDevil gave us the challenge of designing packaging for their premium leather cases range, neatly named Artisanpouch.</p>
+								<p>To design the new cover art and digital media for the new single release of u-disco and funky disco group Televisor - Remember Me.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>We developed a product logotype, designed to sit alongside the other offerings in the Mediadevil catalogue, as well as the visual identity and product photography, all the elements that would make up the final packaging’s look and feel.</p>
-
-<p>After several rounds of prototyping, the final packaging took the form of a slimline box with interchangeable inner trays, that could be modified to hold various sized cases for different phone models, without having to alter the outer packaging, making it cost effect solution for the product's entire range.</p>
-
-<p>The packaging’s look and feel is designed to be striking, using the strong contrast of black and white, against the products colour itself. This lends to the product having more of a visual impact within potential retail environments as the the packaging was ‘open faced’ meaning the product is clearly seen and not behind a solid face such as a self contained box.</p>
-
-<p>Success of the project was confirmed with us winning a Gold Award in the Packaging Design category at the A Design Awards in Italy.</p>
+								<p>We designed a contemporary visual that used the theme of ‘Memory’ echoing the singles title via the use of a bespoke halftone imagery, solid and bold typography set in bright, fluorescent colour.</p>
+<p>A final series of vinyl and digital cover artwork where made for the singles and remixes release, along with social media marketing.</p>
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
@@ -127,10 +121,11 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/Artisanpouch_portfolio_02.jpg" alt="MediaDevil Packaging Design"></p>
-						<p><img src="../assets/images/projects/Artisanpouch_portfolio_03.jpg" alt="MediaDevil Packaging Design"></p>
-						<p><img src="../assets/images/projects/Artisanpouch_portfolio_04.jpg" alt="MediaDevil Packaging Design"></p>
-						<p><img src="../assets/images/projects/Artisanpouch_portfolio_05.jpg" alt="MediaDevil Packaging Design"></p>
+						<p><img src="../assets/images/projects/Televisor_new_portfolio_02.jpg" alt="Televisor"></p>
+						<p><img src="../assets/images/projects/Televisor_new_portfolio_03.jpg" alt="Televisor"></p>
+						<p><img src="../assets/images/projects/Televisor_new_portfolio_04.jpg" alt="Televisor"></p>
+						<p><img src="../assets/images/projects/Televisor_new_portfolio_05.jpg" alt="Televisor"></p>
+						<p><img src="../assets/images/projects/Televisor_new_portfolio_06.jpg" alt="Televisor"></p>
 					</div>
 
 				</div><!-- .row -->

@@ -205,15 +205,30 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item print branding">
-					<a href="sodexo-pass">
+				<li class="work-item print branding digital">
+					<a href="talkmobile-brand">
 						<div class="work-image">
-							<img src="../assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Say Shopping Pass">
+							<img src="../assets/images/projects/Talkmobile_new_portfolio_thumbnail.jpg" alt="Talkmobile Brand Investigation">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Sodexo SayShopping Pass</h3>
+							<h3 class="work-title ">Talkmobile</h3>
 							<div class="work-descr ">
-								Print design for Benefits & Award Services
+								Brand Investigation
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print branding">
+					<a href="televisor">
+						<div class="work-image">
+							<img src="../assets/images/projects/Televisor_portfolio_thumbnail.jpg" alt="Televisor Branding">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Televisor</h3>
+							<div class="work-descr ">
+								Branding & Record Label Design
 							</div>
 						</div>
 					</a>
