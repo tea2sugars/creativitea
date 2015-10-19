@@ -49,6 +49,21 @@
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding print branding digital">
+					<a href="domenico">
+						<div class="work-image">
+							<img src="../assets/images/projects/Domenico_portfolio_thumbnail.jpg" alt="Domenico Pizza Branding"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Domenico Pizza</h3>
+							<div class="work-descr ">
+								Artisanal Branding &amp; Digital Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print disrupt digital">
 					<a href="powwownow">
 						<div class="work-image">
@@ -265,30 +280,30 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing">
-					<a href="../ portfolio-single">
+				<li class="work-item digital branding">
+					<a href="maxishop">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="../assets/images/projects/maxishop_portfolio_thumbnail.jpg" alt="Maxishop Branding and E-Commerce">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">Maxishop.com</h3>
 							<div class="work-descr ">
-								Marketing
+								E-Commerce UX & Information Architecture
 							</div>
 						</div>
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item marketing">
-					<a href="../ portfolio-single">
+				<li class="work-item video branding">
+					<a href="s4nity-ident">
 						<div class="work-image">
-							<img src="assets/images/work-2.jpg" alt="">
+							<img src="../assets/images/projects/s4nity_portfolio_thumbnail.jpg" alt="">
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Business Cards in paper clip</h3>
+							<h3 class="work-title ">S4NITY Mascot</h3>
 							<div class="work-descr ">
-								Marketing
+								Animation & Mascot Design
 							</div>
 						</div>
 					</a>
