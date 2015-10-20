@@ -17,6 +17,8 @@
 
     RewriteRule ^blog/tag/([a-zA-Z0-9-/]+)/page/([0-9]+)/{0,1}$ /blog/archive.php?tag=$1&page=$2 [L]
     RewriteRule ^blog/tag/([a-zA-Z0-9-/]+)$ /blog/archive.php?tag=$1 [L]
+    
+    Redirect 301 /portfolio/sizeme-nutrition-identity www.creativitea.co.uk/portfolio/sizeme-branding
 
 </IfModule>
 
