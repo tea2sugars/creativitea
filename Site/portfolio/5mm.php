@@ -59,6 +59,7 @@
 
 						<p><img src="../assets/images/projects/5mm_portfolio_03.jpg" alt="5mm Responsive Website Design"></p>
 					</div>
+				</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
@@ -78,10 +79,12 @@
 							</ul>
 						</div>
 					</div>
+				</div>
+				<div class="row">
 
 					<div class="col-md-8">
 
-						<div class="row multi-columns-row">
+						<div class="row">
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
@@ -107,7 +110,8 @@
 					</div>
 
 				</div>
-				<!-- /PORTFOLIO DESCRIPTION -->			</div>
+				<!-- /PORTFOLIO DESCRIPTION -->			
+			</div>
 
 		</section>
 		<!-- /PORTFOLIO DESCRIPTION -->

@@ -58,6 +58,7 @@
 
 						<p><img src="../assets/images/projects/Televisor_portfolio_01.jpg" alt="Televisor Design"></p>
 					</div>
+				</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
@@ -77,11 +78,13 @@
 							</ul>
 						</div>
 					</div>
+				</div>
+
+				<div class="row">
 
 					<div class="col-md-8">
 
-						<div class="row multi-columns-row">
-
+						<div class="row">
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
 								<p>Perfect Havoc is a Hoxton based music management, record label and club night, consisting of producer and DJs within the world of dance music.
@@ -100,13 +103,13 @@
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
-
 						</div>
 
 					</div>
 
 				</div>
-				<!-- /PORTFOLIO DESCRIPTION -->			</div>
+				<!-- /PORTFOLIO DESCRIPTION -->			
+			</div>
 
 		</section>
 		<!-- /PORTFOLIO DESCRIPTION -->

@@ -43,20 +43,14 @@
 		<section class="module-small">
 
 			<div class="container">
-				
-				<!--<div class="row">
-					<div class="col-sm-12">
 
-						<p><img src="../assets/images/section-1.jpg" alt=""></p>
-					</div>
-				</div>-->
-				
 				<!-- PORTFOLIO KEY IMAGE -->
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
-					<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/69953552?color=e1a706&title=0&byline=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></p>
+						<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/69953552?color=e1a706&title=0&byline=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></p>
 						
 					</div>
+				</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
@@ -76,12 +70,15 @@
 							</ul>
 						</div>
 					</div>
+				</div>
+					
+				<div class="row">
 
 					<div class="col-md-8">
 
-						<div class="row multi-columns-row">
-
+						<div class="row">
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
+
 								<h5 class="m-t-0">History</h5>
 								<p>Trion Worlds is an American video game developer and publisher which focuses primarily on MMOs particularly of the MMORPG and MMORTS genres.</p>
 							</div>
@@ -100,13 +97,13 @@
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
-
 						</div>
 
 					</div>
 
 				</div>
-				<!-- /PORTFOLIO DESCRIPTION -->			</div>
+				<!-- /PORTFOLIO DESCRIPTION -->			
+			</div>
 
 		</section>
 		<!-- /PORTFOLIO DESCRIPTION -->
