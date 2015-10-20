@@ -37,7 +37,7 @@
 							<p>Whilst the idea of lighting a fire and getting together for some kind of tribal gathering / creative meeting sounds great, Life is a lot simpler now, just use the devices below to say hello to the team and we'll get back to you as soon as possible!</em></p>
 					</div>
 					
-					<div class="col-sm-6 col-sm-offset-3">
+					<div class="col-sm-7 col-sm-offset-2">
 						<h3>Send us a message</h3>
 					<!--<iframe id="typeform-full" width="100%" height="100%" style="display: block;" frameborder="0" src="https://creativitea.typeform.com/to/H1Gm5d"></iframe>-->
 					
@@ -62,7 +62,7 @@
 							</div>
 							
 							<div class="form-group">
-								<label class="sr-only" for="cdetail">Tell us about yourself, are you?</label>
+								<label for="cdetail">Tell us about yourself, are you?</label>
 								<p><input type="radio" name="cdetail" value="prospect" checked> Looking for an awesome creative team.
 								<br>
 								<input type="radio" name="cdetail" value="supplier"> Someone with an exciting service you want us to look at.
@@ -93,10 +93,10 @@
 						<hr class="divider-w m-t-20 m-b-20">
 						<!-- /DIVIDER -->
 						<h3 class="align-center">Alternatively&hellip;</h3>
-						<article class="align-center col-sm-6">
+						<article class="align-center col-xs-12 col-md-6">
 							<p class="lead"><a href="call:02081230246">0208 123 0246</a></p>
 						</article>
-						<article class="align-center col-sm-6">
+						<article class="align-center col-xs-12 col-md-6">
 							<p class="lead"><a href="mailto:info@creativitea.co.uk">info@creativitea.co.uk</a></p>
 						</article>
 						
