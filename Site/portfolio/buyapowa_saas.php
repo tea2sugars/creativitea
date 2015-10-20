@@ -59,6 +59,7 @@
 
 						<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_01.jpg" alt="Buyapowa Responsive Website Design"></p>
 					</div>
+				</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
@@ -74,6 +75,8 @@
 							</ul>
 						</div>
 					</div>
+				</div>
+				<div class="row">
 
 					<div class="col-md-8">
 
@@ -107,7 +110,8 @@
 					</div>
 
 				</div>
-				<!-- /PORTFOLIO DESCRIPTION -->			</div>
+				<!-- /PORTFOLIO DESCRIPTION -->			
+			</div>
 
 		</section>
 		<!-- /PORTFOLIO DESCRIPTION -->

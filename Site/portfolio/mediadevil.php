@@ -59,6 +59,7 @@
 
 						<p><img src="../assets/images/projects/Artisanpouch_portfolio_01.jpg" alt="Artisanpouch Packaging"></p>
 					</div>
+				</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
@@ -78,6 +79,8 @@
 							</ul>
 						</div>
 					</div>
+				</div>
+				<div class="row">
 
 					<div class="col-md-8">
 
@@ -112,7 +115,8 @@
 					</div>
 
 				</div>
-				<!-- /PORTFOLIO DESCRIPTION -->			</div>
+				<!-- /PORTFOLIO DESCRIPTION -->			
+			</div>
 
 		</section>
 		<!-- /PORTFOLIO DESCRIPTION -->

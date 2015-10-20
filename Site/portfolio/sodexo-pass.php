@@ -59,6 +59,7 @@
 
 						<p><img src="../assets/images/projects/Sodexo_portfolio_01.jpg" alt="Sodexo Say Shopping Pass Visual Identity"></p>
 					</div>
+				</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
@@ -78,7 +79,8 @@
 							</ul>
 						</div>
 					</div>
-
+				</div>
+				<div class="row">
 					<div class="col-md-8">
 
 						<div class="row multi-columns-row">
@@ -110,7 +112,8 @@
 					</div>
 
 				</div>
-				<!-- /PORTFOLIO DESCRIPTION -->			</div>
+				<!-- /PORTFOLIO DESCRIPTION -->			
+			</div>
 
 		</section>
 		<!-- /PORTFOLIO DESCRIPTION -->

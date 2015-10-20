@@ -59,6 +59,7 @@
 
 						<p><img src="../assets/images/projects/NikeRX_portfolio_01.jpg" alt="Nike RX Logo Design"></p>
 					</div>
+				</div>
 
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
@@ -78,6 +79,8 @@
 							</ul>
 						</div>
 					</div>
+				</div>
+				<div class="row">
 
 					<div class="col-md-8">
 
@@ -106,7 +109,8 @@
 					</div>
 
 				</div>
-				<!-- /PORTFOLIO DESCRIPTION -->			</div>
+				<!-- /PORTFOLIO DESCRIPTION -->			
+				</div>
 
 		</section>
 		<!-- /PORTFOLIO DESCRIPTION -->
