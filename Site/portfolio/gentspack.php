@@ -85,10 +85,9 @@
 							</ul>
 						</div>
 					</div>
-				</div>
-				<div class="row">
 
-					<div class="col-md-8 col-sm-offset-4" >
+
+					<div class="col-md-8">
 
 						<div class="row multi-columns-row">
 
