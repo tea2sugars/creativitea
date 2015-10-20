@@ -2,8 +2,12 @@
 Project: Semantic
 Place here your custom CSS styles
 ------------------------------------------------------------------ */
-.h1 .small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
-	color: #eaeaea;
+.h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+	color: #fff;
+}
+
+.module-title span.small {
+	color: white;
 }
 
 p a:link, p a:visited, p a:active {
