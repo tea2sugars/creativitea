@@ -82,7 +82,7 @@
 
 				<div class="row">
 
-					<div class="col-md-8">
+					<div class="col-md-8 col-sm-offset-4" >
 
 						<div class="row">
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
