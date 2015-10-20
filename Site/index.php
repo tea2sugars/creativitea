@@ -6,7 +6,7 @@
 	<meta name="description" content="Creativitea - A Brand, Digital & Print design Agency - Specialising in brand design, print design & digital design in London, Surrey and Suffolk">
 	<meta name="author" content="Creativitea">
 	
-	<title>Creativitea | Brand Design Agency | Print Design Agency | Web Design Agency | London, Guildford, Suffolk</title>
+	<title>Creativitea | Brand Design Agency | Print Design Agency | Web Design Agency | London, South East of England</title>
 	
 	<?php include('assets/php/includes/head-css.html');?>
 	
