@@ -83,19 +83,20 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>Domenico is a start-up artisan pizzeria, specialising in crafted Italian foods made the traditional Naples way.</p>
+								<p>Trion Worlds is an American video game developer and publisher which focuses primarily on MMOs particularly of the MMORPG and MMORTS genres.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>We were asked to design the brand identity, along with launch materials including website, packaging, uniforms and other brand marketing materials. The identity needed to be different, this was not fast food or a regular high street stop-off. It’s a place where there is a craft in the food they make, the experience of eating traditionally made Italian but in the middle of London. With business also being a young, it had to be modern, a ‘Cool’ place to go.</p>
+								<p>Trion Worlds invited us to work with them on developing a campaign for the world's first MOBA RTS. The brief behind the campaign was to develop a message that would support their unique preposition, drive awareness and hype for the game ready for its release date, and to work with them to implement this across various platforms and communications over the upcoming months.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>The brand identity gives Domenico a distinctly modern and contemporary feel, yet still has a mark of heritage behind it to the traditional ‘fresh’ Naples style. The logo features a bespoke script font designed to give the brand a personal and expressive emotion, whilst the colour platte and structured design scheme enriches the messaging and content in a modern portrait of an ’Artisan pizzeria’. </p>
+								<p>The game combines a massive multiplayer online battle arena with real-time strategy, and our first task was to come up with a campaign headline that would grasp the public's attention in a simple and direct manner. After several workshops with the client, ‘Strategy Redefined’ was born and we set to the task of developing a logo lockup device and creative to work this into the campaigns look and feel.</p>
 
-<p>Acting as brand guardians, the new identity features across the other collateral we also designed, including the responsive website, packaging, staff uniforms. Further works are planned for the menus, restaurant fascia and other brand marketing including advertising and digital channels.</p>
+<p>We worked with them for several months developing various artwork and promotional materials that featured in press, trade shows, retail touch points and exhibitions in the run up to the game's release date.</p>
+<p>One of the highlights of the project was the cinematic teaser we devised to report the current status of the game's development, and to generate a sense of excitement. The cinematic teaser was shown to the directors, partners and the internal working team.</p>
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
