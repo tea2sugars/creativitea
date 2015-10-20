@@ -6,7 +6,7 @@
 	<meta name="description" content="Creativitea - A Brand, Digital & Print design Agency - Specialising in brand design, print design & digital design in London, Surrey and Suffolk">
 	<meta name="author" content="Creativitea">
 	
-	<title>Creativitea | Brand Design Agency | Print Design Agency | Web Design Agency | London, Guildford, Suffolk</title>
+	<title>Creativitea | Brand Design Agency | Print Design Agency | Web Design Agency | London, South East of England</title>
 	
 	<?php include('assets/php/includes/head-css.html');?>
 	
@@ -81,7 +81,7 @@
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print branding digital">
-					<a href="domenico">
+					<a href="portfolio/domenico">
 						<div class="work-image">
 							<img src="assets/images/projects/Domenico_portfolio_thumbnail.jpg" alt="Domenico Pizza Branding"/>
 						</div>
@@ -96,7 +96,7 @@
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print disrupt digital">
-					<a href="powwownow">
+					<a href="portfolio/powwownow">
 						<div class="work-image">
 							<img src="assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
 						</div>
@@ -111,7 +111,7 @@
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
-					<a href="buyapowa_saas">
+					<a href="portfolio/buyapowa_saas">
 						<div class="work-image">
 							<img src="assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
 						</div>
@@ -126,7 +126,7 @@
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
-					<a href="5mm">
+					<a href="portfolio/5mm">
 						<div class="work-image">
 							<img src="assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
 						</div>
@@ -142,7 +142,7 @@
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item print branding">
-					<a href="gentspack">
+					<a href="portfolio/gentspack">
 						<div class="work-image">
 							<img src="assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
 						</div>
@@ -158,7 +158,7 @@
 
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print">
-					<a href="nikerx">
+					<a href="portfolio/nikerx">
 						<div class="work-image">
 							<img src="assets/images/projects/NikeRX_thumbnail.jpg" alt="Nike RX at Marchon"/>
 						</div>
@@ -174,7 +174,7 @@
 
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding">
-					<a href="river">
+					<a href="portfolio/river">
 						<div class="work-image">
 							<img src="assets/images/projects/River_thumbnail.jpg" alt="River Brand & Visual Identity"/>
 						</div>
@@ -190,7 +190,7 @@
 
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
-					<a href="buyapowa">
+					<a href="portfolio/buyapowa">
 						<div class="work-image">
 							<img src="assets/images/projects/buyapowa_portfolio_thumbnail.jpg" alt="Buyapowa Website">
 						</div>
