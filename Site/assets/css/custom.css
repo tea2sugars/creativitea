@@ -18,6 +18,10 @@ p a:hover {
 	color:#e1a706;
 }
 
+#social-links a:link, #social-links a:visited, #social-links a:active, footer a:link, footer a:visited, footer a:active {
+	border-bottom:none;
+}
+
 .yellow {color:#FBBA00;}
 
 #home .caption-content {text-align: left;}
