@@ -77,7 +77,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<!-- PORTFOLIO LIST -->
-			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
+			<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print branding digital">
@@ -94,21 +94,7 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding print disrupt digital">
-					<a href="portfolio/powwownow">
-						<div class="work-image">
-							<img src="assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Powwownow Branding</h3>
-							<div class="work-descr ">
-								Disruptive thinking for better brand communication
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
+				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
 					<a href="portfolio/buyapowa_saas">
@@ -118,7 +104,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
 							<div class="work-descr ">
-								UX & Website Design
+								UX &amp; Website Design
 							</div>
 						</div>
 					</a>
@@ -133,7 +119,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">5mm.co</h3>
 							<div class="work-descr ">
-								Website Design
+								Responsive Website Design
 							</div>
 						</div>
 					</a>
@@ -149,7 +135,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">Gents Pack</h3>
 							<div class="work-descr ">
-								Brand design and Packaging
+								Brand Design &amp; Packaging
 							</div>
 						</div>
 					</a>
@@ -186,24 +172,7 @@
 						</div>
 					</a>
 				</li>
-				<!-- /PORTFOLIO ITEM -->
-
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital">
-					<a href="portfolio/buyapowa">
-						<div class="work-image">
-							<img src="assets/images/projects/buyapowa_portfolio_thumbnail.jpg" alt="Buyapowa Website">
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Buyapowa B2B Website</h3>
-							<div class="work-descr ">
-								Responsive Website Development
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
-						
+				<!-- /PORTFOLIO ITEM -->	
 
 			</ul>
 			<!-- /PORTFOLIO LIST -->
