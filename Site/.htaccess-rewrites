@@ -1,0 +1,163 @@
+# RewriteEngine On
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+<IfModule mod_rewrite.c>  
+    RewriteEngine on 
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}.php -f 
+    RewriteRule ^(.+)$ $1.php [L,QSA] 
+    RewriteRule ^blog/([a-zA-Z0-9-/]+)$ /blog/post.php?s=$1 [L]
+    RewriteRule ^blog/category/([a-zA-Z0-9-/]+)/page/([0-9]+)/{0,1}$ /blog/archive.php?cat=$1&page=$2 [L]
+    RewriteRule ^blog/category/([a-zA-Z0-9-/]+)$ /blog/archive.php?cat=$1 [L]
+
+    RewriteRule ^blog/date/([a-zA-Z0-9-/]+)/page/([0-9]+)/{0,1}$ /blog/archive.php?year=$1&page=$2 [L]
+    RewriteRule ^blog/date/([a-zA-Z0-9-/]+)$ /blog/archive.php?year=$1 [L]
+
+    RewriteRule ^blog/tag/([a-zA-Z0-9-/]+)/page/([0-9]+)/{0,1}$ /blog/archive.php?tag=$1&page=$2 [L]
+    RewriteRule ^blog/tag/([a-zA-Z0-9-/]+)$ /blog/archive.php?tag=$1 [L]
+    
+</IfModule>
+
+<FilesMatch "\.(js)$">
+Header set Cache-Control "proxy-revalidate, max-age=160704000"
+</FilesMatch>
+
+<FilesMatch "\.(jpg|css|gif|png)$">
+Header set Cache-Control "proxy-revalidate, max-age=36288000"
+</FilesMatch>
+
+<FilesMatch "\.(https://s3-eu-west-1.amazonaws.com/share.typeform.com/share.js)$">
+Header set Cache-Control "proxy-revalidate, max-age=964224000"
+</FilesMatch>
+
+####################
+# GZIP COMPRESSION #
+####################
+SetOutputFilter DEFLATE
+AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/x-javascript application/x-httpd-php
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip
+Header append Vary User-Agent env=!dont-vary
+
+#################
+# 301 REDIRECTS #
+#################
+
+# 301 --- http://www.creativitea.co.uk/portfolio/buyapowa-responsive-website => http://www.creativitea.co.uk/portfolio/buyapowa_saas
+RewriteRule ^portfolio/buyapowa-responsive-website$ /portfolio/buyapowa_saas? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/gents-pack-identity-design => http://www.creativitea.co.uk/portfolio/gentspack
+RewriteRule ^portfolio/gents-pack-identity-design$ /portfolio/gentspack? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/nike-rx-eyewear-collection => http://www.creativitea.co.uk/portfolio/nikerx
+RewriteRule ^portfolio/nike-rx-eyewear-collection$ /portfolio/nikerx? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/river-identity-design => http://www.creativitea.co.uk/portfolio/river
+RewriteRule ^portfolio/river-identity-design$ /portfolio/river? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/new-restaurant-website => http://www.creativitea.co.uk/portfolio/tantemarie-restaurant
+RewriteRule ^portfolio/new-restaurant-website$ /portfolio/tantemarie-restaurant? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/tante-marie-brand-guidelines => http://www.creativitea.co.uk/portfolio/tantemarie-brand
+RewriteRule ^portfolio/tante-marie-brand-guidelines$ /portfolio/tantemarie-brand? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/sizeme-nutrition-identity => http://www.creativitea.co.uk/portfolio/sizeme-branding
+RewriteRule ^portfolio/sizeme-nutrition-identity$ /portfolio/sizeme-branding? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/fivethree-branding => http://www.creativitea.co.uk/portfolio/fivethree
+RewriteRule ^portfolio/fivethree-branding$ /portfolio/fivethree? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/maxitone-tour => http://www.creativitea.co.uk/portfolio/maxishop
+RewriteRule ^portfolio/maxitone-tour$ /portfolio/maxishop? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/s4nity-s4-ident => http://www.creativitea.co.uk/portfolio/s4nity-ident
+RewriteRule ^portfolio/s4nity-s4-ident$ /portfolio/s4nity-ident? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/eon-strategy-redefined => http://www.creativitea.co.uk/portfolio/trion-worlds-end-of-nations
+RewriteRule ^portfolio/eon-strategy-redefined$ /portfolio/trion-worlds-end-of-nations? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/portfolio/artisanpouch-packaging-design => http://www.creativitea.co.uk/portfolio/mediadevil
+RewriteRule ^portfolio/artisanpouch-packaging-design$ /portfolio/mediadevil? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/logo-or-marque-difference => http://www.creativitea.co.uk/blog/logo-or-marque-the-difference
+RewriteRule ^blog/logo-or-marque-difference$ /blog/logo-or-marque-the-difference? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/importance-getting-brand => http://www.creativitea.co.uk/blog/the-importance-of-getting-brand
+RewriteRule ^blog/importance-getting-brand$ /blog/the-importance-of-getting-brand? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/why-have-a-brand-mascot => http://www.creativitea.co.uk/blog/why-have-a-brand-mascot
+RewriteRule ^blog/why-have-a-brand-mascot$ /blog/why-have-a-brand-mascot? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/swanderful-surprise-sorry => http://www.creativitea.co.uk/blog/a-swanderful-surprise-sorry
+RewriteRule ^blog/swanderful-surprise-sorry$ /blog/a-swanderful-surprise-sorry? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/websites-win-design-awards => http://www.creativitea.co.uk/blog/websites-win-design-awards
+RewriteRule ^blog/websites-win-design-awards$ /blog/websites-win-design-awards? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/omni-channel-shoppers => http://www.creativitea.co.uk/blog/omni-channel-shoppers
+RewriteRule ^blog/omni-channel-shoppers$ /blog/omni-channel-shoppers? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/toast-surrey-awards-2013 => http://www.creativitea.co.uk/blog/toast-of-surrey-awards-2013
+RewriteRule ^blog/toast-surrey-awards-2013$ /blog/toast-of-surrey-awards-2013? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/40th-anniversary-ceefax => http://www.creativitea.co.uk/blog/the-40th-anniversary-of-ceefax
+RewriteRule ^blog/40th-anniversary-ceefax$ /blog/the-40th-anniversary-of-ceefax? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/introducing-new-talkmobile-e-commerce-website => http://www.creativitea.co.uk/blog/talkmobiles-responsive-ux
+RewriteRule ^blog/introducing-new-talkmobile-e-commerce-website$ /blog/talkmobiles-responsive-ux? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/tribute-robin-williams => http://www.creativitea.co.uk/blog/a-tribute-to-robin-williams
+RewriteRule ^blog/tribute-robin-williams$ /blog/a-tribute-to-robin-williams? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/joining_the_dba => http://www.creativitea.co.uk/blog/why-we-joined-the-dba
+RewriteRule ^blog/joining_the_dba$ /blog/why-we-joined-the-dba? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/stanley-film-festival-logo => http://www.creativitea.co.uk/blog/the-stanley-film-festival-logo
+RewriteRule ^blog/stanley-film-festival-logo$ /blog/the-stanley-film-festival-logo? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/adidas-pop-store-london => http://www.creativitea.co.uk/blog/adidas-pop-up-store-london
+RewriteRule ^blog/adidas-pop-store-london$ /blog/adidas-pop-up-store-london? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/carry-fire => http://www.creativitea.co.uk/blog/carry-the-fire
+RewriteRule ^blog/carry-fire$ /blog/carry-the-fire? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/do-lectures-13 => http://www.creativitea.co.uk/blog/do-lectures
+RewriteRule ^blog/do-lectures-13$ /blog/do-lectures? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/blog/toast-surrey-awards-2013 => http://www.creativitea.co.uk/blog/surrey-advertiser-toast-of-surrey-awards
+RewriteRule ^blog/toast-surrey-awards-2013$ /blog/surrey-advertiser-toast-of-surrey-awards? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/creative-directors-view-effective-brand-communication => http://www.creativitea.co.uk/blog/computer-arts-the-creative-directors-view
+RewriteRule ^press/creative-directors-view-effective-brand-communication$ /blog/computer-arts-the-creative-directors-view? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/art-responsive-design => http://www.creativitea.co.uk/blog/web-designer-magazine
+RewriteRule ^press/art-responsive-design$ /blog/web-designer-magazine? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/s4nity => http://www.creativitea.co.uk/blog/international-brand-design-magazine
+RewriteRule ^press/s4nity$ /blog/international-brand-design-magazine? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/award-winning-designs-guildford-company => http://www.creativitea.co.uk/blog/surrey-advertiser-a-awards-ceremony
+RewriteRule ^press/award-winning-designs-guildford-company$ /blog/surrey-advertiser-a-awards-ceremony? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/interview-rik-barwick-creativitea => http://www.creativitea.co.uk/blog/creative-boom
+RewriteRule ^press/interview-rik-barwick-creativitea$ /blog/creative-boom? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/creativitea-wins-two-prestigious-international-design-awards => http://www.creativitea.co.uk/blog/prweb
+RewriteRule ^press/creativitea-wins-two-prestigious-international-design-awards$ /blog/prweb? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/creativitea-leading-design-agency-wins-two-design-awards => http://www.creativitea.co.uk/blog/adesign-award-winners-2011-12
+RewriteRule ^press/creativitea-leading-design-agency-wins-two-design-awards$ /blog/adesign-award-winners-2011-12? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/creativitea-adds-handwritten-touch-and-simplicity-talkmobile-brand => http://www.creativitea.co.uk/blog/design-week-volume-26-number-21
+RewriteRule ^press/creativitea-adds-handwritten-touch-and-simplicity-talkmobile-brand$ /blog/design-week-volume-26-number-21? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/creativitea-creates-natterjacks-website => http://www.creativitea.co.uk/blog/design-week-online
+RewriteRule ^press/creativitea-creates-natterjacks-website$ /blog/design-week-online? [L,R=301]
+
+# 301 --- http://www.creativitea.co.uk/press/creativitea-‘here-help’-cpp-emphasise-consumer-message => http://www.creativitea.co.uk/blog/design-week-volume-26-number-23
+RewriteRule ^press/creativitea-‘here-help’-cpp-emphasise-consumer-message$ /blog/design-week-volume-26-number-23? [L,R=301]
