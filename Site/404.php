@@ -31,7 +31,11 @@
 
 					<div class="col-sm-8 col-sm-offset-2">
 
-						<h1>Find your way round our website</h1>
+						<h1>Whoops, someone spilt the brew!
+							
+						</h1>
+						<h3>A bit embarrassing, sorry about that!</h3>
+						<p class="lead">Why not checkout some recommended links below?</p>
 						
 						<ul>
 							<li>
@@ -39,39 +43,15 @@
 								<p>Who we are and what we do.</p>
 							</li>
 							<li>
-								<h4>About Us <i class="fa fa-level-down"></i></h4>
-								<p>More detail about us and our design agency.</p>
-								<ul>
-									<li>
-										<h5><a href="story">Our Story</a></h5>
-										<p>Who we are and why we do what we do</p>
-									</li>
-									<li>
-										<h5><a href="team">The Team</a></h5>
-										<p>Individuals making up a great team.</p>
-									</li>
-									<li>
-										<h5><a href="creative-process">Creative Process</a></h5>
-										<p>Not all process are the same, not all are equal. Here's ours.</p>
-									</li>
-									<li>
-										<h5><a href="clients">Our Wonderful Clients</a></h5>
-										<p>We have had the pleasure of working with some great brands, organisations and people from all over the world.</p>
-									</li>
-									<li>
-										<h5><a href="blog/archive.php?cat=press">Press</a></h5>
-										<p>Articles about our design agency.</p>
-									</li>
-									<li>
-										<h5><a href="blog/archive.php?cat=awards">Awards</a></h5>
-										<p>We've won a few design awards.</p>
-									</li>
-									<li>
-										<h5><a href="blog/why-we-joined-the-dba">The Design Business Association</a></h5>
-										<p>Why we joined the DBA.</p>
-									</li>
-								</ul>
+								<h4><a href="portfolio">Portfolio</a></h4>
+								<p>Our Creative Design Work.</p>
 							</li>
+							
+							<li>
+								<h4><a href="story">Our Story</a></h4>
+								<p>Who we are and why we do what we do</p>
+							</li>
+							
 							<li>
 								<h4>Design Services <i class="fa fa-level-down"></i></h4>
 								<p>Services we can help with</p>
@@ -94,10 +74,7 @@
 									</li>
 								</ul>
 							</li>
-							<li>
-								<h4><a href="portfolio">Portfolio</a></h4>
-								<p>Our Creative Design Work.</p>
-							</li>
+							
 							<li>
 								<h4><a href="blog">Blog</a></h4>
 								<p>The latest news and musings from our agency, the industry and life in general.</p>
