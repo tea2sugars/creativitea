@@ -205,7 +205,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item print branding digital">
+				<li class="work-item print branding digital disrupt">
 					<a href="talkmobile-brand">
 						<div class="work-image">
 							<img src="../assets/images/projects/Talkmobile_new_portfolio_thumbnail.jpg" alt="Talkmobile Brand Investigation">
