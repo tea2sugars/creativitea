@@ -81,6 +81,8 @@ p a:hover {
 .copyright {
 	line-height: 30px;
 }
+
+#clients .grid-block {height:90px;}
 /*small device*/
 @media only screen and (min-width: 480px) {
 	#home {
