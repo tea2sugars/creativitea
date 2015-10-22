@@ -128,7 +128,6 @@
 						<p><img src="../assets/images/projects/53_portfolio_05.jpg" alt="Website Design and Development"></p>
 						<p><img src="../assets/images/projects/53_portfolio_06.jpg" alt="Website Design and Development"></p>
 						<p><img src="../assets/images/projects/53_portfolio_07.jpg" alt="Brand Guidelines - How to use the logo"></p>
-						<p><img src="../assets/images/projects/53_portfolio_08.jpg" alt="Brand Guidelines - Typography Treatment"></p>
 
 
 
