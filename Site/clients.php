@@ -77,9 +77,6 @@ brands, organisations and people from all over the world.</p>
 					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
 						<img src="assets/images/clients/GSKblk.png" alt="GSK" width="159" height="56">
 					</article>
-					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
-						<img src="assets/images/clients/iDwhit.png" alt="iD" width="87" height="71">
-					</article>
 					
 					<article class="col-xs-4 col-sm-2 m-b-10 text-center">
 						<img src="assets/images/clients/iDblk.png" alt="iD Mobile" width="87" height="70">
