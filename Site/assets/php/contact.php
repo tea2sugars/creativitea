@@ -3,6 +3,7 @@
 	// Mail settings
 	$to = "richard.barwick@googlemail.com";
 	$subject = "Creativitea Contact Form";
+	$headers .= 'From: Creativitea Website <info@creativitea.co.uk>' . "\r\n";
 	
 	if (isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["message"])) {
 
@@ -12,7 +13,7 @@
 		$content .= "Enquiry Type: "    . $_POST["detail"]   . "\r\n";
 		$content .= "Message: "  . "\r\n" . $_POST["message"];
 
-		if (mail($to, $subject, $content, $_POST["email"])) {
+		if (mail($to, $subject, $content, $headers, $_POST["email"])) {
 
 			$result = array(
 				"message" => "Thanks for contacting us. We'll get back to you as soon as possible!",
