@@ -45,20 +45,20 @@
 
 							<div class="form-group">
 								<label class="sr-only" for="cname">Name</label>
-								<input type="text" id="cname" class="form-control" name="cname" placeholder="Name*" required="" data-validation-required-message="Please enter your name.">
-								<p class="text-danger">Please fill in your name</p>
+								<input type="text" id="cname" class="form-control" name="cname" placeholder="Name" required="true" data-validation-required-message="Please enter your name.">
+								<!--<p class="text-danger">Please fill in your name</p>-->
 							</div>
 
 							<div class="form-group">
 								<label class="sr-only" for="cemail">Your Email</label>
-								<input type="email" id="cemail" name="cemail" class="form-control" placeholder="Your E-mail*" required="" data-validation-required-message="Please enter your email address.">
-								<p class="text-danger">Please fill in your Email Address</p>
+								<input type="email" id="cemail" name="cemail" class="form-control" placeholder="Your E-mail" required="" data-validation-required-message="Please enter your email address.">
+								<!--<p class="text-danger">Please fill in your Email Address</p>-->
 							</div>
 							
 							<div class="form-group">
 								<label class="sr-only" for="cphone">Your Phone Number</label>
 								<input type="text" id="cphone" name="cphone" class="form-control" placeholder="Phone Number" required="" data-validation-required-message="Please enter your phone number.">
-								<p class="text-danger"></p>
+								
 							</div>
 							
 							<div class="form-group">
