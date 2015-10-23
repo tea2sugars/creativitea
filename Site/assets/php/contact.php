@@ -1,7 +1,7 @@
 <?php
 
 	// Mail settings
-	$to = "info@creativitea.co.uk";
+	$to = "richard.barwick@googlemail.com";
 	$subject = "Creativitea Contact Form";
 	
 	if (isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["message"])) {

@@ -94,7 +94,7 @@
 						<!-- /DIVIDER -->
 						<h3 class="align-center">Alternatively&hellip;</h3>
 						<article class="align-center col-xs-12 col-md-6">
-							<p class="lead"><a href="call:02081230246">0208 123 0246</a></p>
+							<p class="lead"><a href="tel:+442081230246">0208 123 0246</a></p>
 						</article>
 						<article class="align-center col-xs-12 col-md-6">
 							<p class="lead"><a href="mailto:info@creativitea.co.uk">info@creativitea.co.uk</a></p>
