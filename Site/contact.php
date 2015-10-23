@@ -45,7 +45,7 @@
 
 							<div class="form-group">
 								<label class="sr-only" for="cname">Name</label>
-								<input type="text" id="cname" class="form-control" name="cname" placeholder="Name" required="true" data-validation-required-message="Please enter your name.">
+								<input type="text" id="cname" class="form-control" name="cname" placeholder="Name" required="" data-validation-required-message="Please enter your name.">
 								<!--<p class="text-danger">Please fill in your name</p>-->
 							</div>
 
@@ -78,7 +78,7 @@
 							
 
 							<div class="form-group">
-								<textarea class="form-control" id="cmessage" name="cmessage" rows="7" placeholder="Message*" required="" data-validation-required-message="Please enter your message."></textarea>
+								<textarea class="form-control" id="cmessage" name="cmessage" rows="7" placeholder="Message" required="" data-validation-required-message="Please enter your message."></textarea>
 							</div>
 							
 							<div class="text-center">
