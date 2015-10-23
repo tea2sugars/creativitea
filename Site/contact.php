@@ -46,13 +46,13 @@
 							<div class="form-group">
 								<label class="sr-only" for="cname">Name</label>
 								<input type="text" id="cname" class="form-control" name="cname" placeholder="Name*" required="" data-validation-required-message="Please enter your name.">
-								<p class="text-danger"></p>
+								<p class="text-danger">Please fill in your name</p>
 							</div>
 
 							<div class="form-group">
 								<label class="sr-only" for="cemail">Your Email</label>
 								<input type="email" id="cemail" name="cemail" class="form-control" placeholder="Your E-mail*" required="" data-validation-required-message="Please enter your email address.">
-								<p class="text-danger"></p>
+								<p class="text-danger">Please fill in your Email Address</p>
 							</div>
 							
 							<div class="form-group">
