@@ -5,7 +5,7 @@
 	$subject = "Creativitea Contact Form";
 	$headers .= 'From: Creativitea Website <info@creativitea.co.uk>' . "\r\n";
 	
-	if (isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["message"])) {
+	if (isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["phone"]) && isset($_POST["detail"]) && isset($_POST["message"])) {
 
 		$content  = "Name: "     . $_POST["name"]    . "\r\n";
 		$content .= "Email: "    . $_POST["email"]   . "\r\n";
