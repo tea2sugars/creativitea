@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Smartstats Campaign<br/><span class="small">Topical infographics</span></h1>
+						<h1 class="module-title align-center">Smartstats Campaign<br/><span class="small">Weekly brand awareness campaign using topical infographics to display mobile related data</span></h1>
 					</div>
 
 				</div>
