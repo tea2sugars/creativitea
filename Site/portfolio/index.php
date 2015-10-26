@@ -111,6 +111,21 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print">
+					<a href="smartstats-campaign">
+						<div class="work-image">
+							<img src="../assets/images/projects/Smartstats_portfolio_thumbnail.jpg" alt="Smartstats Campaign for Carphone Warehouse"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Smartstats Campaign</h3>
+							<div class="work-descr ">
+								Weekly Infographics
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
 					<a href="5mm">
 						<div class="work-image">
