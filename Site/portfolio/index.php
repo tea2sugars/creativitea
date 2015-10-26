@@ -129,6 +129,22 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item print branding">
+					<a href="supplychain-video">
+						<div class="work-image">
+							<img src="../assets/images/projects/supplychain_portfolio_thumbnail.jpg" alt="Dixons Carphone Supply Chain"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Supply Chain Video</h3>
+							<div class="work-descr ">
+								Video Production &amp; Animation
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print branding">
 					<a href="gentspack">
 						<div class="work-image">
 							<img src="../assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
