@@ -128,7 +128,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 				<!-- /PORTFOLIO ITEM -->
 				
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item print branding">
+				<li class="work-item video">
 					<a href="supplychain-video">
 						<div class="work-image">
 							<img src="../assets/images/projects/supplychain_portfolio_thumbnail.jpg" alt="Dixons Carphone Supply Chain"/>
