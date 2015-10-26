@@ -124,7 +124,6 @@ brands, organisations and people from all over the world.</p>
 							<li>The Gents Pack</li>
 							<li>Decade Skateboarding</li>
 							<li>Nike</li>
-							<li>Dragonfli</li>
 						</ul>
 					</article>
 					<article class="col-sm-3 m-b-10">
@@ -244,6 +243,7 @@ brands, organisations and people from all over the world.</p>
 							<li>Castle Partnership</li>
 							<li>Acasta Consulting</li>
 							<li>Gough Square</li>
+							<li>CPP</li>
 						</ul>
 					</article>
 				</div>
