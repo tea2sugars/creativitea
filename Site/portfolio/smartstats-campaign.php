@@ -6,7 +6,7 @@
 	<meta name="description" content="Creativitea worked with Carphone Warehouse to create a weekly infographic campaign based on topical events.">
 	<meta name="author" content="">
 	
-	<title>Smartstats Infographics Campaign | Carphone Warehouse | Creativitea - A Print Design Agency</title>
+	<title>Smartstats Weekly Infographics Campaign | Carphone Warehouse | Creativitea - A Print Design Agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
