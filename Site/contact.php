@@ -128,7 +128,9 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 									<a href="https://instagram.com/creativiteadesign" target="_blank"><i class="fa-instagram fa-icons fa" aria-label="Instagram"></i></a> 
 									<a href="https://www.behance.net/Creativitea"><i class="fa-behance fa-icons fa" aria-label="Behance"></i></a> 
 									<a href="https://plus.google.com/+CreativiteaCoUk/posts" target="_blank"><i class="fa-google-plus fa-icons fa" aria-label="Google Plus"></i></a> 
-									<a href="https://vimeo.com/creativitea/videos" target="_blank"><i class="fa-vimeo-square fa-icons fa" aria-label="Vimeo"></i></a></h2>
+									<a href="https://vimeo.com/creativitea/videos" target="_blank"><i class="fa-vimeo-square fa-icons fa" aria-label="Vimeo"></i></a>
+									<a href="https://www.linkedin.com/company/creativitea-design-studio" target="_blank"><i class="fa-linkedin-square fa-icons fa" aria-label="LinkedIn"></i></a>
+									</h2>
 						</article>
 
 					</div>
