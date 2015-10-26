@@ -66,7 +66,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding print branding digital">
+				<li class="work-item branding print digital">
 					<a href="domenico">
 						<div class="work-image">
 							<img src="../assets/images/projects/Domenico_portfolio_thumbnail.jpg" alt="Domenico Pizza Branding"/>
@@ -141,7 +141,21 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print">
+					<a href="sodexo-pass">
+						<div class="work-image">
+							<img src="../assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Vouchers"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Sodexo Pass</h3>
+							<div class="work-descr ">
+								Voucher Design & Print
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print">
 					<a href="nikerx">
