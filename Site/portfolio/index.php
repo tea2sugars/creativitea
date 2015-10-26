@@ -95,21 +95,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital">
-					<a href="buyapowa_saas">
-						<div class="work-image">
-							<img src="../assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
-							<div class="work-descr ">
-								UX & Website Design
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
+				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item print">
 					<a href="smartstats-campaign">
@@ -151,6 +137,21 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 							<h3 class="work-title ">Gents Pack</h3>
 							<div class="work-descr ">
 								Brand design and Packaging
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="buyapowa_saas">
+						<div class="work-image">
+							<img src="../assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
+							<div class="work-descr ">
+								UX & Website Design
 							</div>
 						</div>
 					</a>
