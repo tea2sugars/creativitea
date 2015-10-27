@@ -78,7 +78,7 @@
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 
 								<h5 class="m-t-0">History</h5>
-								<p>Trion Worlds is an American video game developer and publisher which focuses primarily on MMOs particularly of the MMORPG and MMORTS genres.</p>
+								<p>Trion Worlds is an American video game developer and publisher which focuses primarily on MMOs, particularly of the MMORPG and MMORTS genres.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
@@ -88,7 +88,7 @@
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>The game combines a massive multiplayer online battle arena with real-time strategy, and our first task was to come up with a campaign headline that would grasp the public's attention in a simple and direct manner. After several workshops with the client, ‘Strategy Redefined’ was born and we set to the task of developing a logo lockup device and creative to work this into the campaigns look and feel.</p>
+								<p>The game combines a massive multiplayer online battle arena with real-time strategy, and our first task was to come up with a campaign headline that would grab the public's attention in a simple and direct manner. After several workshops with the client, ‘Strategy Redefined’ was born and we set to the task of developing a logo lockup device and creative to work this into the campaigns look and feel.</p>
 
 <p>We worked with them for several months developing various artwork and promotional materials that featured in press, trade shows, retail touch points and exhibitions in the run up to the game's release date.</p>
 <p>One of the highlights of the project was the cinematic teaser we devised to report the current status of the game's development, and to generate a sense of excitement. The cinematic teaser was shown to the directors, partners and the internal working team.</p>
