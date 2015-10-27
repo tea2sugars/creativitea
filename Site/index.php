@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="Creativitea - A Brand, Digital & Print design Agency - Specialising in brand design, print design & digital design in London, Surrey and Suffolk"><meta name="author" content="Creativitea"><title>Creativitea | Brand Design Agency | Print Design Agency | Web Design Agency | London, South East of England</title> <?php include('assets/php/includes/head-css.html');?>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="Creativitea - A Creative Design Agency - Specialising in brand design, print design & web design | Based in London and Guildford"><meta name="author" content="Creativitea"><title>A Web, Brand and Print Design Agency, Creativitea | London and Guildford</title> <?php include('assets/php/includes/head-css.html');?>
 <!-- Facebook Conversion Code for Key Page Views – Rik Barwick 1 -->
 <script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
