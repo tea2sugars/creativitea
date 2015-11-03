@@ -129,7 +129,7 @@ RewriteRule ^blog/joining_the_dba$ /blog/why-we-joined-the-dba? [L,R=301]
 RewriteRule ^blog/stanley-film-festival-logo$ /blog/the-stanley-film-festival-logo? [L,R=301]
 
 # 301 --- http://www.creativitea.co.uk/blog/adidas-pop-store-london => http://www.creativitea.co.uk/blog/adidas-pop-up-store-london
-RewriteRule ^blog/adidas-pop-store-london$ /blog/adidas-pop-up-store-london? [L,R=301]
+RewriteRule http://www.creativitea.co.uk/blog/adidas-pop-store-london$ http://www.creativitea.co.uk/blog/adidas-pop-up-store-london? [L,R=301]
 
 # 301 --- http://www.creativitea.co.uk/blog/carry-fire => http://www.creativitea.co.uk/blog/carry-the-fire
 RewriteRule ^blog/carry-fire$ /blog/carry-the-fire? [L,R=301]
