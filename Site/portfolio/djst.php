@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Don't Just Site There, Sell Something!<br/><span class="small">Responsive Website Design</span></h1>
+						<h1 class="module-title align-center">Don't Just Sit There,<br/>Sell Something!<br/><span class="small">Responsive Website Design</span></h1>
 
 
 					</div>
