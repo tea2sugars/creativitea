@@ -174,20 +174,21 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item print">
-					<a href="sodexo-pass">
+				<li class="work-item digital">
+					<a href="5mm">
 						<div class="work-image">
-							<img src="../assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Vouchers"/>
+							<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Sodexo Pass</h3>
+							<h3 class="work-title ">5mm.co</h3>
 							<div class="work-descr ">
-								Voucher Design & Print
+								Website Design
 							</div>
 						</div>
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
+				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print">
 					<a href="nikerx">
@@ -322,6 +323,21 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 							<h3 class="work-title ">SizeMe Nutrition</h3>
 							<div class="work-descr ">
 								Branding & Visual Identity
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="djst">
+						<div class="work-image">
+							<img src="../assets/images/projects/djst_portfolio_thumbnail.jpg" alt="Don't Just Sit There, Sell Something Retro website Design"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Don't Just Sit There, Sell Something</h3>
+							<div class="work-descr ">
+								Retro Website Design
 							</div>
 						</div>
 					</a>
