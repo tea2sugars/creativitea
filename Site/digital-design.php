@@ -149,7 +149,7 @@
 				</div>
 				<div class="row">
 					<!-- PORTFOLIO LIST -->
-			<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
+			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print branding digital">
@@ -192,6 +192,21 @@
 							<h3 class="work-title ">5mm.co</h3>
 							<div class="work-descr ">
 								Website Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="./portfolio/djst">
+						<div class="work-image">
+							<img src="assets/images/projects/djst_portfolio_thumbnail.jpg" alt="Don't Just Sit There, Sell Something Retro website Design"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Don't Just Sit There, Sell Something</h3>
+							<div class="work-descr ">
+								Retro Website Design
 							</div>
 						</div>
 					</a>
