@@ -87,21 +87,21 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>One of Europe's hottest startups. Buyapowa brings dynamic pricing, co-creation and gamification to ecommerce.</p>
+								<p>One of Europe's hottest startups; Buyapowa brings dynamic pricing, co-creation and gamification to ecommerce.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>Our brief was to re-develop and optimise Buyapowa's existing website making it responsive and work on multiple devices.</p>
+								<p>Our brief was to re-develop and optimise Buyapowa's existing website making it responsive and able to work on multiple devices.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>Buyapowa approached us and asked if we could help them with their existing website as it was performing badly. It was a combination of badly adopted Wordpress CMS integration and had a third party marketing platform hacked on which was causing their team problems when it came to content authoring and management.</p>
-
+								<p>What we did
+Buyapowa approached us and asked if we could help them with their existing website as it was performing badly. It was a combination of badly adopted Wordpress CMS integration and had a third party marketing platform hacked on which was causing their team problems when it came to content authoring and management.</p>
 <p>We stripped out the WordPress side of things which wasn’t needed and used the Foundation Framework to re-build the website from the ground up. It was certainly a challenge as the site was very graphical and used infographics to present information which needed to be viewable by all their users - no matter the device.</p>
-
-<p>By streamlining the connected services and analysing the performance of the site we were able to make the site run a lot smoother. We optimised the way the site was loaded by checking how the site loaded it’s scripts. We managed to ensure content is loaded from the start so there was no delay improving the bounce rates.</p>
+<p>By streamlining the connected services and analysing the performance of the site we were able to make the site run a lot smoother. We optimised the way the site was loaded by checking how the site loaded it’s scripts. We managed to ensure content is loaded from the start so there was no delay improving the bounce rates.
+</p>
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
