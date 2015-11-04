@@ -104,7 +104,7 @@
 				</div>
 				<div class="row">
 		<!-- PORTFOLIO LIST -->
-			<ul id="works-grid" class="works-grid works-grid-2 works-hover-w">
+			<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item video">
