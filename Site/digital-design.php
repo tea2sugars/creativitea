@@ -145,7 +145,7 @@
 		<section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
 			<div class="container-fluid">
 				<div class="row">
-					<h2 class="align-center">Some of our Digital Projects</h2>
+					<h2 class="align-center">Some of our Website Design Projects</h2>
 				</div>
 				<div class="row">
 					<!-- PORTFOLIO LIST -->
