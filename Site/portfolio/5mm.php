@@ -69,7 +69,7 @@
 							<ul>
 								<li><strong>Client: </strong>5mm</li>
 								<li><strong>Project: </strong>Responsive Website Design & Development, Bootstrap, Perch CMS</li>
-								<li><strong>Online: </strong><a href="http:www.5mm.co" target="_blank">www.5mm.co</a></li>
+								<li><strong>Online: </strong><a href="http://www.5mm.co" target="_blank">www.5mm.co</a></li>
 								<li><strong>Budget: </strong>££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>

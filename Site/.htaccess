@@ -170,5 +170,5 @@ Redirect 301 /press/creativitea-creates-natterjacks-website http://www.creativit
 # 301 --- http://www.creativitea.co.uk/press/creativitea-‘here-help’-cpp-emphasise-consumer-message => http://www.creativitea.co.uk/blog/design-week-volume-26-number-23
 Redirect 301 /press/creativitea-‘here-help’-cpp-emphasise-consumer-message http://www.creativitea.co.uk/blog/design-week-volume-26-number-23
 
-
-
+# 301 --- http://www.creativitea.co.uk/what-we-do-integrated-design-service => http://www.creativitea.co.uk/branding
+Redirect 301 /what-we-do-integrated-design-service http://www.creativitea.co.uk/branding
