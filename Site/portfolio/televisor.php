@@ -85,7 +85,7 @@
 						<div class="row">
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>Perfect Havoc is a Hoxton based music management, record label and club night, consisting of producer and DJs within the world of dance music.
+								<p>Perfect Havoc is a Hoxton based music management, record label and club night, consisting of producers and DJs within the world of dance music.
 </p>
 							</div>
 
@@ -96,8 +96,8 @@
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>We designed a contemporary visual that used the theme of ‘Memory’ echoing the singles title via the use of a bespoke halftone imagery, solid and bold typography set in bright, fluorescent colour.</p>
-<p>A final series of vinyl and digital cover artwork where made for the singles and remixes release, along with social media marketing.</p>
+								<p>We designed a contemporary visual that used the theme of &rsquo;memory&lsquo;, echoing the singles title via the use of a bespoke halftone imagery, solid and bold typography set in bright, fluorescent colour.</p>
+<p>A final series of vinyl and digital cover artworks where made for the single and remix release, along with social media marketing.</p>
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>

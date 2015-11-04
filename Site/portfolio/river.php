@@ -87,18 +87,18 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>Perfect Havoc is a Hoxton based music management, record label and club night, consisting of producer and DJs within the world of dance music. </p>
+								<p>Perfect Havoc is a Hoxton based music management, record label and club night, consisting of producers and DJs within the world of dance music. </p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>Perfect Havoc approached us to create a identity for their new nu-disco artist River.</p>
+								<p>Perfect Havoc approached us to create an identity for their new nu-disco artist River.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>We designed a adaptable logotype that featured a custom geometric san serif typeface in the footsteps of the traditional grotesque typeface Avantgarde. A softer and more contemporary approach with visual corrections. The addition of islands, bridges and rounded corners within the letterforms created a stencil style forms that made up the logos typeface. The identity also features the use of geometric shapes in bright colours forming abstract patterns...</p>
-								<p>Deliverables for the project were a new full logo design and digital cover artwork for iTunes, SoundCloud and Spotify.</p>
+								<p>We designed an adaptable logotype, featuring a custom geometric san serif typeface in the footsteps of the traditional grotesque typeface Avantgarde; a softer and more contemporary approach with visual corrections. The addition of islands, bridges and rounded corners within the letterforms created a stencil style forms that made up the logos typeface. The identity also features the use of geometric shapes in bright colours forming abstract patterns.</p>
+<p>Deliverables for the project were a new full logo design and digital cover artwork for iTunes, SoundCloud and Spotify.</p>
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>

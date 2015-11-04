@@ -107,15 +107,31 @@
 			<ul id="works-grid" class="works-grid works-grid-2 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
+				<li class="work-item video">
+					<a href="./portfolio/supplychain-video">
+						<div class="work-image">
+							<img src="assets/images/projects/supplychain_portfolio_thumbnail.jpg" alt="Dixons Carphone Supply Chain"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Supply Chain Video</h3>
+							<div class="work-descr ">
+								Video Production &amp; Animation
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				
+				<!-- PORTFOLIO ITEM -->
 				<li class="work-item video branding">
 					<a href="./portfolio/s4nity-ident">
 						<div class="work-image">
-							<img src="assets/images/projects/s4nity_portfolio_thumbnail.jpg" alt="">
+							<img src="assets/images/projects/s4nity_portfolio_thumbnail.jpg" alt="S4NITY 3D Animation">
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">S4NITY Mascot</h3>
 							<div class="work-descr ">
-								Animation & Mascot Design
+								3D Animation & Mascot Design
 							</div>
 						</div>
 					</a>

@@ -91,17 +91,14 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>We where approached to design the first edition for its launch, with the task of designed the report in a way which would encourage people to read the weighty report in an engaging and attractive way, but also to be legible for their older audience.</p>
+								<p>We were approached to design the first edition for its launch, making sure the report would encourage people to read the weighty report in an engaging and attractive way, but also to be legible for their older audience.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>Working within the brand guidelines, our response was to make bold use of typography photography and illustration.</p> 
-
-<p>The design lends to a modern and contemporary identity, featuring logo design, bespoke illustrations and infographics, whilst supporting on the tone of voice and areas of content writing. The publications identity introduces a new typographic scheme and the use of there full colour palette which provides a structure to layouts and the reports entirety.</p>
-
+								<p>Working within the brand guidelines, our response was to make bold use of typography, photography and illustration.</p>
+<p>The design lends to a modern and contemporary identity, featuring logo design, bespoke illustrations and infographics, whilst supporting the tone of voice and areas of content writing. The publications identity introduces a new typographic scheme and the use of their full colour palette, which provides a structure to layouts and the reports entirety.</p>
 <p>We also oversaw the print production process, an A4 perfect bound, 6 colour booklet, ensuring that quality standards were observed and deadlines were met, delivering a fully finished product.</p>
-
 <p>Elements of Surrey Uncovered is now being used by Community Foundation for Surrey as a standard of ’best practices’ for their brand going forward.</p>
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>

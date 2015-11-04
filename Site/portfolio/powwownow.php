@@ -86,20 +86,21 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>Putting customers first, investing in innovation and keeping things simple, Powwownow operates in 15 countries and has been one of the leading providers of voice and video conference call services to business of all shapes and sizes.
+								<p>Putting customers first, investing in innovation and keeping things simple, Powwownow operates in 15 countries and has been one of the leading providers of voice and video conference call services to businesses of all shapes and sizes.
 </p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>Sometimes a business needs to look outside of its own walls to find the answers they need to take it further, getting the thoughts and ideas of others not associated with the company. We call this ‘ideas and disruption’.With there growing portfolio of voice and video conferencing services as well business growth, Powwownow approached us to help them review their current brand identity,  with the view of working together to explore new direction and help define their new ‘smarter working’ approach.</p>
+								<p>Sometimes a business needs to look outside of its own walls to find the answers they need to take it further, getting the thoughts and ideas of others not associated with the company. We call this ‘ideas and disruption’.With their growing portfolio of voice and video conferencing services as well business growth, Powwownow approached us to help them review their current brand identity, with the view of working together to explore new directions and help define their new &lsquo;smarter working&rsquo; approach.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>With the use of regular workshops as a collaborative team, we reviewed the existing strategy, identity and company touch points, asking questions as Why and challenging to gain further and more in-depth thought about Powwownow.</p>
-								<p>A collective decision was made that a new, better defined proposition - company vision was need to align it more with the direction the business was taking and their strategic planning. We devised a series of new ‘visions’ based on the finding from the workshops, deciding on the new statement of ‘When it matters’, underpinned by there quality of service, reliability, customer care and reputation.</p>
-								<p>This translated into the development a of proposed brand redesign, including new logo, visual identity and tone of voice. </p>
+								<p>With the use of regular workshops as a collaborative team, we reviewed the existing strategy, identity and company touch points, to gain further and more in-depth insights about Powwownow.</p>
+
+<p>A collective decision was made that a new, better defined proposition - company vision was need to align it more with the direction the business was taking and their strategic planning. We devised a series of new &lsquo;visions&rsquo; based on the findings from the workshops, deciding on the new statement of &lsquo;When it matters&rsquo;, underpinned by their quality of service, reliability, customer care and reputation.</p>
+<p>This translated into the development of a proposed brand redesign, including new logo, visual identity and tone of voice.</p>
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>

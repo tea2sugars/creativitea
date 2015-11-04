@@ -90,16 +90,16 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>With the Talkmobile changing its owners, and having worked with the business for a long time we approached the new team to see if we could help drive the business in its new direction. We were tasked with scoping the potential direction of a brand and identity redesign to aline it with the new strategic planning and targets of the business.</p>
+								<p>With Talkmobile changing its owners, and having worked with the business for a long time we approached the new team to see if we could help drive the business in its new direction. We were tasked with scoping the potential direction of a brand and identity a redesign to aline it with the new strategic planning and targets of the business.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>With the need to ‘move’ the brand away for the ‘cheap’ tag associated with value brands we researched across their competitors landscape and also used ‘out of the box’ thinking, looking at brands that are not within direct competition and some even not in the same industry - gaining a wider view on what makes a value brand worthy of being associated with and being part of.</p>
+								<p>With the need to &lsquo;move&rsquo; the brand away for the &lsquo;cheap&rsquo; tag associated with value brands, we researched across their competitors landscape and also used &lsquo;out of the box&rsquo; thinking, looking at brands that are not within direct competition and some even not in the same industry - gaining a wider view on what makes a value brand worthy of being associated with and being part of.</p>
 
-<p>The outcomes for our findings was more modern and clean approach to the brand, stripping away at its core of its original to a few simple but effective elements. The redesign features a new logo design, visual identity and a tone of voice to reflect the relaxed and easy nature of Talkmobiles approach to better value for customers, reinforcing there mission of ‘straight forward value’.</p>
+<p>The outcome of our findings was a more modern and clean approach to the brand, stripping away at its core to a few simple but effective elements. The redesign features a new logo design, visual identity and a tone of voice to reflect the relaxed and easy nature of Talkmobile’s approach, to better value for customers, reinforcing their mission of &lsquo;straight forward value&rsquo;.</p>
 
-<p>The bold typography, a minimum palette and large product imagery work along side the clean and structured design, making a premium feel with a relaxed approach underpinned by a ’no nonsense’ tone of voice and attitude of getting straight to the point.</p>
+<p>The bold typography, a minimum palette and large product imagery work along side the clean and structured design, making a premium feel with a relaxed approach underpinned by a &lsquo;no nonsense&rsquo; tone of voice and attitude of getting straight to the point.</p>
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 							</div>
