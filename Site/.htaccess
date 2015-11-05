@@ -172,3 +172,7 @@ Redirect 301 /press/creativitea-‘here-help’-cpp-emphasise-consumer-message h
 
 # 301 --- http://www.creativitea.co.uk/what-we-do-integrated-design-service => http://www.creativitea.co.uk/branding
 Redirect 301 /what-we-do-integrated-design-service http://www.creativitea.co.uk/branding
+
+Redirect 301 /blog/digital-banner-showreel http://www.creativitea.co.uk/portfolio
+
+
