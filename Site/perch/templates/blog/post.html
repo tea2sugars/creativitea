@@ -35,7 +35,8 @@
     </span>
     <perch:blog id="postDescHTML" type="textarea" label="Post" order="2" editor="markitup" markdown="true" size="xxl autowidth" required="true" />
     <perch:if exists="paypalLink">
-    	<perch:blog id="paypalLink" type="textarea" label="PayPaL" order="6" html="true" />
+    	<h4>Order yours today from PayPal</h4>
+    	<p><perch:blog id="paypalLink" type="textarea" label="PayPaL" order="6" html="true" help="If this is a product you'll need to setup a button on PayPal for us to be able to accept payments for it." /></p>
     </perch:if>
     <perch:if exists="image">
             <img src="<perch:blog id="image" type="image" label="Image" order="4" />" alt="<perch:blog id="postTitle" />" />
