@@ -54,7 +54,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<h1 class="module-title align-center">Our Creative World</h1>
 
 						<div class="module-subtitle align-center">
-							The latest news and musings from our agency, the industry and life in general
+							<h3>The latest news and musings from our agency, the industry and life in general</h3>
 							<div class="post-share">
 								<span class="yellow lead">–</span><br/>
 								<span class='st_sharethis_large' displayText='ShareThis'></span>
