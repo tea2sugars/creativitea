@@ -43,7 +43,7 @@
 		            
 
 						<div class="module-subtitle align-center">
-							<h2><perch:category id="desc" type="textarea" label="Description" editor="markitup" markdown="true" size="s" />
+							<h2><perch:blog id="desc" type="text" label="Description" /> 
 							</h2>
 							<div class="post-share">
 								<span class="yellow lead">–</span><br/>
