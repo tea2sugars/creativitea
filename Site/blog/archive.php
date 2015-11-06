@@ -7,8 +7,10 @@
 	<meta name="description" content="Creativitea's blog brings you an insight to creative industry, agency news, inspiration and our personal opinions related to creative culture.">
 	<meta name="author" content="">
 	
-	<title>Design Blog | Agency News | Press | Creativitea</title>
-	
+	<?php if (perch_get('cat')) {
+		            echo '<title>'.perch_blog_category(perch_get('cat'), true).'| Creativitea | Brand Design Agency London & Guildford </title>';}
+		            ?>
+		            
 	<?php include('../assets/php/includes/head-css-internal.html');?>	
 	<!--Share widget-->
 	<script type="text/javascript">var switchTo5x=true;</script>
@@ -43,8 +45,7 @@
 		            
 
 						<div class="module-subtitle align-center">
-							<h2><perch:blog id="desc" type="text" label="Description" /> 
-							</h2>
+							<h2>Yummy, inspirational mind-candy</h2>
 							<div class="post-share">
 								<span class="yellow lead">–</span><br/>
 								<span class='st_sharethis_large' displayText='ShareThis'></span>
