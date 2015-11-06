@@ -8,7 +8,7 @@
 	<meta name="author" content="">
 	
 	<?php if (perch_get('cat')) {
-		            echo '<title>'.perch_blog_category(perch_get('cat'), true).'| Creativitea | Brand Design Agency London & Guildford </title>';}
+		            echo '<title>'.perch_blog_category(perch_get('cat'), true).' | Creativitea | Brand Design Agency London & Guildford </title>';}
 		            ?>
 		            
 	<?php include('../assets/php/includes/head-css-internal.html');?>	
@@ -45,7 +45,7 @@
 		            
 
 						<div class="module-subtitle align-center">
-							<h2>Yummy, inspirational mind-candy</h2>
+							<h3>Yummy, inspirational mind-candy</h3>
 							<div class="post-share">
 								<span class="yellow lead">–</span><br/>
 								<span class='st_sharethis_large' displayText='ShareThis'></span>
