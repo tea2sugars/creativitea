@@ -39,10 +39,19 @@
     	<p><perch:blog id="paypalLink" type="textarea" label="PayPaL" order="6" html="true" help="If this is a product you'll need to setup a button on PayPal for us to be able to accept payments for it." /></p>
     </perch:if>
     <perch:if exists="image">
-            <img src="<perch:blog id="image" type="image" label="Image" order="4" />" alt="<perch:blog id="postTitle" />" />
+            <img src="<perch:blog id="image" type="image" label="Image" order="4" />" alt="<perch:blog id="postTitle" />" alt="<perch:content id="imagealt" type="text" label="Alt text" />" />
     </perch:if>
     <perch:if exists="extraImages">
-    <img src="<perch:blog id="extraImages" type="image" label="Additional Images" order="5" />" alt="<perch:blog id="postTitle" />" />
+    	<img src="<perch:blog id="extraImages" type="image" label="Additional Images" order="5" />" alt="<perch:blog id="postTitle" />" alt="<perch:content id="extraImagesalt" type="text" label="Alt text" />" />
+    </perch:if>
+    <perch:if exists="extraImages2">
+    	<img src="<perch:blog id="extraImages2" type="image" label="Additional Images" order="6" />" alt="<perch:blog id="postTitle" />" alt="<perch:content id="extraImages2alt" type="text" label="Alt text" />" />
+    </perch:if>
+    <perch:if exists="extraImages3">
+    	<img src="<perch:blog id="extraImages3" type="image" label="Additional Images" order="7" />" alt="<perch:blog id="postTitle" />" alt="<perch:content id="extraImages3alt" type="text" label="Alt text" />" />
+    </perch:if>
+    <perch:if exists="extraImages4">
+    	<img src="<perch:blog id="extraImages4" type="image" label="Additional Images" order="8" />" alt="<perch:blog id="postTitle" />" alt="<perch:content id="extraImages4alt" type="text" label="Alt text" />" />
     </perch:if>
    
     
