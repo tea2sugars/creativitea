@@ -98,7 +98,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 			paths used in these templates are correct for your installation.
 			 -->
 			 		<?php 
-				 		perch_blog_recent_posts(18);
+				 		perch_blog_recent_posts(12);
 					?>
 		    
 				</div>
