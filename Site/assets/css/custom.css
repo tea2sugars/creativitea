@@ -10,11 +10,11 @@ Place here your custom CSS styles
 	color: white;
 }
 
-p a:link, p a:visited, p a:active {
-	border-bottom: 2px dotted #FBBA00;
+p a:link, p a:visited, p a:active, .list-indent a:link, .list-indent a:visited, .list-indent a:active {
+	border-bottom: 2px dotted #fab700;
 }
 
-p a:hover {
+p a:hover, .list-indent a:hover {
 	color:#e1a706;
 }
 
@@ -84,6 +84,17 @@ a.p-category {
 
 .copyright {
 	line-height: 30px;
+}
+
+li.list-indent {
+	list-style: none;
+	border-left: 2px solid #fab700;
+	margin-left:0px;
+	padding-left:10px;
+}
+
+li h5 {
+	margin-bottom:0px;
 }
 
 #clients .grid-block {height:90px;}
