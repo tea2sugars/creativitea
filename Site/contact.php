@@ -56,57 +56,33 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 					
 					<div class="col-sm-7 col-sm-offset-2">
 						<h3>Send us a message</h3>
-					<!--<iframe id="typeform-full" width="100%" height="100%" style="display: block;" frameborder="0" src="https://creativitea.typeform.com/to/H1Gm5d"></iframe>-->
+						
+						<form name="insightly_web_to_contact" action="https://25r61kwb.insight.ly/WebToContact/Create" method="post">
+							<input type="hidden" name="formId" value="iIopmdlxQ9CCNkrtJZDSAQ=="/>
+								<label for="insightly_firstName">First Name: </label>
+								<input id="insightly_firstName" name="FirstName" type="text"/>
+									<br/>
+								<label for="insightly_lastName">Last Name: </label>
+								<input id="insightly_lastName" name="LastName" type="text"/>
+									<br/>
+								<label for="insightly_organization">Organization: </label>
+								<input id="insightly_organization" name="Organization" type="text"/>
+									<br/>
+								<label for="insightly_role">Title: </label>
+								<input id="insightly_role" name="Role" type="text"/>
+									<br/>
+								<input type="hidden" name="emails[0].Label" value="Work"/>
+								<label for="email[0]_Value">Email (Work): </label>
+								<input id="emails[0]_Value" name="emails[0].Value" type="text"/>
+									<br/>
+								<input type="hidden" name="phones[0].Label" value="Work"/><label for="phones[0]_Value">Phone (Work): </label><input id="phones[0]_Value" name="phones[0].Value" type="text"/>
+									<br/>
+								<label for="insightly_background">Additional background information: </label>
+									<br>
+								<textarea id="insightly_background" name="background"></textarea>
+									<br/>
+								<input type="submit" value="Contact Us"/></form>
 					
-						<form id="contact-form" role="form" novalidate="">
-
-							<div class="form-group">
-								<label class="sr-only" for="cname">Name</label>
-								<input type="text" id="cname" class="form-control" name="cname" placeholder="Name" required="" data-validation-required-message="Please enter your name.">
-								<!--<p class="text-danger">Please fill in your name</p>-->
-							</div>
-
-							<div class="form-group">
-								<label class="sr-only" for="cemail">Your Email</label>
-								<input type="email" id="cemail" name="cemail" class="form-control" placeholder="Your E-mail" required="" data-validation-required-message="Please enter your email address.">
-								<!--<p class="text-danger">Please fill in your Email Address</p>-->
-							</div>
-							
-							<div class="form-group">
-								<label class="sr-only" for="cphone">Your Phone Number</label>
-								<input type="text" id="cphone" name="cphone" class="form-control" placeholder="Phone Number" required="" data-validation-required-message="Please enter your phone number.">
-								
-							</div>
-							
-							<div class="form-group">
-								<label for="cdetail">Tell us about yourself, are you?</label>
-								<p><input type="radio" name="cdetail" value="prospect" checked> Looking for an awesome creative team.
-								<br>
-								<input type="radio" name="cdetail" value="supplier"> Someone with an exciting service you want us to look at.
-								<br/>
-								<input type="radio" name="cdetail" value="contractor"> A quality designer, developer or business person looking for work.
-								<br/>
-								<input type="radio" name="cdetail" value="alien"> An Alien.
-								<br/>
-								<input type="radio" name="cdetail" value="other"> Other.</p>
-								<p class="help-block text-danger"></p>
-							</div>
-							
-							
-
-							<div class="form-group">
-								<textarea class="form-control" id="cmessage" name="cmessage" rows="7" placeholder="Message" required="" data-validation-required-message="Please enter your message."></textarea>
-							</div>
-							
-							<div class="text-center">
-								<button type="submit" class="btn btn-y btn-lg">Send a digital smoke signal</button>
-							</div>
-
-						</form>
-
-						<!-- Ajax response -->
-						<div id="contact-response" class="ajax-response"></div>
-						<!-- DIVIDER -->
 						<hr class="divider-w m-t-20 m-b-20">
 						<!-- /DIVIDER -->
 						<h3 class="align-center">Alternatively&hellip;</h3>
