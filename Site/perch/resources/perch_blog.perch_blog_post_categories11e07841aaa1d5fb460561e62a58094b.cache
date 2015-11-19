@@ -6,5 +6,5 @@
 
     <li><a href="archive.php?cat=film">Film</a></li>
 
-    <li><a href="archive.php?cat=studio">Studio</a></li>
+    <li><a href="archive.php?cat=media">Media</a></li>
 </ul>

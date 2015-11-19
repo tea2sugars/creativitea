@@ -1,0 +1,12 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=robin-williams" rel="tag">Robin Williams</a></li>
+
+    <li><a href="archive.php?tag=tribute" rel="tag">Tribute</a></li>
+
+    <li><a href="archive.php?tag=artwork" rel="tag">Artwork</a></li>
+
+    <li><a href="archive.php?tag=artists" rel="tag">Artists</a></li>
+</ul>
