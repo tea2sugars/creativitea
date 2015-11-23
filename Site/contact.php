@@ -55,36 +55,37 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 					</div>
 					
 					<div class="col-sm-7 col-sm-offset-2">
-						<h3>Send us a message</h3>
+						<h4>Send us a message</h4>
 						
 						<form name="insightly_web_to_contact" action="https://creativitea.insight.ly/WebToContact/Create" method="post">
-							<input type="hidden" name="formId" value="iIopmdlxQ9CCNkrtJZDSAQ=="/>
-							<label for="insightly_firstName">First Name: </label>
-								<input id="insightly_firstName" name="FirstName" type="text"/>
-								<br/>
-							<label for="insightly_lastName">Last Name: </label>
-								<input id="insightly_lastName" name="LastName" type="text"/>
-								<br/>
-							<label for="insightly_organization">Organisation: </label>
-								<input id="insightly_organization" name="Organization" type="text"/>
-								<br/>
-							<label for="insightly_role">Title: </label>
-								<input id="insightly_role" name="Role" type="text"/>
-								<br/>
-							<input type="hidden" name="emails[0].Label" value="Work"/>
-								<label for="email[0]_Value">Email (Work): </label>
-									<input id="emails[0]_Value" name="emails[0].Value" type="text"/>
+							<div class="form-group">
+								<input type="hidden" name="formId" value="iIopmdlxQ9CCNkrtJZDSAQ=="/>
+								<label class="sr-only" for="insightly_firstName">First Name: </label>
+									<input id="insightly_firstName" class="form-control" name="FirstName" type="text" placeholder="First Name"/>
 									<br/>
-							<input type="hidden" name="phones[0].Label" value="Work"/>
-								<label for="phones[0]_Value">Phone (Work): </label>
-								<input id="phones[0]_Value" name="phones[0].Value" type="text"/>
+								<label class="sr-only" for="insightly_lastName">Last Name: </label>
+									<input id="insightly_lastName" class="form-control" name="LastName" type="text" placeholder="Last Name"/>
 									<br/>
-							<label for="insightly_background">Additional information: </label>
-									<br>
-								<textarea id="insightly_background" name="background"></textarea>
+								<label class="sr-only" for="insightly_organization">Organisation: </label>
+									<input id="insightly_organization" class="form-control" name="Organization" type="text" placeholder="Organisation or Company Name"/>
 									<br/>
+								<label class="sr-only" for="insightly_role">Position: </label>
+									<input id="insightly_role" class="form-control" name="Role" type="text" placeholder="Your Job Role"/>
+									<br/>
+								<input type="hidden" name="emails[0].Label" value="Work"/>
+									<label class="sr-only" for="email[0]_Value">Email Address: </label>
+										<input id="emails[0]_Value" class="form-control" name="emails[0].Value" type="text" placeholder="Email Address"/>
+										<br/>
+								<input type="hidden" name="phones[0].Label" value="Work"/>
+									<label class="sr-only" for="phones[0]_Value">Phone Number: </label>
+									<input id="phones[0]_Value" class="form-control" name="phones[0].Value" type="text" placeholder="Phone Number"/>
+										<br/>
+								<label class="sr-only" for="insightly_background">Additional information: </label>
+									<textarea id="insightly_background" class="form-control" rows="7" name="background" placeholder="Your Smoke Signal"></textarea>
+										<br/>
+							</div>
+							<input type="submit" value="Send Enquiry" class="btn btn-round btn-y"/>
 							
-							<input type="submit" value="Send Enquiry"/>
 						</form>
 					
 						<hr class="divider-w m-t-20 m-b-20">
