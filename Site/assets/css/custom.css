@@ -97,6 +97,18 @@ li h5 {
 	margin-bottom:0px;
 }
 
+.grid-list {
+	display: flex;
+	flex-wrap: wrap;
+}
+.grid-list-item {
+	display: flex;
+}
+.grid-list-content {
+	display: flex;
+	flex-direction: column;
+}
+
 #clients .grid-block {height:90px;}
 /*small device*/
 @media only screen and (min-width: 480px) {
@@ -114,4 +126,6 @@ li h5 {
 		background-image: url(../images/home-desktop.jpg);
 	}
 }
+
+.initial {border-bottom: 1px dotted gray;}
 
