@@ -129,3 +129,7 @@ li h5 {
 
 .initial {border-bottom: 1px dotted gray;}
 
+.initial:hover {
+	cursor: help;
+}
+
