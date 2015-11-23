@@ -64,9 +64,10 @@
 
 								<h3>&ldquo;Look, if you had, one shot, or one opportunity to seize everything you ever wanted. In one moment –
 Would you capture it, or just let it slip?&rdquo; - Eminem</h3>
-								<p>It's not very often we get to quote a rapper but the above quote seems to sum up exactly how important Experience Design is to your digital project. You have on average 10 seconds to capture the attention of your visitors and pull them in otherwise they're gone and may never be back.</p>
+								<p>It's not very often we get to quote a rapper but the above quote seems to sum up exactly how important Experience Design is to your digital project. You have on average 10 seconds to capture the attention of your visitors and pull them in otherwise they're gone and may never come back.</p>
 								
-								<p>Our team at Creativitea are passionate about helping you convert your users into leads or active users of your digital service. We're blessed with over 10 years experience doing just that for some of the biggest brands in the world.</p>
+								<p>Our team at Creativitea are passionate about helping clients grab attention and then convert users into leads or active users of your digital service. We're blessed with over 10 years experience doing just that for some of the biggest brands in the world.</p>
+								<p>Discover more about our digital design services below.</p>
 								<p>
 									<ul>
 										<li class="list-indent col-sm-6 m-b-20">
@@ -74,23 +75,27 @@ Would you capture it, or just let it slip?&rdquo; - Eminem</h3>
 											<p>Working with your team, our designers identify your business goals and objectives to help develop an insight to what you need to do to convert your users. Outlining these key objectives enables us to design and develop key activities surrounding your website design. Activities include customer journey mapping, stakeholder interviews, workshops, customer profiling, content strategy and KPI measurements / benchmarking.</p>
 										</li>
 										<li class="list-indent col-sm-6 m-b-20">
+											<h5>User Research &amp; Content Analysis</h5>
+											<p>There is no magic formula to creating great users experiences and digital products. In our experience the most successful digital projects start with an investment into researching user patterns, analysing content and planning your information architecture (IA). Activities include competitor benchmarking, user focus groups or user surveys, heat-mapping and eye-tracking and mobile-device testing.</p>
+										</li>
+										<li class="list-indent col-sm-6 m-b-20">
 											<h5>User Interface Design (UI)</h5>
+											<p>During the design process our digital team integrate our UX and IA development into beautiful User Interfaces (UI) to create memorable digital solutions that reflect your organisations brand and to encourages returning users. We work in an iterative process alongside our clients with a range of tools to design and explain our thought processes throughout the design phase. Activities may include; paper and rapid design using live online tools for instant previews and prototyping, responsive design, digital design, digital style guidelines and content design.</p>
+										</li>
+										<li class="list-indent col-sm-6 m-b-20">
+											<h5>UI & Web Development</h5>
+											<p>Our Digital team are passionate about exploring the latest tools and techniques to develop standards-compliant user interfaces and website. We use a range HTML, CSS and JavaScript at the core of our projects but enhance the power of other tech like AJAX, PHP and HTML5. We have a range of experiences with frameworks such as Bootstrap and Foundation which we often use to develop rich user experiences for our clients in a timely manner. Activities may include; responsive website design, mobile applications, interactive prototypes, accessibility &amp; standards and interactive animated content.</p>
+										</li>
+										<li class="list-indent col-sm-6 m-b-20">
+											<h5>Digital Technology</h5>
+											<p>At Creativitea we believe that a website or digital product should work for our clients as a user group also. We work with a range of content management systems (CMS) and web-services to make our client's lives easier and save them money and resources. We're a fan of open-source technology so lean towards our CMS of choice Drupal but we also have experience using Perch and WordPress.</p>
+										</li>
+										<li class="list-indent col-sm-6 m-b-20">
+											<h5>Testing &amp; Enhancing</h5>
 											<p>Working with your team, our designers identify your business goals and objectives to help develop an insight to what you need to do to convert your users. Outlining these key objectives enables us to design and develop key activities surrounding your website design. Activities include customer journey mapping, stakeholder interviews, workshops, customer profiling, content strategy and KPI measurements / benchmarking.</p>
 										</li>
 										<li class="list-indent col-sm-6 m-b-20">
-											<h5>UI & Web development</h5>
-											<p>Working with your team, our designers identify your business goals and objectives to help develop an insight to what you need to do to convert your users. Outlining these key objectives enables us to design and develop key activities surrounding your website design. Activities include customer journey mapping, stakeholder interviews, workshops, customer profiling, content strategy and KPI measurements / benchmarking.</p>
-										</li>
-										<li class="list-indent col-sm-6 m-b-20">
-											<h5>Digital technology</h5>
-											<p>Working with your team, our designers identify your business goals and objectives to help develop an insight to what you need to do to convert your users. Outlining these key objectives enables us to design and develop key activities surrounding your website design. Activities include customer journey mapping, stakeholder interviews, workshops, customer profiling, content strategy and KPI measurements / benchmarking.</p>
-										</li>
-										<li class="list-indent col-sm-6 m-b-20">
-											<h5>Information Architecture & Content Strategy</h5>
-											<p>Working with your team, our designers identify your business goals and objectives to help develop an insight to what you need to do to convert your users. Outlining these key objectives enables us to design and develop key activities surrounding your website design. Activities include customer journey mapping, stakeholder interviews, workshops, customer profiling, content strategy and KPI measurements / benchmarking.</p>
-										</li>
-										<li class="list-indent col-sm-6 m-b-20">
-											<h5>Website Re-design & Rennovation</h5>
+											<h5>Renovation, optimisation and redesigning</h5>
 											<p>Working with your team, our designers identify your business goals and objectives to help develop an insight to what you need to do to convert your users. Outlining these key objectives enables us to design and develop key activities surrounding your website design. Activities include customer journey mapping, stakeholder interviews, workshops, customer profiling, content strategy and KPI measurements / benchmarking./p>
 										</li>
 										
@@ -98,9 +103,7 @@ Would you capture it, or just let it slip?&rdquo; - Eminem</h3>
 								</p>
 <p>It's never been more important for your brand to engage with your audience via your digital channels. At Creativitea, we collaboratively with our clients to deliver digital design solutions that deliver great results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to developing campaigns on social media, mobile and digital marketing.</p> 
 
-<p>At Creativitea, we collaboratively with our clients to deliver digital design solutions that deliver great results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to integrated campaigns on social media, mobile and advertising. 
-									
-								</p>
+<p>At Creativitea, we collaboratively with our clients to deliver digital design solutions that deliver great results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to integrated campaigns on social media, mobile and advertising.</p>
 								
 							</article>
 						

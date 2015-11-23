@@ -63,12 +63,12 @@
 							<article>
 
 								<h3>We're a creative digital design agency founded on creative thinking, technical knowhow and a thirst for customer satisfaction.</h3>
-								<p>Over the years Creativitea has developed a team of trusted, experienced digital designers, strategists and developers that can adapt existing services, innovate and develop digital projects that cater for any budget and timeframes. With creative thinking there's always a way!</p>
+								<p>Over the years Creativitea has developed a team of trusted, experienced digital designers, strategists and developers that can adapt existing services, innovate and develop digital projects that cater for any budget and timeframe. With creative digital thinking there's always a way!</p>
 								
-								<p>It's never been more important for your brand to engage with your audience via your digital channels. At Creativitea, we collaboratively with our clients to deliver digital design solutions that deliver great results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to developing campaigns on social media, mobile and digital marketing.</p>
+								<p>It's never been more important for your brand to engage with your audience via a range of digital channels. At Creativitea, we collaboratively with our clients to deliver digital design solutions that deliver great results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to developing campaigns on social media, mobile and digital marketing.</p>
 								
-								<h4>Digital design solutions</h4>
-								<p>Our digital team pride themselves on being able to design clients beautiful design solutions with technical knowhow to backup our thought and strategy. We break up what we do into three main service categories;</p>
+								<h4>Digital Design Solutions</h4>
+								<p>Our award-winning digital team pride themselves on being able to design clients beautiful design solutions with technical knowhow to backup our thought and strategy. Discover more about our digital services below;</p>
 								<p>
 									<ul>
 										<li class="list-indent">
@@ -84,15 +84,11 @@
 										</li>
 										<li class="list-indent">
 											<h5><a href="support" title="Digital Marketing">Service & Support</a></h5>
-											<p>Giving you the help you need for your digital solution to run smoothly</p>
+											<p>Giving you the help you need for your digital solutions to run smoothly</p>
 										</li>
 									</ul>
 								</p>
-<p>It's never been more important for your brand to engage with your audience via your digital channels. At Creativitea, we collaboratively with our clients to deliver digital design solutions that deliver great results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to developing campaigns on social media, mobile and digital marketing.</p> 
 
-<p>At Creativitea, we collaboratively with our clients to deliver digital design solutions that deliver great results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to integrated campaigns on social media, mobile and advertising. 
-									
-								</p>
 								
 							</article>
 						
@@ -100,9 +96,7 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-2">
-							<article>
-								<p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking. Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help.</p>
-							</article>
+						<p>We help clients plan, implement and evolve their websites and other digital products so they deliver results. If you have a project you'd like to have a chat about please contact us.</p>
 							<a href="contact" class="btn btn-d btn-round">Contact Us</a> <a href="portfolio" class="btn btn-g btn-round">View work</a>
 					</div>
 							
@@ -152,7 +146,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
 							<div class="work-descr ">
-								UX & Website Design
+								UX & Digital Design
 							</div>
 						</div>
 					</a>
@@ -182,7 +176,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">Don't Just Sit There, Sell Something</h3>
 							<div class="work-descr ">
-								Retro Website Design
+								Small Business Website Design
 							</div>
 						</div>
 					</a>
