@@ -134,9 +134,30 @@
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
                         <article>
-                            <p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking. Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help.</p>
+                            <p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking.</p>
+                            
+                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help.</p>
                         </article>
                         <a href="contact" class="btn btn-d btn-round">Contact Us</a> <a href="portfolio" class="btn btn-g btn-round">View work</a>
+                            <!-- DIVIDER -->
+    <hr class="divider-w m-t-20">
+    <!-- /DIVIDER -->
+                        <article class="m-t-20">
+	                        <p>Other Digital Design services you may also be interested in;</p>
+                            <p>
+	                            	<ul>
+										<li class="list-indent">
+											<h5><a href="digital-marketing" title="Digital Marketing">Digital Marketing</a></h5>
+											<p>Helping you drive traffic, drive sales and convert your users into leads</p>
+										</li>
+										<li class="list-indent">
+											<h5><a href="support" title="Digital Marketing">Service & Support</a></h5>
+											<p>Giving you the help you need for your digital solutions to run smoothly</p>
+										</li>
+									</ul>
+                            </p>
+                        </article>
+                           
                     </div>
 
                     <!-- /POST -->
