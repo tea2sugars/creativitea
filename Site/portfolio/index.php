@@ -175,14 +175,14 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
-					<a href="5mm">
+					<a href="sodexo-pass">
 						<div class="work-image">
-							<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
+							<img src="../assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Print Design"/>
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">5mm.co</h3>
+							<h3 class="work-title ">Sodexo</h3>
 							<div class="work-descr ">
-								Website Design
+								Print Design
 							</div>
 						</div>
 					</a>

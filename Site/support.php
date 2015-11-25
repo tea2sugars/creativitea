@@ -85,7 +85,7 @@
                                         <div class="grid-list-content">
 
                                             <h5>Consultancy</h5>
-                                            <p>The success of our agency depends on the success of our project. We work collaboratively with our clients and provide our best advice throughout every stage of your project and beyond.</p>
+                                            <p>The success of our agency depends on the success of our projectss. We work collaboratively with our clients and provide our best advice throughout every stage of your project and beyond.</p>
                                         </div>
                                     </li>
                                     

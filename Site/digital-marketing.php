@@ -102,6 +102,12 @@
                                     </li>
                                     <li class="list-indent col-sm-6 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
+                                            <h5>User Behaviour Analysis</h5>
+                                            <p>During the design process our digital team integrate our <span class="initial" title="User Experince">UX</span> and <span class="initial" title="Information Architecture">IA</span> development into beautiful User Interfaces (UI) to create memorable digital solutions that reflect your organisations brand and to encourages returning users. We work in an iterative process with a range of tools to design and explain our thought processes throughout the design phase. Activities may include; paper and rapid design using live online tools for instant previews and prototyping, responsive design, digital design, digital style guidelines and content design.</p>
+                                        </div>
+                                    </li>
+                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                        <div class="grid-list-content">
                                             <h5>Social Media Marketing</h5>
                                             <p>Our Digital team are passionate about exploring the latest tools and techniques to develop standards-compliant user interfaces and website. We use a range HTML, CSS and JavaScript at the core of our projects but enhance the power of other tech like AJAX, PHP and HTML5. We have a range of experiences with frameworks such as Bootstrap and Foundation which we often use to develop rich user experiences for our clients in a timely manner. Activities may include; responsive website design, mobile applications, interactive prototypes, accessibility &amp; standards and interactive animated content.</p>
                                         </div>
