@@ -6,7 +6,7 @@
 	<meta name="description" content="Creativitea worked with Freeview to help support the design and creation of their Cat and Budgie Campaign. Producing artwork for print, Outdoor advertising, Press and Point of Sale">
 	<meta name="author" content="">
 	
-	<title>Cat and Budgie Campaign | Freeview | Creativitea - A Print & Point of Sale Design Agency</title>
+	<title>Cat and Budgie Campaign | Freeview | Creativitea - A Print Design Agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Freeview Cat &amp; Budgie Campaign<br/><span class="small">Artworking, Press, Outdoor and Point of Sale Design Campaign</span></h1>
+						<h1 class="module-title align-center">Freeview Cat &amp; Budgie Campaign<br/><span class="small">Artworking, Press & Outdoor Campaign Support
 					</div>
 
 				</div>
@@ -59,7 +59,7 @@
 						<div class="work-details">
 							<ul>
 								<li><strong>Client: </strong>Freeview</li>
-								<li><strong>Project: </strong>Creative Artworking, Image creation, Outdoor Advertising, Press &amp; <span title="Point of Sale">POS</span> Design</li>
+								<li><strong>Project: </strong>Creative Artworking, Image creation, Outdoor Advertising &amp; Press Design</li>
 								<!--<li><strong>Online: </strong><a href="http:www.5mm.co" target="_blank"></a></li>-->
 								<li><strong>Budget: </strong>£££££</li>
 								<!--<li><strong>Testimonial: </strong>

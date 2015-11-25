@@ -64,7 +64,36 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 
 			<!-- PORTFOLIO LIST -->
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
-				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item video digital">
+					<a href="carphone-warehouse-blacktag">
+						<div class="work-image">
+							<img src="../assets/images/projects/CPWBTE_portfolio_thumbnail.jpg" alt="Carphone Warehouse Blacktag Video Campaign"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Carphone Warehouse Black Tag Event</h3>
+							<div class="work-descr ">
+								Social Media Campaign Video
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print">
+					<a href="cat-budgie-campaign">
+						<div class="work-image">
+							<img src="../assets/images/projects/Freeview_portfolio_thumbnail.jpg" alt="Freeview Cat & Budgie Campaign"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Freeview Cat & Budgie Campaign</h3>
+							<div class="work-descr ">
+								Print Execution and Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print digital">
 					<a href="domenico">
@@ -143,21 +172,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item print branding">
-					<a href="gentspack">
-						<div class="work-image">
-							<img src="../assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Gents Pack</h3>
-							<div class="work-descr ">
-								Brand design and Packaging
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
+				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
 					<a href="buyapowa_saas">
@@ -183,6 +198,21 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 							<h3 class="work-title ">Sodexo</h3>
 							<div class="work-descr ">
 								Print Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print branding">
+					<a href="gentspack">
+						<div class="work-image">
+							<img src="../assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Gents Pack</h3>
+							<div class="work-descr ">
+								Brand design and Packaging
 							</div>
 						</div>
 					</a>
