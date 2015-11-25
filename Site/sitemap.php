@@ -51,11 +51,7 @@
 										<p>Individuals making up a great team.</p>
 									</li>
 									<li>
-										<h5><a href="creative-process">Creative Process</a></h5>
-										<p>Not all process are the same, not all are equal. Here's ours.</p>
-									</li>
-									<li>
-										<h5><a href="clients">Our Wonderful Clients</a></h5>
+										<h5><a href="clients">Our Clients</a></h5>
 										<p>We have had the pleasure of working with some great brands, organisations and people from all over the world.</p>
 									</li>
 									<li>
@@ -99,9 +95,14 @@
 								<p>Our Creative Design Work.</p>
 							</li>
 							<li>
+								<h5><a href="blog/archive.php?cat=design-shop">Shop</a></h5>
+								<p>Our little shop of creative, design delights.</p>
+							</li>
+							<li>
 								<h4><a href="blog">Blog</a></h4>
 								<p>The latest news and musings from our agency, the industry and life in general.</p>
 							</li>
+							
 							<li>
 								<h4><a href="contact">Contact Us</a></h4>
 								<p>Contact Our Team.</p>
