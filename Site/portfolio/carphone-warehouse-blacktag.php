@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Carphone Warehouse Black Tag Event<br/><span class="small">Animation and Motion Graphics for Black Friday's Social Media Campaign</span></h1>
+						<h1 class="module-title align-center">Carphone Warehouse Black Tag Event<br/><span class="small">Animation and Motion Graphics for their Black Friday Social Media Campaign</span></h1>
 
 
 					</div>

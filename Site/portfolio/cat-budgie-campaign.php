@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Freeview Cat &amp; Budgie Campaign<br/><span class="small">Artworking, Press & Outdoor Campaign Support
+						<h1 class="module-title align-center">Freeview Media Campaign Support<br/><span class="small"><q>Entertainment is even better when it’s free</q>
 					</div>
 
 				</div>
