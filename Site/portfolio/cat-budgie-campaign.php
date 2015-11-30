@@ -122,6 +122,8 @@
 						<p><img src="../assets/images/projects/Freeview_portfolio_05B.jpg" alt="Freeview Press Campaign"></p>
 						<p><img src="../assets/images/projects/Freeview_portfolio_06B.jpg" alt="Freeview Press Campaign"></p>
 						<p><img src="../assets/images/projects/Freeview_portfolio_07B.jpg" alt="Freeview Press Campaign"></p>
+						<h5>Work in progress...</h5>
+						<p>A lot of skilful art working was needed to convert images created for screen into something that could be used across different marketing channels. The below are a few examples</p>
 						<p><img src="../assets/images/projects/Freeview_portfolio_02B.jpg" alt="Freeview Cat & Budgie Campaign Artworking"></p>
 						<p><img src="../assets/images/projects/Freeview_portfolio_03B.jpg" alt="Freeview Cat & Budgie Outdoor Advertising Campaign"></p>
 						
