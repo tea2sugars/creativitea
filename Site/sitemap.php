@@ -77,8 +77,18 @@
 										<p>The who, what and why of your business.</p>
 									</li>
 									<li>
-										<h5><a href="digital-design">Digital Design</a></h5>
+										<h5><a href="digital-design">Digital &amp; Web Design Services <i class="fa fa-level-down"></i></a></h5>
 										<p>Delivering your brand message and your product marketing instantly anywhere in the world.</p>
+										<ul>
+											<li>
+												<h5><a href="web-design">Digital &amp; Website Design</a></h5>
+												<p>Website Design and Development</p>
+											</li>
+											<li>
+												<h5><a href="web-design">Digital Client Support</a></h5>
+												<p>Supporting our clients with their digital services</p>
+											</li>
+										</ul>
 									</li>
 									<li>
 										<h5><a href="print-design">Print Design</a></h5>
@@ -95,7 +105,7 @@
 								<p>Our Creative Design Work.</p>
 							</li>
 							<li>
-								<h5><a href="blog/archive.php?cat=design-shop">Shop</a></h5>
+								<h4><a href="blog/archive.php?cat=design-shop">Shop</a></h4>
 								<p>Our little shop of creative, design delights.</p>
 							</li>
 							<li>
