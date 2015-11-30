@@ -46,12 +46,11 @@
 
                     <div class="col-sm-6 col-sm-offset-3">
 
-                        <h1 class="module-title align-center">Supporting your product</h1>
+                        <h1 class="module-title align-center">Supporting your product and your business</h1>
 
                         <div class="module-subtitle align-center">
-                            <p class="lead">Your brand, your message, your product.
-                                <br/>Their device, now.</p>
-                            <a class="btn btn-lg btn-y btn-round" href="#web-services"><i class="fa fa-arrow-down"></i> Learn more</a>
+                            <p class="lead">Dependable and there when you need it,<br/><em>Like a good cup of tea.</em></p>
+                            <a class="btn btn-lg btn-y btn-round" href="#digital-suuport"><i class="fa fa-arrow-down"></i> Learn more</a>
 
                         </div>
                     </div>
@@ -74,14 +73,26 @@
 
                         <article>
 
-                            <h3>We're Digital Design Agency that create simple solutions that work and deliver results.</h3>
-                            <p>Eminem said in his hit single, Lose yourself – <q>Look, if you had, one shot, or one opportunity to seize everything you ever wanted. In one moment – Would you capture it, or just let it slip?</q> Now it's not very often we get to quote a rapper but the above quote seems to sum up exactly how important Experience Design is to your digital project. You have on average 10 seconds to capture the attention of your visitors and pull them in otherwise they're gone and may never come back.</p>
+                            <h3>We're Digital Design Agency that build our own solutions for our clients so we know your product intimately so we can help support your business and be part of your team.</h3>
+                            <p>Rik our Director and Digital Lead once said if he had a pound for every time someone mentioned their site was too hard to work with so they don't bother or that they felt they were calling a lawyer with a stopwatch every time they phoned their digital team for some advise he'd be retired by now.</p>
 
-                            <p>Our team at Creativitea are passionate about helping clients grab attention and then convert users into leads or active users of your digital service. We're blessed with over 10 years experience doing just that for some of the biggest brands in the world.</p>
-                            <p id="web-services">Discover more about our digital design services below.</p>
+                            <p>Our team at Creativitea should really be called <u>Your Team</u>. When setting up the agency we really wanted to be there for our clients when they needed us most. Not with an excessive bill but an understanding that we are in this together – through the bad and also the good! This is our brand and it is engrained in us like Brighton Rock.</p>
+                            <p>We offer a range of affordable monthly digital support packages so there's no scary surprises and also offer a range of services to keep your website or digital product online, earning you money and attracting leads.</p>
+                            <p id="web-services">Discover more about our digital support services below.</p>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="module-small dark-section" id="digital-suuport">
+	        <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <article>
+	                         <h4 class="text-center">Digital Client Support Services</h4>
                             <p>
                                 <ul class="grid-list">
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
 
                                             <h5>Consultancy</h5>
@@ -89,14 +100,14 @@
                                         </div>
                                     </li>
                                     
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Support Agreements</h5>
                                             <p>Once we've launched your project we continue to support you and your product so you know how to use it and the product continues to work with you.</p>
                                         </div>
                                     </li>
                                     
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
 
                                             <h5>Ticket Tracking &amp; Milestone Reports</h5>
@@ -104,19 +115,19 @@
                                         </div>
                                     </li>
                                     
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>30 Day Grace Period</h5>
                                             <p>All our development projects come with 30 day grace period where we'll help iron out any bugs or issues that may have come to surface post-launch</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Security Updates</h5>
                                             <p>The digital world is growing and an exponential rate. It is inevitable that it'll attract unfavourable characters to ruin it for everyone else. We monitor social media and support forums to ensure our solutions are up-to-date and secure to protect your business and your brand.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Hosting</h5>
                                             <p>Where your digital platform is hosted is one of the most essential elements contributing to it's success and is often overlooked. We work with industry-leading hosting providers to give you peace of mind.</p>
@@ -125,18 +136,23 @@
 
                                 </ul>
                             </p>
+                             <div class="text-center"> <a href="portfolio" class="btn btn-lg btn-y btn-round">View our Digital Design work</a></div>
                         </article>
 
                     </div>
                 </div>
+	        </div>
+	    </section>
+	    <section class="module-small">
+
+            <div class="container">
+
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
                         <article>
-                            <p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking.</p>
-                            
-                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help.</p>
+                            <p>If your digital product or website needs some support or even you'd like to have a chat we'll happily talk to anyone so please contact us.</p>
                         </article>
-                        <a href="contact" class="btn btn-d btn-round">Contact Us</a> <a href="portfolio" class="btn btn-g btn-round">View work</a>
+                        <a href="contact" class="btn btn-d btn-round">Contact Us</a>
                             <!-- DIVIDER -->
 							<hr class="divider-w m-t-20">
 							<!-- /DIVIDER -->
@@ -151,10 +167,10 @@
 											<p>Designing user experiences for websites, apps and digital products</p>
 											
 										</li>
-										<li class="list-indent">
+										<!--<li class="list-indent">
 											<h5><a href="digital-marketing" title="Digital Marketing">Digital Marketing</a></h5>
 											<p>Helping you drive traffic, drive sales and convert your users into leads</p>
-										</li>
+										</li>-->
 									</ul>
                             </p>
                         </article>
