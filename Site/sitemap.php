@@ -31,7 +31,7 @@
 
 					<div class="col-sm-8 col-sm-offset-2">
 
-						<h1>Find your way round our website</h1>
+						<h1>Find your way around our website</h1>
 						
 						<ul>
 							<li>
