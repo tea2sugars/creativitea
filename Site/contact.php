@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
+	<meta name="description" content="Contact our London or Surrey design agency, the Kettle's always on and we're ready to help you change things through beautiful design">
 	<meta name="author" content="">
 	
 	<!-- Facebook Conversion Code for Key Page Views – Rik Barwick 1 -->
