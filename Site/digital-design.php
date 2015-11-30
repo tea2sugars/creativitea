@@ -62,83 +62,42 @@
 
 							<article>
 
-								<h3>We're a creative digital design agency founded on creative thinking, technical knowhow and a thirst for customer satisfaction. Over-delivering on our clients KPI's and expectations.</h3>
-								<p>A great idea is nothing without execution, and we have the people and experience to make things happen. We have more than a decade of experience delivering highly-effective digital communications for some of the biggest brands in the country, we use this expertise to scale ideas for businesses and charities of all shapes and sizes – Winning awards as we go. </p>
-								<p>Creativitea has developed a team of trusted, experienced digital folk that adapt existing services, innovate and develop digital projects that cater for any budget. With creative thinking there's always a way!</p> 
-								<h4>Possible Digital Design Services we can help with are:</h4>
+								<h3>We're a creative digital design agency founded on creative thinking, technical knowhow and a thirst for customer satisfaction.</h3>
+								<p>Over the years Creativitea has developed a team of trusted, experienced digital designers, strategists and developers that can adapt existing services, innovate and develop digital projects that cater for any budget and timeframe. With creative digital thinking there's always a way!</p>
+								
+								<p>It's never been more important for your brand to engage with your audience via a range of digital channels. At Creativitea, we collaboratively with our clients to deliver digital design solutions that deliver great results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to developing campaigns on social media, mobile and digital marketing.</p>
+								
+								<h4>Digital Design Solutions</h4>
+								<p>Our award-winning digital team pride themselves on being able to design clients beautiful design solutions with technical knowhow to backup our thought and strategy. Discover more about our digital services below;</p>
 								<p>
 									<ul>
-										<li>Website Design and Website Development</li>
-										<li>User Experience Development</li>
-										<li>HTML Email Campaigns</li>
-										<li>App Design</li>
-										<li>Digital Marketing</li>
+										<li class="list-indent">
+											<h5><a href="web-design" title="Website Design and Digital Design">
+												Digital & Website Design
+											</a></h5>
+											<p>Designing user experiences for websites, apps and digital products</p>
+											
+										</li>
+										<!--<li class="list-indent">
+											<h5><a href="digital-marketing" title="Digital Marketing">Digital Marketing</a></h5>
+											<p>Helping you drive traffic, drive sales and convert your users into leads</p>
+										</li>-->
+										<li class="list-indent">
+											<h5><a href="support" title="Digital Marketing">Service & Support</a></h5>
+											<p>Giving you the help you need for your digital solutions to run smoothly</p>
+										</li>
 									</ul>
 								</p>
+
+								
 							</article>
-							
-							<article>
-								<p>At Creativitea, we collaboratively with our clients to deliver digital design solutions that deliver great results. We take time to understand your business aspirations and the culture surrounding your brand in order to partner with you at any point in your digital journey. From a designing a website to integrated campaigns on social media, mobile and advertising. 
-									
-								</p>
-							</article>
-							<!--<article>
-								 
-									<div class="col-sm-8">
-				
-										<h5 class="progress-title font-inc">Your Digital Communications</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="100" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">Responsive Website Design </h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="80" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">SEO and Online PR</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-										
-										<h5 class="progress-title font-inc">Social Marketing</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">Digital Marketing</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-										
-										<h5 class="progress-title font-inc">Content Planning</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-									</div>
-									 
-							</article>-->
+						
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-2">
-							<article>
-								<p>It's never been more important to engage with your audience via your digital channels. Get in touch if you have something you want to have a chat about regarding your digital world.</p>
-							</article>
-							<a href="portfolio" class="btn btn-g btn-round">View work</a> <a href="contact" class="btn btn-d btn-round">Contact Us</a>
+						<p>We help clients plan, implement and evolve their websites and other digital products so they deliver results. If you have a project you'd like to have a chat about please contact us.</p>
+							<a href="contact" class="btn btn-d btn-round">Contact Us</a> <a href="portfolio" class="btn btn-g btn-round">View work</a>
 					</div>
 							
 						<!-- /POST -->
@@ -187,7 +146,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
 							<div class="work-descr ">
-								UX & Website Design
+								UX & Digital Design
 							</div>
 						</div>
 					</a>
@@ -217,7 +176,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">Don't Just Sit There, Sell Something</h3>
 							<div class="work-descr ">
-								Retro Website Design
+								Small Business Website Design
 							</div>
 						</div>
 					</a>
