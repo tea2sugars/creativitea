@@ -74,51 +74,57 @@
 
                         <article>
 
-                            <h3>We're Digital Design Agency that create simple solutions that work and deliver results.</h3>
-                            <p>Eminem said in his hit single, Lose yourself – <q>Look, if you had, one shot, or one opportunity to seize everything you ever wanted. In one moment – Would you capture it, or just let it slip?</q> Now it's not very often we get to quote a rapper but the above quote seems to sum up exactly how important Experience Design is to your digital project. You have on average 10 seconds to capture the attention of your visitors and pull them in otherwise they're gone and may never come back.</p>
+                            <h3>We're Digital Design Agency that create simple solutions to complicated problems.</h3>
+                            <p>Eminem said in his hit single, Lose yourself – <q>Look, if you had, one shot, or one opportunity to seize everything you ever wanted. In one moment – Would you capture it, or just let it slip?</q> Now it's not very often we get to quote a rapper but the above quote seems to sum up exactly how important Experience Design is to your digital project. </p>
 
-                            <p>Our team at Creativitea are passionate about helping clients grab attention and then convert users into leads or active users of your digital service. We're blessed with over 10 years experience doing just that for some of the biggest brands in the world.</p>
-                            <p id="web-services">Discover more about our digital design services below.</p>
+                            <p>You have on average <u>10 seconds to capture the attention of your visitors</u> and pull them in otherwise they're gone and may never come back. Our team at Creativitea are passionate about helping clients grab attention and then convert users into leads or active users of your digital service. We're blessed with over 10 years experience doing just that for some of the biggest brands in the world.</p>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="module-small dark-section" id="web-services">
+	        <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <article>
+                           <h4 class="text-center">Digital &amp; Web Design Agency Services</h4>
                             <p>
                                 <ul class="grid-list">
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
 
                                             <h5><span class="initial" title="User Experience">UX</span> Design</h5>
                                             <p>Working with your team, our designers identify your business goals and objectives to help develop an insight to what you need to do to convert your users. Outlining these key objectives enables us to design and develop key activities surrounding your website design. Activities include customer journey mapping, stakeholder interviews, workshops, customer profiling, content strategy and <span class="initial" title="Key Performance Indicators">KPI</span> measurements / benchmarking.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>User Research &amp; Content Analysis</h5>
                                             <p>There is no magic formula to creating great users experiences and digital products. In our experience the most successful digital projects start with an investment into researching user patterns, analysing content and planning your Information Architecture (IA). Activities include competitor benchmarking, user focus groups or user surveys, heat-mapping and eye-tracking and mobile-device testing.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>User Interface Design (UI)</h5>
                                             <p>During the design process our digital team integrate our <span class="initial" title="User Experince">UX</span> and <span class="initial" title="Information Architecture">IA</span> development into beautiful User Interfaces (UI) to create memorable digital solutions that reflect your organisations brand and to encourages returning users. We work in an iterative process with a range of tools to design and explain our thought processes throughout the design phase. Activities may include; paper and rapid design using live online tools for instant previews and prototyping, responsive design, digital design, digital style guidelines and content design.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5><span class="initial" title="User Interfaces">UI</span> & Web Development</h5>
                                             <p>Our Digital team are passionate about exploring the latest tools and techniques to develop standards-compliant user interfaces and website. We use a range HTML, CSS and JavaScript at the core of our projects but enhance the power of other tech like AJAX, PHP and HTML5. We have a range of experiences with frameworks such as Bootstrap and Foundation which we often use to develop rich user experiences for our clients in a timely manner. Activities may include; responsive website design, mobile applications, interactive prototypes, accessibility &amp; standards and interactive animated content.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
-                                            <h5>Digital Technology</h5>
-                                            <p>A website or digital product should also work for our clients. We work with a range of Content Management Systems (CMS) and web-services to make our client's lives easier and save them money and resources. Our <span class="initial" title="Content Management System">CMS</span> of choice Drupal but we also enjoy using using Perch for smaller projects. We also use technology to enhance the project experience for our clients adopting ticket-based support and issue tracking to keep everyone accountable.</p>
-                                        </div>
-                                    </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
-                                        <div class="grid-list-content">
-                                            <h5>Testing &amp; Enhancing</h5>
+                                            <h5>Digital Technology, Testing &amp; Enhancing</h5>
+                                            <p>A website or digital product should also work for our clients. We work with a range of Content Management Systems (CMS) and web-services to make our client's lives easier and save them money and resources. Our <span class="initial" title="Content Management System">CMS</span> of choice Drupal but we also enjoy using using Perch for smaller projects.</p>
                                             <p>With the increasing amount of devices and internet access points available nowadays, it's important to test digital design solutions on a range of devices. These include mobile-responsiveness, optimisation, page-speed analysis and even proofreading for quality assurance.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Renovation, optimisation and redesigning</h5>
                                             <p>Sometimes things just don't work or the world moves on and suddenly you're out of date. We help analyse the current situation, past performances and objectives. This gives us valuable insight to help renovate your offering based around a more focussed programme of quick-win solutions and iterative improvements to keep you working.</p>
@@ -127,18 +133,24 @@
 
                                 </ul>
                             </p>
+                            <div class="text-center"> <a href="portfolio" class="btn btn-lg btn-y btn-round">View our Digital Design work</a></div>
                         </article>
-
                     </div>
                 </div>
+	        </div>
+        </section>
+
+        <section class="module-small">
+
+            <div class="container">            
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
                         <article>
                             <p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking.</p>
                             
-                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help.</p>
+                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help you with your project.</p>
                         </article>
-                        <a href="contact" class="btn btn-d btn-round">Contact Us</a> <a href="portfolio" class="btn btn-g btn-round">View work</a>
+                        <a href="contact" class="btn btn-d btn-round">Contact Us</a>
                             <!-- DIVIDER -->
     <hr class="divider-w m-t-20">
     <!-- /DIVIDER -->
