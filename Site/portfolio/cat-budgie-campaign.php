@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Freeview Media Campaign Support<br/><span class="small"><q>Entertainment is even better when it’s free</q>
+						<h1 class="module-title align-center">Freeview Media Campaign Support<br/><span class="small"><q>Entertainment is even better<br/>when it’s free</q>
 					</div>
 
 				</div>
