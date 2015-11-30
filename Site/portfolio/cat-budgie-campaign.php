@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/Freeview_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/Freeview_general_headerB.jpg">
 
 			<div class="container">
 
@@ -48,7 +48,7 @@
 				<div class="row">
 					<<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/Freeview_portfolio_01.jpg" alt="Freeview Campaign"></p>
+						<p><img src="../assets/images/projects/Freeview_portfolio_01B.jpg" alt="Freeview Campaign"></p>
 					</div>
 				</div>
 
@@ -117,12 +117,13 @@
 
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
-						<p><img src="../assets/images/projects/Freeview_portfolio_02.jpg" alt="Freeview Cat & Budgie Campaign Artworking"></p>
-						<p><img src="../assets/images/projects/Freeview_portfolio_03.jpg" alt="Freeview Cat & Budgie Outdoor Advertising Campaign"></p>
-						<p><img src="../assets/images/projects/Freeview_portfolio_04.jpg" alt="Freeview Cat & Budgie Press Campaign"></p>
-						<p><img src="../assets/images/projects/Freeview_portfolio_05.jpg" alt="Freeview Press Campaign"></p>
-						<p><img src="../assets/images/projects/Freeview_portfolio_06.jpg" alt="Freeview Press Campaign"></p>
-						<p><img src="../assets/images/projects/Freeview_portfolio_07.jpg" alt="Freeview Press Campaign"></p>
+						
+						<p><img src="../assets/images/projects/Freeview_portfolio_04B.jpg" alt="Freeview Cat & Budgie Press Campaign"></p>
+						<p><img src="../assets/images/projects/Freeview_portfolio_05B.jpg" alt="Freeview Press Campaign"></p>
+						<p><img src="../assets/images/projects/Freeview_portfolio_06B.jpg" alt="Freeview Press Campaign"></p>
+						<p><img src="../assets/images/projects/Freeview_portfolio_07B.jpg" alt="Freeview Press Campaign"></p>
+						<p><img src="../assets/images/projects/Freeview_portfolio_02B.jpg" alt="Freeview Cat & Budgie Campaign Artworking"></p>
+						<p><img src="../assets/images/projects/Freeview_portfolio_03B.jpg" alt="Freeview Cat & Budgie Outdoor Advertising Campaign"></p>
 						
 						
 						
