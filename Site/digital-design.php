@@ -39,7 +39,7 @@
 
 						<div class="module-subtitle align-center">
 							<p class="lead">Delivering your brand message and your product marketing instantly anywhere in the world.</p>
-							<a class="btn btn-lg btn-y btn-round" href="contact">Get in touch to discuss your project</a>
+							<a class="btn btn-lg btn-y btn-round" href="#digital-services"><i class="fa fa-arrow-down"></i> Learn more</a>
 
 						</div>
 					</div>
@@ -60,7 +60,7 @@
 					<div class="col-sm-8 col-sm-offset-2">
 						
 
-							<article>
+							<article id="digital-services">
 
 								<h3>We're a creative digital design agency founded on creative thinking, technical knowhow and a thirst for customer satisfaction.</h3>
 								<p>Over the years Creativitea has developed a team of trusted, experienced digital designers, strategists and developers that can adapt existing services, innovate and develop digital projects that cater for any budget and timeframe. With creative digital thinking there's always a way!</p>
