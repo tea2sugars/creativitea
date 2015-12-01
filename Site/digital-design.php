@@ -52,7 +52,7 @@
 		</section >
 		<!-- /HOME -->
 
-		<section class="module">
+		<section class="module" id="digital-services">
 
 			<div class="container">
 				
@@ -60,7 +60,7 @@
 					<div class="col-sm-8 col-sm-offset-2">
 						
 
-							<article id="digital-services">
+							<article>
 
 								<h3>We're a creative digital design agency founded on creative thinking, technical knowhow and a thirst for customer satisfaction.</h3>
 								<p>Over the years Creativitea has developed a team of trusted, experienced digital designers, strategists and developers that can adapt existing services, innovate and develop digital projects that cater for any budget and timeframe. With creative digital thinking there's always a way!</p>

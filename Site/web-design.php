@@ -77,7 +77,7 @@
                             <h3>We're Digital Design Agency that create simple solutions to complicated problems.</h3>
                             <p>Eminem said in his hit single, Lose yourself – <q>Look, if you had, one shot, or one opportunity to seize everything you ever wanted. In one moment – Would you capture it, or just let it slip?</q> Now it's not very often we get to quote a rapper but the above quote seems to sum up exactly how important Experience Design is to your digital project. </p>
 
-                            <p>You have on average <u>10 seconds to capture the attention of your visitors</u> and pull them in otherwise they're gone and may never come back. Our team at Creativitea are passionate about helping clients grab attention and then convert users into leads or active users of your digital service. We're blessed with over 10 years experience doing just that for some of the biggest brands in the world.</p>
+                            <p>You have on average <strong>10 seconds to capture the attention of your visitors</strong> and pull them in otherwise they're gone and may never come back. Our team at Creativitea are passionate about helping clients grab attention and then convert users into leads or active users of your digital service. We're blessed with over 10 years experience doing just that for some of the biggest brands in the world.</p>
                             <p>Read on to find out about our services and how we can help your organisation.</p>
                         </article>
                     </div>
@@ -120,7 +120,7 @@
                                     <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Digital Technology, Testing &amp; Enhancing</h5>
-                                            <p>A website or digital product should also work for our clients. We work with a range of Content Management Systems (CMS) and web-services to make our client's lives easier and save them money and resources. Our <span class="initial" title="Content Management System">CMS</span> of choice Drupal but we also enjoy using using Perch for smaller projects.</p>
+                                            <p>A website or digital product should also work for our clients. We work with a range of Content Management Systems (CMS) and web-services to make our client's lives easier and save them money and resources. Our <span class="initial" title="Content Management System">CMS</span> of choice Drupal but we also enjoy using Perch for smaller projects.</p>
                                             <p>With the increasing amount of devices and internet access points available nowadays, it's important to test digital design solutions on a range of devices. These include mobile-responsiveness, optimisation, page-speed analysis and even proofreading for quality assurance.</p>
                                         </div>
                                     </li>
