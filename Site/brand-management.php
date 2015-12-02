@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A London, Surrey & Suffolk based Website Design Agency working on Responsive Website Design, App Design, UX Design, Drupal Development">
+    <meta name="description" content="A Brand Strategy and Brand Design Agency based in London, Surrey and Suffolk">
     <meta name="author" content="">
 
     <title>Brand Management and Brand Design Agency | London and Surrey Brand Agency | Creativitea</title>
