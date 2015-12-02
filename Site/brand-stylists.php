@@ -7,7 +7,7 @@
     <meta name="description" content="A London, Surrey & Suffolk based Website Design Agency working on Responsive Website Design, App Design, UX Design, Drupal Development">
     <meta name="author" content="">
 
-    <title>Web Design | Website Design & Digital Design Agency | Creativitea</title>
+    <title>Brand Design and Logo Design Agency | Brand Stylists| London based brand agency, Creativitea</title>
 
     <?php include( 'assets/php/includes/head-css.html');?>
 

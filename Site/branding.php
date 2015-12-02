@@ -6,7 +6,7 @@
 	<meta name="description" content="A London, Surrey & Suffolk based Digital Design Agency working on Website Design, Social Media, Digital Marketing and SEO">
 	<meta name="author" content="">
 	
-	<title>Brand Design | London Brand Design Agency | Creativitea</title>
+	<title>Brand Design and Brand Stylist Agency | London Brand Design Agency | Creativitea</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 
