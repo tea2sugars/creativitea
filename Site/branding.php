@@ -72,7 +72,7 @@
 								<p>
 									<ul>
 										<li class="list-indent">
-											<h5><a href="brand-styists" title="Brand Stylists">
+											<h5><a href="brand-stylists" title="Brand Stylists">
 												Brand Stylists
 											</a></h5>
 											<p>Working with your business to design your logo, colour palette, tone of voice and visual identity.</p>
