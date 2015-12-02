@@ -73,7 +73,7 @@
 								<p>Services we can help with</p>
 								<ul>
 									<li>
-										<h5><a href="branding">Branding</a></h5>
+										<h5><a href="branding">Branding <i class="fa fa-level-down"></i></a></h5>
 										<p>The who, what and why of your business.</p>
 										<ul>
 											<li>
