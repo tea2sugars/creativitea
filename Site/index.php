@@ -5,11 +5,10 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Creativitea - A Creative Design Agency - Specialising in brand design, print design & web design | Based in London and Guildford. Our disruptive way of thinking challenges brands to realise their full potential." name="description">
+    <meta content="Award-winning Brand and Website Design Agency based in London, Surrey & Suffolk. Providing clients with great value creative solutions in Web Design & Brand" name="description">
     <meta content="Creativitea" name="author">
 
-    <title>A Web, Brand and Print Design Agency, Creativitea | London and Guildford
-    </title>
+    <title>Creativitea: A Web Design, Brand & Print Design Agency. Based in London, Surrey & Suffolk</title>
     <?php include('assets/php/includes/head-css.html');?>
         <!-- Facebook Conversion Code for Key Page Views – Rik Barwick 1 -->
 
