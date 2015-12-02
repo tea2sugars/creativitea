@@ -74,7 +74,7 @@
 
                         <article>
 
-                            <h3>We're Digital Design Agency that create simple solutions to complicated problems.</h3>
+                            <h3>We're a Digital Design Agency that creates simple solutions to complicated problems.</h3>
                             <p>Eminem said in his hit single, Lose yourself – <q>Look, if you had, one shot, or one opportunity to seize everything you ever wanted. In one moment – Would you capture it, or just let it slip?</q> Now it's not very often we get to quote a rapper but the above quote seems to sum up exactly how important Experience Design is to your digital project. </p>
 
                             <p>You have on average <strong>10 seconds to capture the attention of your visitors</strong> and pull them in otherwise they're gone and may never come back. Our team at Creativitea are passionate about helping clients grab attention and then convert users into leads or active users of your digital service. We're blessed with over 10 years experience doing just that for some of the biggest brands in the world.</p>

@@ -3,12 +3,12 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="London, Surrey and Suffolk based Brand Design Agency, Lloyd Bedford and Rik Barwick’s creative studio Creativitea has a wide range of experience branding for the telecoms, retail and tech startup sectors.">
+	<meta name="description" content="A London, Surrey & Suffolk based Digital Design Agency working on Website Design, Social Media, Digital Marketing and SEO">
 	<meta name="author" content="">
 	
-	<title>Brand Design | Creativitea - A London Brand Agency | Surrey & Suffolk</title>
+	<title>Brand Design | London Brand Design Agency | Creativitea</title>
 	
-	<?php include('assets/php/includes/head-css.html');?>
+		<?php include('assets/php/includes/head-css.html');?>
 
 	
 	<!--Share widget-->
@@ -26,7 +26,7 @@
 	<div class="wrapper">
 
 		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/brand_general_header.jpg">
+		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/digital_header.jpg">
 
 			<div class="container">
 
@@ -39,7 +39,7 @@
 
 						<div class="module-subtitle align-center">
 							<p class="lead">The who, what and why of your business</p>
-							<a class="btn btn-lg btn-y btn-round" href="contact">Contact Us</a>
+							<a class="btn btn-lg btn-y btn-round" href="#digital-services"><i class="fa fa-arrow-down"></i> Learn more</a>
 
 						</div>
 					</div>
@@ -52,8 +52,7 @@
 		</section >
 		<!-- /HOME -->
 
-		<!-- BLOG GRID -->
-		<section class="module">
+		<section class="module" id="digital-services">
 
 			<div class="container">
 				
@@ -63,71 +62,52 @@
 
 							<article>
 
-								<p class="lead">Brand is not simply a logo or collection of graphics in a pictorial form making a pretty picture. Brand is a reputation, an experience, its what differentiates an organisation from it’s competitors, and is always communicating the unique values it provides. It tells people, both inside the organisation and out, what you are and what you stand for.</p>
+								<h3>As a brand design agency, we understand the importance of brand and the impact it can have on a business growth.</h3>
+								<p>Our brand design helps companies develop an identity that is a complete representation of their unique brand values, personality and aspirations. This enables them to create a clearly defined position and a consistent face to connect with their customers, helping them to grow their business.</p>
 
-<p>Your business has a personality, and nurturing it can help you stand out from the crowd. This personality is a vital component to building trust, ensuring your future success. With so many distractions going on in people’s lives, a consistent face to your company creates an oasis of calm, an anchor of recognition and stability.</p>
+<p>We believe we can help organisations in any sector and of all sizes, through effective thoughtful design. Starting the process with the company’s core values and laying the foundations, to create a brand design that can make your business look striking and memorable. Through research and exploration we develop brand identities made up of a suite of versatile visual and verbal assets, which we can roll out and implement across all brand communications.</p>
+								
+								<h4>Brand Design Solutions</h4>
+								<p>Our award-winning brand team pride themselves on being able to develop clients brands through creative thought, strategy and execution. Discover more about our digital services below;</p>
+								<p>
+									<ul>
+										<li class="list-indent">
+											<h5><a href="brand-styists" title="Brand Stylists">
+												Brand Stylists
+											</a></h5>
+											<p>Working with your business to design your logo, colour palette, tone of voice and visual identity.</p>
+											
+										</li>
+										<!--<li class="list-indent">
+											<h5><a href="digital-marketing" title="Digital Marketing">Digital Marketing</a></h5>
+											<p>Helping you drive traffic, drive sales and convert your users into leads</p>
+										</li>-->
+										<li class="list-indent">
+											<h5><a href="brand-management" title="Brand Management">Brand Management</a></h5>
+											<p>Ensuring your business communications stay on-brand.</p>
+										</li>
+									</ul>
+								</p>
+
+								
 							</article>
-							<article>
-								<p>We believe we can help organisations in any sector, through effective thoughtful design, to create a brand identity that can make your business look striking and memorable, and is a brand that people buy into. Getting to really understand the business we work with enables us to tailor-make all aspects of a brand and identity, from logo design, to tone of voice and brand guidelines, making sure that whoever gets to work on your precious brand, anywhere in the world, has the rules to follow and maintain the absolute quality your company will be known for.</p>
-								<p>Whether it’s a new brand or an existing one in need of a refresh, we work with individuals and businesses of all sizes to create branding solutions that tell a story across all channels.</p>
-							</article>
-							<article>
-								<!-- 
-									<div class="col-sm-8">
-				
-										<h5 class="progress-title font-inc">Your Digital Communications</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="100" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">Responsive Website Design </h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="80" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">SEO and Online PR</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-										
-										<h5 class="progress-title font-inc">Social Marketing</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-										<h5 class="progress-title font-inc">Digital Marketing</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-										
-										<h5 class="progress-title font-inc">Content Planning</h5>
-										<div class="progress">
-											<div class="progress-bar pb-dark" aria-valuenow="40" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-												<span class="font-inc"></span>
-											</div>
-										</div>
-				
-									</div>
-									 -->
-							</article>
+						
 					</div>
 				</div>
-				
+				<div class="row">
+					<div class="col-sm-8 col-sm-offset-2">
+						<p>Whether it’s a new brand design, identity or an existing one in need of a refresh, we have the experience and expertise to help develop a striking brand identity that people want buy into and be part of.</p>
+							<a href="contact" class="btn btn-d btn-round">Contact Us</a> <a href="portfolio" class="btn btn-g btn-round">View work</a>
+					</div>
+							
+						<!-- /POST -->
+
+					</div>
 				</div>
 			</div>
 		</section>
 		
-						<!-- DIVIDER -->
+				<!-- DIVIDER -->
 		<hr class="divider-w">
 		<!-- /DIVIDER -->
 		
@@ -135,11 +115,11 @@
 		<section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
 			<div class="container-fluid">
 				<div class="row">
-					<h2 class="align-center">Some of our recent Branding Projects</h2>
+					<h2 class="align-center">Some of our Brand Design Projects</h2>
 				</div>
 				<div class="row">
 					<!-- PORTFOLIO LIST -->
-			<ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
+			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print branding digital">
@@ -156,40 +136,55 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
+
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="./portfolio/buyapowa_saas">
+						<div class="work-image">
+							<img src="assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
+							<div class="work-descr ">
+								UX & Digital Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="./portfolio/5mm">
+						<div class="work-image">
+							<img src="assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">5mm.co</h3>
+							<div class="work-descr ">
+								Website Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="./portfolio/djst">
+						<div class="work-image">
+							<img src="assets/images/projects/djst_portfolio_thumbnail.jpg" alt="Don't Just Sit There, Sell Something Retro website Design"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Don't Just Sit There, Sell Something</h3>
+							<div class="work-descr ">
+								Small Business Website Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 				
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item print branding">
-					<a href="./portfolio/gentspack">
-						<div class="work-image">
-							<img src="assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Gents Pack</h3>
-							<div class="work-descr ">
-								Brand design and Packaging
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
-
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding">
-					<a href="./portfolio/river">
-						<div class="work-image">
-							<img src="assets/images/projects/River_thumbnail.jpg" alt="River Brand & Visual Identity"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">River</h3>
-							<div class="work-descr ">
-								Brand & Visual Identity
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
-
-			</ul>
+				
+							</ul>
 			<!-- /PORTFOLIO LIST -->
 				</div>
 			</div>
