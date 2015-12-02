@@ -75,6 +75,16 @@
 									<li>
 										<h5><a href="branding">Branding</a></h5>
 										<p>The who, what and why of your business.</p>
+										<ul>
+											<li>
+												<h5><a href="brand-stylists">Brand Design and Brand Stylists</a></h5>
+												<p>Brand Design, Visual Identities, Guidelines and Tone of Voice.</p>
+											</li>
+											<li>
+												<h5><a href="brand-management">Brand Management</a></h5>
+												<p>Helping brands stay on track through brand workshops and strategy.</p>
+											</li>
+										</ul>
 									</li>
 									<li>
 										<h5><a href="digital-design">Digital &amp; Web Design Services <i class="fa fa-level-down"></i></a></h5>
