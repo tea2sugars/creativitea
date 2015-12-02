@@ -7,6 +7,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Award-winning Brand and Website Design Agency based in London, Surrey & Suffolk. Providing clients with great value creative solutions in Web Design & Brand" name="description">
     <meta content="Creativitea" name="author">
+    <meta name="keywords" content="creativitea, design agency, digital design, brand agency, digital marketing, print design, website design, drupal development, UX design, strategic digital agency, brand design agency, creative agency">
 
     <title>Creativitea: A Web Design, Brand & Print Design Agency. Based in London, Surrey & Suffolk</title>
     <?php include('assets/php/includes/head-css.html');?>
