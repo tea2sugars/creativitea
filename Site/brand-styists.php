@@ -135,9 +135,7 @@
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
                         <article>
-                            <p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking.</p>
-                            
-                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help you with your project.</p>
+                            <p>Whether it’s a new brand design, identity or an existing one in need of a refresh, we have the experience and expertise to help develop a striking brand identity that people want buy into and be part of.</p>
                         </article>
                         <a href="contact" class="btn btn-d btn-round">Contact Us</a>
                             <!-- DIVIDER -->
