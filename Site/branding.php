@@ -26,7 +26,7 @@
 	<div class="wrapper">
 
 		<!-- HOME -->
-		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/digital_header.jpg">
+		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/brand_general_header.jpg">
 
 			<div class="container">
 
@@ -39,7 +39,7 @@
 
 						<div class="module-subtitle align-center">
 							<p class="lead">The who, what and why of your business</p>
-							<a class="btn btn-lg btn-y btn-round" href="#digital-services"><i class="fa fa-arrow-down"></i> Learn more</a>
+							<a class="btn btn-lg btn-y btn-round" href="#brand-services"><i class="fa fa-arrow-down"></i> Learn more</a>
 
 						</div>
 					</div>
@@ -52,7 +52,7 @@
 		</section >
 		<!-- /HOME -->
 
-		<section class="module" id="digital-services">
+		<section class="module" id="brand-services">
 
 			<div class="container">
 				
@@ -68,7 +68,7 @@
 <p>We believe we can help organisations in any sector and of all sizes, through effective thoughtful design. Starting the process with the company’s core values and laying the foundations, to create a brand design that can make your business look striking and memorable. Through research and exploration we develop brand identities made up of a suite of versatile visual and verbal assets, which we can roll out and implement across all brand communications.</p>
 								
 								<h4>Brand Design Solutions</h4>
-								<p>Our award-winning brand team pride themselves on being able to develop clients brands through creative thought, strategy and execution. Discover more about our digital services below;</p>
+								<p>Our award-winning brand team pride themselves on being able to develop clients brands through creative thought, strategy and design execution. Discover more about our digital services below;</p>
 								<p>
 									<ul>
 										<li class="list-indent">
@@ -136,47 +136,33 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item print branding">
+					<a href="./portfolio/gentspack">
+						<div class="work-image">
+							<img src="assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Gents Pack</h3>
+							<div class="work-descr ">
+								Brand design and Packaging
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital">
-					<a href="./portfolio/buyapowa_saas">
+				<li class="work-item branding">
+					<a href="./portfolio/river">
 						<div class="work-image">
-							<img src="assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
+							<img src="assets/images/projects/River_thumbnail.jpg" alt="River Brand & Visual Identity"/>
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
+							<h3 class="work-title ">River</h3>
 							<div class="work-descr ">
-								UX & Digital Design
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital">
-					<a href="./portfolio/5mm">
-						<div class="work-image">
-							<img src="assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">5mm.co</h3>
-							<div class="work-descr ">
-								Website Design
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital">
-					<a href="./portfolio/djst">
-						<div class="work-image">
-							<img src="assets/images/projects/djst_portfolio_thumbnail.jpg" alt="Don't Just Sit There, Sell Something Retro website Design"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Don't Just Sit There, Sell Something</h3>
-							<div class="work-descr ">
-								Small Business Website Design
+								Brand & Visual Identity
 							</div>
 						</div>
 					</a>
