@@ -46,12 +46,11 @@
 
                     <div class="col-sm-6 col-sm-offset-3">
 
-                        <h1 class="module-title align-center">Brand Stylists</h1>
+                        <h1 class="module-title align-center">Brand Management</h1>
 
                         <div class="module-subtitle align-center">
-                            <p class="lead">Your brand, your message, your product.
-                                <br/>Their device, now.</p>
-                            <a class="btn btn-lg btn-y btn-round" href="#brand-design-services"><i class="fa fa-arrow-down"></i> Learn more</a>
+                            <p class="lead">Keeping your business and your team on track &amp; on track.</p>
+                            <a class="btn btn-lg btn-y btn-round" href="#brand-management-services"><i class="fa fa-arrow-down"></i> Learn more</a>
 
                         </div>
                     </div>
@@ -74,10 +73,10 @@
 
                         <article>
 
-                            <h3>How a brand looks is imperative for getting the attention of its targeted customers, engaging them to do business and helping your business grow.</h3>
-                            <p>Brand styling is the art of using type, colour and the visual aids of photography, illustrations, pattern or texture to communicate a considered and defined message.</p>
+                            <h3>Every business has a personality, and nurturing it can help you stand out from the crowd.</h3>
+                            <p>This personality is a vital component to building trust, ensuring your future success. With so many distractions going on in people’s lives, a consistent face to your company creates an oasis of calm, an anchor of recognition and stability.</p>
 
-<p>We have the expertise to pull together typefaces with the right character and tone; colours that resonate and communicate your brand values; a tone of voice that talks directly to the customer; and visual aids that add depth and flair, bringing both personality and style.</p>
+<p>We tailor-make all aspects of a brand design and identity, from logo design, to tone of voice and brand guidelines, making sure that whoever gets to work on your precious brand, anywhere in the world, has the rules to follow and maintain the absolute quality your company will be known for. </p>
                             
                             <p>Read on to find out about our services and how we can help your organisation.</p>
                         </article>
@@ -85,44 +84,36 @@
                 </div>
             </div>
         </section>
-        <section class="module-small dark-section" id="brand-design-services">
+        <section class="module-small dark-section" id="brand-management-services">
 	        <div class="container-fluid">
                 <div class="row">
                     <div class="col-sm-12">
                         <article>
-                           <h4 class="text-center">Brand Design Agency Services</h4>
+                           <h4 class="text-center">Brand Management Services</h4>
                             <p>
                                 <ul class="grid-list">
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
 
-                                            <h5>Logo Design</h5>
-                                            <p>Working to s simple process we will design a logos that works across all environments and aspects of your brand, weather it features small on business cards, on your office wall or on your website, it will always retain its brand identity and set the foundations for your business.</p>
+                                            <h5>Brand Guidelines</h5>
+                                            <p>We will devise and build your brand design and identity a set of guidelines, that will lay the foundations for consistency and build a stronger recognition. Enabling you to make sure that everyone in your organisation or associated with it knows how to use your brands identity in the right way intended.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
-                                            <h5>Visual Identity Design</h5>
-                                            <p>We will work with you to identify what makes you tick and what you’re all about, and then design you a brand identity and visual architecture that will create a representation of your unique brand values, personality and aspirations, whilst also creating a brand identity that staff and consumers will be proud to be associated with.</p>
+                                            <h5>Asset Management</h5>
+                                            <p>We will make sure that you have right tools, logo files, brand guidelines, internal presentations, branded stationery and branded templates, to provide you with internal branding and design solutions to create a workforce that is engaged and stimulated to say all the right things to the customer.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
-                                            <h5>Stationery Design</h5>
-                                            <p>We consider stationery to be the essential artillery for businesses, a reflection of the businesses quality and corporate brand identity. Often the first ice breaker between business and their customer, its incredibly important that it says the right things and makes the right impression. We will design you stationery that is a reflection of the your brand values and messaging, making sure that the impression you make is the right one.</p>
+                                            <h5>Brand Strategy</h5>
+                                            <p>We help businesses of all types develop their brand strategy, gaining better and clearer understanding of what they do, where they come from and where they want to be. We find out what makes you tick, what makes you unique and learn about your industry, your customers and competitors. Positioning your brand at the heart of this to develop a strong brand identity thats aligns with its strategy.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
-                                        <div class="grid-list-content">
-                                            <h5>Tone of Voice and Copywriting</h5>
-                                            <p>Being able to speak to your customer base in the right tone of voice, is imperative. It’s a skill, a discipline, and an art, that we take seriously. So whether its an advert, brochure, direct mail or website copy you need, where make sure that the tone of voice suits your brand, and tells the right story.</p>
-                                        </div>
-                                    </li>
-                                    
-
                                 </ul>
                             </p>
-                            <div class="text-center"> <a href="portfolio" class="btn btn-lg btn-y btn-round">View our Brand Design work</a></div>
+                            <div class="text-center"> <a href="portfolio" class="btn btn-lg btn-y btn-round">View our Brand work</a></div>
                         </article>
                     </div>
                 </div>
@@ -147,13 +138,12 @@
 	                        <p>Other Branding services you may also be interested in;</p>
                             <p>
 	                            	<ul>
-	                            		<!--<li class="list-indent">
-											<h5><a href="digital-marketing" title="Digital Marketing">Digital Marketing</a></h5>
-											<p>Helping you drive traffic, drive sales and convert your users into leads</p>
-										</li>-->
 										<li class="list-indent">
-											<h5><a href="brand-management" title="Brand Management">Brand Management</a></h5>
-											<p>Ensuring your business communications stay on-brand.</p>
+											<h5><a href="brand-styists" title="Brand Stylists">
+												Brand Stylists
+											</a></h5>
+											<p>Working with your business to design your logo, colour palette, tone of voice and visual identity.</p>
+											
 										</li>
 									</ul>
                             </p>
