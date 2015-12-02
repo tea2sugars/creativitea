@@ -180,7 +180,7 @@
             </div>
             <div class="row">
                 <!-- PORTFOLIO LIST -->
-                <ul id="works-grid" class="works-grid works-grid-3 works-hover-w">
+                <ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 
                 <!-- PORTFOLIO ITEM -->
 				<li class="work-item branding print branding digital">
@@ -229,6 +229,20 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
+				
+				<li class="work-item branding print disrupt digital">
+					<a href="./powwownow">
+						<div class="work-image">
+							<img src="assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Powwownow Branding</h3>
+							<div class="work-descr ">
+								Disruptive thinking for better brand communication
+							</div>
+						</div>
+					</a>
+				</li>
 
 
                 </ul>
