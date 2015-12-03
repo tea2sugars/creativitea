@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A London, Surrey & Suffolk based Website Design Agency working on Website Design, Apps, Digital Solutions, Social Media, Digital Marketing and SEO">
-    <meta name="author" content="">
+    <meta name="description" content="Creativitea: A digital design agency that delivers holistic digital marketing campaigns centered around your data and your users.">
+    <meta name="author" content="Creativitea">
 
-    <title>Web Design | Website Design Agency | Creativitea</title>
+    <title>Digital Marketing Agency | Digital Marketing Strategy | Creativitea</title>
 
     <?php include( 'assets/php/includes/head-css.html');?>
 
@@ -46,12 +46,11 @@
 
                     <div class="col-sm-6 col-sm-offset-3">
 
-                        <h1 class="module-title align-center">Digital Marketing Agency</h1>
+                        <h1 class="module-title align-center">Digital Marketing & Strategy</h1>
 
                         <div class="module-subtitle align-center">
-                            <p class="lead">Your brand, your message, your product.
-                                <br/>Their device, now.</p>
-                            <a class="btn btn-lg btn-y btn-round" href="#web-services"><i class="fa fa-arrow-down"></i> Learn more</a>
+                            <p class="lead">Helping your digital channels grow and convert</p>
+                            <a class="btn btn-lg btn-y btn-round" href="#digital-marketing-services"><i class="fa fa-arrow-down"></i> Learn more</a>
 
                         </div>
                     </div>
@@ -74,11 +73,11 @@
 
                         <article>
 
-                            <h3>We're Digital Design Agency that create simple solutions that work and deliver results.</h3>
-                            <p>Eminem said in his hit single, Lose yourself – <q>Look, if you had, one shot, or one opportunity to seize everything you ever wanted. In one moment – Would you capture it, or just let it slip?</q> Now it's not very often we get to quote a rapper but the above quote seems to sum up exactly how important Experience Design is to your digital project. You have on average 10 seconds to capture the attention of your visitors and pull them in otherwise they're gone and may never come back.</p>
+                            <h3>We create exciting, innovative digital marketing solutions that deliver successful results for your customers and your business.</h3>
+                            <p>As a brand agency we understand the importance of knowing our client's audiences. By seeing through their eyes we are able to design and build successful campaigns that deliver on key <span class="initial" title="Key Performance Indicators">KPI's</span> for a maximum return on investment.</p>
 
-                            <p>Our team at Creativitea are passionate about helping clients grab attention and then convert users into leads or active users of your digital service. We're blessed with over 10 years experience doing just that for some of the biggest brands in the world.</p>
-                            <p id="web-services">Discover more about our digital design services below.</p>
+                            <p>By getting to know your business and your brand helps us understand who matters to you online, what you want them to do and what they want from you. Using this research and key data analysis we're able to use a combination  intelligent insight, creative thought and our digital expertise to make sure we deliver campaigns that deliver results.</p>
+                            <p id="digital-marketing-services">Discover more about our digital marketing services below.</p>
                             <p>
                                 <ul class="grid-list">
                                     <li class="list-indent col-sm-6 m-b-20 grid-list-item">
@@ -91,7 +90,7 @@
                                     <li class="list-indent col-sm-6 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Email Marketing</h5>
-                                            <p>There is no magic formula to creating great users experiences and digital products. In our experience the most successful digital projects start with an investment into researching user patterns, analysing content and planning your Information Architecture (IA). Activities include competitor benchmarking, user focus groups or user surveys, heat-mapping and eye-tracking and mobile-device testing.</p>
+                                            <p>At Creativitea we have a wealth of experience working with email marketing. We design, manage and report using data analysis so each campaign has maximum potential to hit your customers inboxes and generate traffic and sales.x</p>
                                         </div>
                                     </li>
                                     <li class="list-indent col-sm-6 m-b-20 grid-list-item">
@@ -109,25 +108,25 @@
                                     <li class="list-indent col-sm-6 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Social Media Marketing</h5>
-                                            <p>Our Digital team are passionate about exploring the latest tools and techniques to develop standards-compliant user interfaces and website. We use a range HTML, CSS and JavaScript at the core of our projects but enhance the power of other tech like AJAX, PHP and HTML5. We have a range of experiences with frameworks such as Bootstrap and Foundation which we often use to develop rich user experiences for our clients in a timely manner. Activities may include; responsive website design, mobile applications, interactive prototypes, accessibility &amp; standards and interactive animated content.</p>
+                                            <p>We believe that to use Social Media successfully in any industry you need a combination of sales and lifestyle posts. Making this as genuine as possible requires people within your organisation to do the majority of the work to truly engage with your audiences. We work alongside our clients to help deliver great creative, social marketing and social content strategy to ensure your channels are working for your business.</p>
                                         </div>
                                     </li>
                                     <li class="list-indent col-sm-6 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Content</h5>
-                                            <p>A website or digital product should also work for our clients. We work with a range of Content Management Systems (CMS) and web-services to make our client's lives easier and save them money and resources. Our <span class="initial" title="Content Management System">CMS</span> of choice Drupal but we also enjoy using using Perch for smaller projects. We also use technology to enhance the project experience for our clients adopting ticket-based support and issue tracking to keep everyone accountable.</p>
+                                            <p>Having something to say is one thing; creating engaging, relevant and digestible ways of saying it is another. We place the message at the heart of the piece. Then we put that message to work, following a content strategy designed to get the right message to the right person at the right time, all via the right channel. And then we’ll tell you how well it’s done.</p>
                                         </div>
                                     </li>
                                     <li class="list-indent col-sm-6 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Display Marketing &amp; Banner Design</h5>
-                                            <p>With the increasing amount of devices and internet access points available nowadays, it's important to test digital design solutions on a range of devices. These include mobile-responsiveness, optimisation, page-speed analysis and even proofreading for quality assurance.</p>
+                                            <p>Display is a powerful tool to drive awareness of your brand and digital destination points. Working primarily in the Google Display Network, we can create your adverts, then test and report on the effectiveness of display as a channel for your marketing.</p>
                                         </div>
                                     </li>
                                     <li class="list-indent col-sm-6 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Search Engine Optimisation</h5>
-                                            <p>Sometimes things just don't work or the world moves on and suddenly you're out of date. We help analyse the current situation, past performances and objectives. This gives us valuable insight to help renovate your offering based around a more focussed programme of quick-win solutions and iterative improvements to keep you working.</p>
+                                            <p>Arguably one of the most important tools in a digital marketer’s toolbox, search (paid and organic) is fundamental to the success of any consumer-facing digital piece. Luke our dedicated SEO manager works with you to understand how you want to perform across search engines, where paid search may play a role, how to use online PR and where search sits in terms of your long-term digital objectives. Services include Local Search, PPC</p>
                                         </div>
                                     </li>
 
@@ -140,7 +139,7 @@
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
                         <article>
-                            <p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking.</p>
+                            <p>Digital marketing campaigns aren’t worth the effort if you don’t measure them. We work alongside your team to report back how your campaigns are performing to keep us completely accountable so you can trust us to deliver you the best results.</p>
                             
                             <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help.</p>
                         </article>
@@ -161,7 +160,7 @@
 										</li>
 										
 										<li class="list-indent">
-											<h5><a href="support" title="Digital Marketing">Service & Support</a></h5>
+											<h5><a href="support" title="Digital Support">Service & Support</a></h5>
 											<p>Giving you the help you need for your digital solutions to run smoothly</p>
 										</li>
 									</ul>
