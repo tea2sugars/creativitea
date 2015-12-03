@@ -78,52 +78,62 @@
 
                             <p>By getting to know your business and your brand helps us understand who matters to you online, what you want them to do and what they want from you. Using this research and key data analysis we're able to use a combination  intelligent insight, creative thought and our digital expertise to make sure we deliver campaigns that deliver results.</p>
                             <p id="digital-marketing-services">Discover more about our digital marketing services below.</p>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="module-small dark-section" id="brand-design-services">
+	        <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+	                    <h4 class="text-center">Digital Marketing Agency Services</h4>
                             <p>
                                 <ul class="grid-list">
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
 
                                             <h5>Digital Strategy</h5>
                                             <p>Working with your team, our designers identify your business goals and objectives to help develop an insight to what you need to do to convert your users. Outlining these key objectives enables us to design and develop key activities surrounding your website design. Activities include customer journey mapping, stakeholder interviews, workshops, customer profiling, content strategy and <span class="initial" title="Key Performance Indicators">KPI</span> measurements / benchmarking.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Email Marketing</h5>
                                             <p>At Creativitea we have a wealth of experience working with email marketing. We design, manage and report using data analysis so each campaign has maximum potential to hit your customers inboxes and generate traffic and sales.x</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Analytics</h5>
                                             <p>During the design process our digital team integrate our <span class="initial" title="User Experince">UX</span> and <span class="initial" title="Information Architecture">IA</span> development into beautiful User Interfaces (UI) to create memorable digital solutions that reflect your organisations brand and to encourages returning users. We work in an iterative process with a range of tools to design and explain our thought processes throughout the design phase. Activities may include; paper and rapid design using live online tools for instant previews and prototyping, responsive design, digital design, digital style guidelines and content design.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>User Behaviour Analysis</h5>
                                             <p>During the design process our digital team integrate our <span class="initial" title="User Experince">UX</span> and <span class="initial" title="Information Architecture">IA</span> development into beautiful User Interfaces (UI) to create memorable digital solutions that reflect your organisations brand and to encourages returning users. We work in an iterative process with a range of tools to design and explain our thought processes throughout the design phase. Activities may include; paper and rapid design using live online tools for instant previews and prototyping, responsive design, digital design, digital style guidelines and content design.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Social Media Marketing</h5>
                                             <p>We believe that to use Social Media successfully in any industry you need a combination of sales and lifestyle posts. Making this as genuine as possible requires people within your organisation to do the majority of the work to truly engage with your audiences. We work alongside our clients to help deliver great creative, social marketing and social content strategy to ensure your channels are working for your business.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Content</h5>
                                             <p>Having something to say is one thing; creating engaging, relevant and digestible ways of saying it is another. We place the message at the heart of the piece. Then we put that message to work, following a content strategy designed to get the right message to the right person at the right time, all via the right channel. And then we’ll tell you how well it’s done.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Display Marketing &amp; Banner Design</h5>
                                             <p>Display is a powerful tool to drive awareness of your brand and digital destination points. Working primarily in the Google Display Network, we can create your adverts, then test and report on the effectiveness of display as a channel for your marketing.</p>
                                         </div>
                                     </li>
-                                    <li class="list-indent col-sm-6 m-b-20 grid-list-item">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Search Engine Optimisation</h5>
                                             <p>Arguably one of the most important tools in a digital marketer’s toolbox, search (paid and organic) is fundamental to the success of any consumer-facing digital piece. Luke our dedicated SEO manager works with you to understand how you want to perform across search engines, where paid search may play a role, how to use online PR and where search sits in terms of your long-term digital objectives. Services include Local Search, PPC</p>
@@ -132,23 +142,26 @@
 
                                 </ul>
                             </p>
-                        </article>
+							<div class="text-center"> <a href="portfolio" class="btn btn-lg btn-y btn-round">View our work</a></div>
 
                     </div>
                 </div>
+	        </div>
+        </section>
+       <section class="module-small">
+
+            <div class="container">            
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
                         <article>
-                            <p>Digital marketing campaigns aren’t worth the effort if you don’t measure them. We work alongside your team to report back how your campaigns are performing to keep us completely accountable so you can trust us to deliver you the best results.</p>
-                            
-                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help.</p>
+                            <p>Whether it’s a new brand design, identity or an existing one in need of a refresh, we have the experience and expertise to help develop a striking brand identity that people want buy into and be part of.</p>
                         </article>
-                        <a href="contact" class="btn btn-d btn-round">Contact Us</a> <a href="portfolio" class="btn btn-g btn-round">View work</a>
+                        <a href="contact" class="btn btn-d btn-round">Contact Us</a>
                             <!-- DIVIDER -->
-							<hr class="divider-w m-t-20">
-							<!-- /DIVIDER -->
+    <hr class="divider-w m-t-20">
+    <!-- /DIVIDER -->
                         <article class="m-t-20">
-	                        <p>Other Digital Design services you may also be interested in;</p>
+	                        <p>Other Branding services you may also be interested in;</p>
                             <p>
 	                            	<ul>
 										<li class="list-indent">
@@ -172,7 +185,6 @@
                     <!-- /POST -->
 
                 </div>
-            </div>
     </div>
     </section>
 
