@@ -7,7 +7,7 @@
     <meta name="description" content="Brand Design and Brand Stylists Based in London, Surrey & Suffolk working on Logo Design, Visual Identity.">
     <meta name="author" content="">
 
-    <title>Brand Design and Logo Design Agency | Brand Stylists| London based brand agency, Creativitea</title>
+    <title>Brand Design and Logo Design Agency | Brand Stylists | London based brand agency, Creativitea</title>
 
     <?php include( 'assets/php/includes/head-css.html');?>
 
@@ -97,7 +97,7 @@
                                         <div class="grid-list-content">
 
                                             <h5>Logo Design</h5>
-                                            <p>Working to s simple process we will design a logos that works across all environments and aspects of your brand, weather it features small on business cards, on your office wall or on your website, it will always retain its brand identity and set the foundations for your business.</p>
+                                            <p>Working to a simple process we will design a logo that works across all environments and aspects of your brand, whether it features small on business cards, on your office wall or on your website, it will always retain its brand identity and set the foundations for your business.</p>
                                         </div>
                                     </li>
                                     <li class="list-indent col-sm-6 m-b-20 grid-list-item">
