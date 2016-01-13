@@ -161,7 +161,7 @@
     <hr class="divider-w m-t-20">
     <!-- /DIVIDER -->
                         <article class="m-t-20">
-	                        <p>Other Branding services you may also be interested in;</p>
+	                        <p>Other Digital Design services you may also be interested in;</p>
                             <p>
 	                            	<ul>
 										<li class="list-indent">
