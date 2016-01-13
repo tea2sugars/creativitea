@@ -149,8 +149,9 @@
 
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
-                        <article>
-                            <p>If your digital product or website needs some support or even you'd like to have a chat we'll happily talk to anyone so please contact us.</p>
+                        <p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking.</p>
+                            
+                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help you with your project.</p>
                         </article>
                         <a href="contact" class="btn btn-d btn-round">Contact Us</a>
                             <!-- DIVIDER -->
