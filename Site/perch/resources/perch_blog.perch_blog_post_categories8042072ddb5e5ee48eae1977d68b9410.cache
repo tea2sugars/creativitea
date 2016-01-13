@@ -5,4 +5,8 @@
     <li><a href="archive.php?cat=design">Design</a></li>
 
     <li><a href="archive.php?cat=business">Business</a></li>
+
+    <li><a href="archive.php?cat=general">General</a></li>
+
+    <li><a href="archive.php?cat=studio">Studio</a></li>
 </ul>
