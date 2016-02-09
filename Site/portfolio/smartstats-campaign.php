@@ -118,7 +118,10 @@
 						<div class="col-sm-8 col-sm-offset-4">
 						<p><img src="../assets/images/projects/Smartstats_portfolio_02.jpg" alt="Smartstats Infographic Campaign"></p>
 						<p><img src="../assets/images/projects/Smartstats_portfolio_03.jpg" alt="Smartstats Infographic Campaign"></p>
-						
+						<p><img src="../assets/images/projects/Smartstats_portfolio_04.jpg" alt="Smartstats Infographic Campaign"></p>
+						<p><img src="../assets/images/projects/Smartstats_portfolio_05.jpg" alt="Smartstats Infographic Campaign"></p>
+						<p><img src="../assets/images/projects/Smartstats_portfolio_06.jpg" alt="Smartstats Infographic Campaign"></p>
+						<p><img src="../assets/images/projects/Smartstats_portfolio_07.jpg" alt="Smartstats Infographic Campaign"></p>
 						
 						
 						
