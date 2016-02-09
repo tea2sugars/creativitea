@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_01" alt="Nike Volt Campaign"></p>
+						<p><img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_01.jpg" alt="Nike Volt Campaign"></p>
 					</div>
 				</div>
 
