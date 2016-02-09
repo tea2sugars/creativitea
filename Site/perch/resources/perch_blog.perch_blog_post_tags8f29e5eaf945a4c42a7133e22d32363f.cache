@@ -1,0 +1,8 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=coke-bottle" rel="tag">coke bottle</a></li>
+
+    <li><a href="archive.php?tag=design-icon" rel="tag">design icon</a></li>
+</ul>

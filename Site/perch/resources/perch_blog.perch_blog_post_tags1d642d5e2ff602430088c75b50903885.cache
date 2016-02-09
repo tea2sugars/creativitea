@@ -1,0 +1,14 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=toast-of-surrey-awards" rel="tag">Toast of Surrey Awards</a></li>
+
+    <li><a href="archive.php?tag=creative-award" rel="tag">Creative Award</a></li>
+
+    <li><a href="archive.php?tag=award-ceremony" rel="tag">Award Ceremony</a></li>
+
+    <li><a href="archive.php?tag=guildford" rel="tag">Guildford</a></li>
+
+    <li><a href="archive.php?tag=g-live" rel="tag">G Live</a></li>
+</ul>
