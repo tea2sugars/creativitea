@@ -131,10 +131,6 @@
 						<div class="col-sm-8 col-sm-offset-4">
 
 						<p><img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_02.jpg" alt="Nike Volt"></p>
-						<p><img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_03.jpg" alt="Nike Volt Print Design">
-						<img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_04.jpg" alt="Nike Volt">
-						<img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_05.jpg" alt="Nike Volt">
-						<img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_06.jpg" alt="Nike Volt"></p>
 						<p><img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_07.jpg" alt="Nike Volt Outdoor Poster"></p>
 						<p><img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_08.jpg" alt="Nike Volt Outdoor Poster Design"></p>
 						<p><img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_09.jpg" alt="Nike Volt Outdoor Campaign"></p>
