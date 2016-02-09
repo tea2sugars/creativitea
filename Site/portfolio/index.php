@@ -65,6 +65,21 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 			<!-- PORTFOLIO LIST -->
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding print">
+					<a href="nike_volt">
+						<div class="work-image">
+							<img src="../assets/images/projects/nike_volt/NikeVolt_portfolio_thumbnail_V2.jpg" alt="Nike Volt Outdoor Campaign"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">World Duty Free Nike launch</h3>
+							<div class="work-descr ">
+								Promotion Campaign Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
 				<li class="work-item video digital">
 					<a href="carphone-warehouse-blacktag">
 						<div class="work-image">
