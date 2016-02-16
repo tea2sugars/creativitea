@@ -77,7 +77,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 								<input id="insightly_Phone" name="phone" type="text" class="form-control" placeholder="Phone Number"/><br/>
 								
 								<label class="sr-only" for="Description">Your Smoke Signal: </label>
-								<input id="insightly_Description" name="Description" type="text" class="form-control" placeholder="Your Smoke Signal" rows="7"/><br/>
+								<textarea id="insightly_Description" name="Description" type="text" class="form-control" placeholder="Your Smoke Signal" rows="7"></textarea><br/>
 								
 								<input type="hidden" id="insightly_ResponsibleUser" name="ResponsibleUser" value="1003333" /><br/>
 								
