@@ -170,7 +170,7 @@
 				<!-- /PORTFOLIO ITEM -->
 				
 				<li class="work-item branding print disrupt digital">
-					<a href="./powwownow">
+					<a href="./portfolio/powwownow">
 						<div class="work-image">
 							<img src="assets/images/projects/Pow_portfolio_thumbnail.jpg" alt="Powwownow Branding"/>
 						</div>
