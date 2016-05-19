@@ -66,8 +66,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-8 col-sm-offset-2">
-                            <h2>We are an independent, creative design agency based
-                        in London & Guildford.</h2>
+                            <h2>We are an independent, creative design agency based in London.</h2>
 
 
                             <p class="lead">Creativitea was established in 2008 by Rik Barwick and Lloyd Bedford to help provoke change through great design.</p>
