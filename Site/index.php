@@ -69,7 +69,7 @@
                             <h2>We are an independent, creative design agency based in London.</h2>
 
 
-                            <p class="lead">Creativitea was established in 2008 by Rik Barwick and Lloyd Bedford to help provoke change through great design.</p>
+                            <p class="lead">Creativitea was established in 2008 to help provoke change through great design.</p>
 
 
                             <p>Our disruptive way of thinking challenges brands to realise their full potential. Using creative thought and skilful craftsmanship we help businesses achieve their goals and their objectives.</p>
