@@ -485,6 +485,89 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 
 		</section>
 		<!-- /PORTFOLIO -->
+		
+		<!-- DIVIDER -->
+		<hr class="divider-w">
+		<!-- /DIVIDER -->
+		
+		<section class="module">
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-sm-8 col-sm-offset-2">
+						<h1>Creative design solutions for clients of all shapes and sizes</h1>
+						<!-- POST -->
+						<div class="post">
+
+							<article class="post-entry">
+
+								<p class="lead">We have had the pleasure of working with some great
+brands, organisations and people from all over the world.</p>
+
+							</article>
+							
+						</div>
+						<!-- /POST -->
+
+					</div>
+
+				</div>
+				
+				<div class="row">
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/C4blk.png" alt="Channel 4">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/CPWblk.png" alt="Carphone Warehouse">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/DixonsCPWblk.png" alt="Dixons Carphone">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/Freeviewblk.png" alt="Freeview">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/GeekSquadblk.png" alt="GeekSquad">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/GSKblk.png" alt="GSK">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/iDblk.png" alt="iD Mobile">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/Powwownowblk.png" alt="Powwownow">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/Sodexoblk.png" alt="Sodexo">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/Talkmobileblk.png" alt="Talkmobile">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/TanteMariewhit.png" alt="Tante Marie Culinary Academy & Restaurant">
+					</article>
+					
+					<article class="col-xs-4 col-sm-2 m-b-10 text-center grid-block">
+						<img src="assets/images/clients/ThermoFblk.png" alt="Thermo Fisher">
+					</article>
+				</div>
+
+			</div>
+
+		</section>
 
 		<!-- PAGINATION
 		<section class="module-small p-t-0">
