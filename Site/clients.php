@@ -124,6 +124,7 @@ brands, organisations and people from all over the world.</p>
 							<li>The Gents Pack</li>
 							<li>Decade Skateboarding</li>
 							<li>Nike</li>
+							<li>Carhartt</li>
 						</ul>
 					</article>
 					<article class="col-sm-3 m-b-10">
@@ -158,9 +159,7 @@ brands, organisations and people from all over the world.</p>
 							<li>Media Devil</li>
 							<li>R8lst</li>
 						</ul>	
-					</article>
-					
-					
+					</article>		
 				</div>
 				<div class="row">
 					<article class="col-sm-3 m-b-10">
@@ -175,12 +174,14 @@ brands, organisations and people from all over the world.</p>
 					</article>
 				
 				<article class="col-sm-3 m-b-10">
-						<h4>Tech Start-ups</h4>
+						<h4>B2B</h4>
 							<ul>
-								<li>Powwownow</li>
 								<li>Buyapowa</li>
-								<li>Powa</li>
 								<li>Carphone World Services</li>
+								<li>Don't just site there, Sell something</li>
+								<li>Experian</li>
+								<li>Powwownow</li>
+								<li>Powa</li>
 								<li>Total Imaging</li>
 							</ul>
 				</article>
