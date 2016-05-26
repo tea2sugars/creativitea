@@ -1,0 +1,12 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=strategy" rel="tag">Strategy</a></li>
+
+    <li><a href="archive.php?tag=hero-hub-hygiene" rel="tag">Hero Hub Hygiene</a></li>
+
+    <li><a href="archive.php?tag=video" rel="tag">Video</a></li>
+
+    <li><a href="archive.php?tag=content" rel="tag">Content</a></li>
+</ul>
