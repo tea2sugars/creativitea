@@ -96,6 +96,9 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<article class="align-center col-xs-12 col-md-6">
 							<p class="lead"><a href="mailto:info@creativitea.co.uk">info@creativitea.co.uk</a></p>
 						</article>
+						<article class="align-center col-xs-12">
+							<p class="lead"><address>Creativitea Ltd, 34B York Way, London N1 9AB</address></p>
+						</article>
 						
 						<article class="align-center col-sm-12">
 							<!-- DIVIDER -->
