@@ -10,9 +10,9 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Perch Blog Example</title>
+        <title>Creativitea - A Design Blog</title>
         <link><?php echo PerchUtil::html($domain); ?>/blog/</link>
-        <description>My awesome website.</description>
+        <description>The latest news and musings from our agency, the industry and life in general</description>
         <atom:link href="<?php echo PerchUtil::html($domain); ?>/blog/rss.php" rel="self" type="application/rss+xml" />
         <?php
             perch_blog_custom(array(
