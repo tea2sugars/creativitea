@@ -50,7 +50,7 @@
 								
 								<h3>Local experience</h3>
 								
-								<p>We've designed websites for Surrey based clients such as <a href="http://www.creativitea.co.uk/portfolio/tantemarie-restaurant" title="Tante Marie Culinary Academy Website Design">Tante Marie Culinary Academy</a> and <a href="http://www.creativitea.co.uk/portfolio/djst" title="Don't Just Sit There, Sell Something Ltd Website Design">DJST.</p>
+								<p>We've designed websites for Surrey based clients such as <a href="http://www.creativitea.co.uk/portfolio/tantemarie-restaurant" title="Tante Marie Culinary Academy Website Design">Tante Marie Culinary Academy</a> and <a href="http://www.creativitea.co.uk/portfolio/djst" title="Don't Just Sit There, Sell Something Ltd Website Design">DJST</a>.</p>
 								
 								<p>We are also proud to have supported Surrey based charities with their website design projects. These include Communilab and Surrey Youth Focus.</p>
 								<h3>The Studio</h3>
