@@ -46,11 +46,12 @@
 
 								<p>Surrey offers a huge opportunity for businesses because of the transport links to London and the South coast so it sees a lot of good business networking opportunities. It's an affluent area being so close to London so most of our industry experience in Surrey is in the Luxury or Professional Market.</p>
 								
-								<p>The gaming industry has also served us well in the past with Guildford once being known as the gaming capital of Britain. We've worked for Electronic Arts, Trion Worlds, Activision and Atari who have all been based here.</p>
 								
 								<h3>Local experience</h3>
 								
 								<p>We've designed websites for Surrey based clients such as <a href="http://www.creativitea.co.uk/portfolio/tantemarie-restaurant" title="Tante Marie Culinary Academy Website Design">Tante Marie Culinary Academy</a> and <a href="http://www.creativitea.co.uk/portfolio/djst" title="Don't Just Sit There, Sell Something Ltd Website Design">DJST</a>.</p>
+								
+								<p>The local gaming industry has also served us well in the past with Guildford once being known as the gaming capital of Britain. We've worked for Electronic Arts, Trion Worlds, Activision and Atari who have all been based here.</p>
 								
 								<p>We are also proud to have supported Surrey based charities with their website design projects. These include Communilab and Surrey Youth Focus.</p>
 								<h3>The studio</h3>
