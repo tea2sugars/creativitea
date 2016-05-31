@@ -149,7 +149,7 @@
                         <article>
                             <p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking.</p>
                             
-                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help you with your project.</p>
+                            <p>We provide website design for clients all over Great Britain from <a href="website-design-surrey">Surrey</a> and London to Glasgow so please in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help you with your project.</p>
                         </article>
                         <a href="contact" class="btn btn-d btn-round">Contact Us</a>
                             <!-- DIVIDER -->
