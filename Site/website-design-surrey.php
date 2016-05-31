@@ -53,7 +53,7 @@
 								<p>We've designed websites for Surrey based clients such as <a href="http://www.creativitea.co.uk/portfolio/tantemarie-restaurant" title="Tante Marie Culinary Academy Website Design">Tante Marie Culinary Academy</a> and <a href="http://www.creativitea.co.uk/portfolio/djst" title="Don't Just Sit There, Sell Something Ltd Website Design">DJST</a>.</p>
 								
 								<p>We are also proud to have supported Surrey based charities with their website design projects. These include Communilab and Surrey Youth Focus.</p>
-								<h3>The Studio</h3>
+								<h3>The studio</h3>
 								<p>In 2016 we said goodbye to our studio in Guildford and moved to Sutton, Surrey. This offers us a more direct route to the tech hub of Shoreditch. Also being closer to London offers us more networking opportunities which helps broaden our knowledge and horizons.</p>
 								<h4>Studio Address</h4>
 								<p>Unfortunately due to the privacy of some of our clients work we're under contract to not allow visitors to the studio. However if you would like to send us something (we all like presents) our address is;</p>
