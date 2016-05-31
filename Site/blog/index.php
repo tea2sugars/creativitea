@@ -64,6 +64,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 								<span class='st_pinterest_large' displayText='Pinterest'></span>
 								<span class='st_pocket_large' displayText='Pocket'></span>
 								<span class='st_instapaper_large' displayText='Instapaper'></span>
+								<span class='st_googleplus_large' displayText='Google +'></span>
 								<span class='st_email_large' displayText='Email'></span>
 							</div>
 
