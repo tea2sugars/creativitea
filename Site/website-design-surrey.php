@@ -54,8 +54,8 @@
 								
 								<p>We are also proud to have supported Surrey based charities with their website design projects. These include Communilab and Surrey Youth Focus.</p>
 								<h3>The studio</h3>
-								<p>In 2016 we said goodbye to our studio in Guildford and moved to Sutton, Surrey. This offers us a more direct route to the tech hub of Shoreditch. Also being closer to London offers us more networking opportunities which helps broaden our knowledge and horizons.</p>
-								<h4>Studio Address</h4>
+								<p>In 2016 we said goodbye to our studio in Guildford and moved to Sutton, Surrey. This offers us a more direct route to the tech hub of Shoreditch, suits the team better as it reduces their commute time and by being closer to London allows us take advantage of more networking opportunities, lectures and gallery viewings which as creative people helps broaden our knowledge and horizons.</p>
+								
 								<p>Unfortunately due to the privacy of some of our clients work we're under contract to not allow visitors to the studio. However if you would like to send us something (we all like presents) our address is;</p>
 								<div itemscope itemtype="http://schema.org/LocalBusiness">
 										<span itemprop="name">Creativitea Ltd</span>
