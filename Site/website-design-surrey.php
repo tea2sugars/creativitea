@@ -58,7 +58,6 @@
 								<h4>Studio Address</h4>
 								<p>Unfortunately due to the privacy of some of our work visitors to our studio is not allowed. However if you would like to send us something (we like presents) our address is;</p>
 								<div itemscope itemtype="http://schema.org/LocalBusiness">
-									<p>
 										<span itemprop="name">Creativitea Ltd</span>
 										<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 									    	<span itemprop="streetAddress">The Cabin, 36 Welbeck Road</span>
@@ -66,18 +65,12 @@
 											<span itemprop="addressRegion">Surrey</span>
 											<span itemprop="postalCode">SM1 3NW</span>
 								   		</div>
-									</p>
 								</div>
-							</article>
-						</div>
-								
 								<p class="yellow lead">&ndash;</p>
 
 								<p>Our focus is still in supplying website design services to Surrey so if you have a project that we could help you with please <a href="contact" title="contact us">contact us</a>.</p>
 							</article>
-							
 						</div>
-						<!-- /POST -->
 
 					</div>
 
