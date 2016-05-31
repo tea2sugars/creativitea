@@ -42,21 +42,21 @@
 
 							<article class="post-entry">
 
-								<p class="lead">Creativitea have provided clients with website design in Surrey for 8 years now and continue to work with local businesses to build their brand through their digital presence.</p>
+								<p class="lead">At Creativitea we have provided clients with website design in Surrey for 8 years now and continue to work with local businesses to build their brand through their digital presence.</p>
 
 								<p>Surrey offers a huge opportunity for businesses because of the transport links to London and the South coast so it sees a lot of good business networking opportunities. It's an affluent area being so close to London so most of our industry experience in Surrey is in the Luxury or Professional Market.</p>
 								
 								<p>The gaming industry has also served us well in the past with Guildford once being known as the gaming capital of Britain. We've worked for Electronic Arts, Trion Worlds, Activision and Atari who have all been based here.</p>
 								
-								<h3>Our local experience</h3>
+								<h3>Local experience</h3>
 								
-								<p>We've designed websites for Surrey based clients such as Tante Marie Culinary Academy and DJST.</p>
+								<p>We've designed websites for Surrey based clients such as <a href="http://www.creativitea.co.uk/portfolio/tantemarie-restaurant" title="Tante Marie Culinary Academy Website Design">Tante Marie Culinary Academy</a> and <a href="http://www.creativitea.co.uk/portfolio/djst" title="Don't Just Sit There, Sell Something Ltd Website Design">DJST.</p>
 								
 								<p>We are also proud to have supported Surrey based charities with their website design projects. These include Communilab and Surrey Youth Focus.</p>
-								<h3>Our studio</h3>
+								<h3>The Studio</h3>
 								<p>In 2016 we said goodbye to our studio in Guildford and moved to Sutton, Surrey. This offers us a more direct route to the tech hub of Shoreditch. Also being closer to London offers us more networking opportunities which helps broaden our knowledge and horizons.</p>
 								<h4>Studio Address</h4>
-								<p>Unfortunately due to the privacy of some of our work visitors to our studio is not allowed. However if you would like to send us something (we like presents) our address is;</p>
+								<p>Unfortunately due to the privacy of some of our clients work we're under contract to not allow visitors to the studio. However if you would like to send us something (we all like presents) our address is;</p>
 								<div itemscope itemtype="http://schema.org/LocalBusiness">
 										<span itemprop="name">Creativitea Ltd</span>
 										<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -68,7 +68,7 @@
 								</div>
 								<p class="yellow lead">&ndash;</p>
 
-								<p>Our focus is still in supplying website design services to Surrey so if you have a project that we could help you with please <a href="contact" title="contact us">contact us</a>.</p>
+								<p>Our focus is still in supplying website design services to Surrey so if you have a project that we could help you with please <a href="contact" title="contact us">contact us</a> and we'll visit you or meet for a coffee and a chat.</p>
 							</article>
 						</div>
 
