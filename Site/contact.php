@@ -90,15 +90,23 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<hr class="divider-w m-t-20 m-b-20">
 						<!-- /DIVIDER -->
 						<h3 class="align-center">Alternatively&hellip;</h3>
-						<article class="align-center col-xs-12 col-md-6">
-							<p class="lead"><a href="tel:+442081230246">0208 123 0246</a></p>
-						</article>
-						<article class="align-center col-xs-12 col-md-6">
-							<p class="lead"><a href="mailto:info@creativitea.co.uk">info@creativitea.co.uk</a></p>
-						</article>
-						<article class="align-center col-xs-12">
-							<p class="lead"><address>Creativitea Ltd, 34B York Way, London N1 9AB</address></p>
-						</article>
+						<div itemscope itemtype="http://schema.org/LocalBusiness">
+							<article class="align-center col-xs-12 col-md-6">
+								<p class="lead"><span itemprop="telephone">0208 123 0246</span></p>
+							</article>
+							<article class="align-center col-xs-12 col-md-6">
+								<p class="lead"><a href="mailto:info@creativitea.co.uk">info@creativitea.co.uk</a></p>
+							</article>
+							<article class="align-center col-xs-12">
+								   <span itemprop="name">Creativitea Ltd</span>
+								   <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+								     <span itemprop="streetAddress">34B York Way</span>
+								     <span itemprop="addressLocality">London</span>,
+								     <span itemprop="addressRegion"></span>
+								     <span itemprop="postalCode">N1 9AB</span>
+								   </div>
+							</article>
+						</div>
 						
 						<article class="align-center col-sm-12">
 							<!-- DIVIDER -->
