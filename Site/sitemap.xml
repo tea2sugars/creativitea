@@ -27,6 +27,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>http://www.creativitea.co.uk/blog/design-for-charities</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>http://www.creativitea.co.uk/blog/archive.php?cat=press</loc>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
@@ -62,7 +67,17 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/web-design</loc>
+  <loc>http://www.creativitea.co.uk/website-design</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/website-design-surrey</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/digital-marketing</loc>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
@@ -102,6 +117,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>http://www.creativitea.co.uk/portfolio/carphone-warehouse-blacktag</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>http://www.creativitea.co.uk/portfolio/domenico</loc>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
@@ -113,11 +133,6 @@
 </url>
 <url>
   <loc>http://www.creativitea.co.uk/portfolio/5mm</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/portfolio/gentspack</loc>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
@@ -140,6 +155,46 @@
   <loc>http://www.creativitea.co.uk/sitemap</loc>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/contact</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/portfolio/surrey-uncovered-report</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=design</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=business</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=general</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=studio</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=charity</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/index</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.creativitea.co.uk/blog/surrey-advertiser-toast-of-surrey-awards</loc>
@@ -192,11 +247,6 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/index</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>http://www.creativitea.co.uk/blog/toast-of-surrey-awards-2013</loc>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
@@ -207,12 +257,17 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/contact</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=dba</loc>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=dba</loc>
+  <loc>http://www.creativitea.co.uk/portfolio/gentspack</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/portfolio/powwownow</loc>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
@@ -223,11 +278,6 @@
 </url>
 <url>
   <loc>http://www.creativitea.co.uk/portfolio/televisor</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/portfolio/surrey-uncovered-report</loc>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
@@ -247,17 +297,12 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/portfolio/carphone-warehouse-blacktag</loc>
+  <loc>http://www.creativitea.co.uk/portfolio/nike_volt</loc>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.creativitea.co.uk/portfolio/cat-budgie-campaign</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/portfolio/powwownow</loc>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
@@ -322,6 +367,31 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>http://www.creativitea.co.uk/blog/the-importance-of-the-hero-hub-and-hygiene-strategy-and-how-to-use-it</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/36-days-of-type</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/social-media-is-boring</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/david-bowie-rip</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/happy-100th-coke</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>http://www.creativitea.co.uk/blog/the-value-of-good-design</loc>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
@@ -352,47 +422,52 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/a-brief-history-of-the-christmas-card</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/black-friday-a-refreshing-approach</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/bond-title-credits</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/our-first-publication-loh-goh-vol-1</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/logo-or-marque-the-difference</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/the-importance-of-getting-brand</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>http://www.creativitea.co.uk/blog/?page=2</loc>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=design</loc>
+  <loc>http://www.creativitea.co.uk/blog/a-brief-history-of-the-christmas-card</loc>
   <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=business</loc>
+  <loc>http://www.creativitea.co.uk/blog/bond-title-credits</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/our-first-publication-loh-goh-vol-1</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/logo-or-marque-the-difference</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/the-importance-of-getting-brand</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/black-friday-a-refreshing-approach</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/do-lectures</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/carry-the-fire</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/our-toy-story</loc>
   <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
@@ -447,7 +522,52 @@
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=studio</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=film</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=media</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=strategy</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=hero-hub-hygiene</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=video</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=content</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=typography</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=social-media</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=coke-bottle</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=design-icon</loc>
   <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
@@ -472,101 +592,6 @@
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=typography</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=design</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=christmas</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=card</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=history</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=blackfriday</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=film</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=media</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=film</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=animation</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=motion</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=graphics</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=branding</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=identity-design</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=logo</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=brand-and-identity</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=brand-design</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=brand</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=strategy</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
   <loc>http://www.creativitea.co.uk/blog/a-swanderful-surprise-sorry</loc>
   <changefreq>monthly</changefreq>
   <priority>0.51</priority>
@@ -582,37 +607,122 @@
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/goals-not-resolutions</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/the-40th-anniversary-of-ceefax</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/talkmobiles-responsive-ux</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/a-tribute-to-robin-williams</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
   <loc>http://www.creativitea.co.uk/blog/?page=3</loc>
   <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/do-lectures</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=design</loc>
   <changefreq>monthly</changefreq>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/carry-the-fire</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=christmas</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=card</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=history</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=film</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=animation</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=motion</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=graphics</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=branding</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=identity-design</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=logo</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=brand-and-identity</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=brand-design</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=brand</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=blackfriday</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=do-lectures</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=conferences</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=networking</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=general</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=book-review</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=ra-d41d-cd98</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=toys</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.creativitea.co.uk/blog/goals-not-resolutions</loc>
   <changefreq>monthly</changefreq>
   <priority>0.41</priority>
 </url>
@@ -637,32 +747,17 @@
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=responsive-website-design</loc>
+  <loc>http://www.creativitea.co.uk/blog/the-40th-anniversary-of-ceefax</loc>
   <changefreq>monthly</changefreq>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=e-commerce</loc>
+  <loc>http://www.creativitea.co.uk/blog/talkmobiles-responsive-ux</loc>
   <changefreq>monthly</changefreq>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=robin-williams</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=tribute</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=artwork</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=artists</loc>
+  <loc>http://www.creativitea.co.uk/blog/a-tribute-to-robin-williams</loc>
   <changefreq>monthly</changefreq>
   <priority>0.41</priority>
 </url>
@@ -682,47 +777,37 @@
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/our-toy-story</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
   <loc>http://www.creativitea.co.uk/blog/?page=4</loc>
   <changefreq>monthly</changefreq>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=do-lectures</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=responsive-website-design</loc>
   <changefreq>monthly</changefreq>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=conferences</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=e-commerce</loc>
   <changefreq>monthly</changefreq>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=networking</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=robin-williams</loc>
   <changefreq>monthly</changefreq>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?cat=general</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=tribute</loc>
   <changefreq>monthly</changefreq>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=general</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=artwork</loc>
   <changefreq>monthly</changefreq>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=book-review</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=ra-d41d-cd98</loc>
+  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=artists</loc>
   <changefreq>monthly</changefreq>
   <priority>0.33</priority>
 </url>
@@ -762,12 +847,12 @@
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/archive.php?tag=toys</loc>
+  <loc>http://www.creativitea.co.uk/blog/prweb</loc>
   <changefreq>monthly</changefreq>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>http://www.creativitea.co.uk/blog/prweb</loc>
+  <loc>http://www.creativitea.co.uk/blog/?page=5</loc>
   <changefreq>monthly</changefreq>
   <priority>0.33</priority>
 </url>

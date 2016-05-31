@@ -91,12 +91,21 @@
 										<p>Delivering your brand message and your product marketing instantly anywhere in the world.</p>
 										<ul>
 											<li>
-												<h5><a href="web-design">Digital &amp; Website Design</a></h5>
-												<p>Website Design and Development</p>
+												<h5><a href="website-design">Website Design &amp; Development</a></h5>
+												<p>Your brand, your message, your product. Their device, now.</p>
+											</li>
+												<ul>
+													<li>
+														<h5><a href="website-design-surrey">Website Design Surrey</a></h5>
+													</li>
+												</ul>
+											<li>
+												<h5><a href="digital-marketing">Digital Marketing &amp; Strategy</a></h5>
+												<p>Helping your digital channels grow and convert</p>
 											</li>
 											<li>
-												<h5><a href="web-design">Digital Client Support</a></h5>
-												<p>Supporting our clients with their digital services</p>
+												<h5><a href="support">Client Support</a></h5>
+												<p>Supporting your product and your business</p>
 											</li>
 										</ul>
 									</li>
