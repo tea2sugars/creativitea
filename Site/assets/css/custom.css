@@ -37,12 +37,15 @@ a.p-category {
 }
 
 .dark-section {
-	background: rgba(0,0,0,0.9);
-	color: white;
+	background: #f8f8f8;
+	color: black;
 }
 
 .dark-section p, .dark-section h2, .dark-section-80 p, .dark-section-80 h2, .dark-section-80 blockquote {
 	color: white;
+}
+.dark-section p, .dark-section h2 {
+	color:black;
 }
 
 .dark-section-80 {
