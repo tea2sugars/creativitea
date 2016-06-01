@@ -84,7 +84,7 @@
                 </div>
             </div>
         </section>
-        <section class="module-small dark-section" id="digital-suuport">
+        <section class="module-small light-grey-section" id="digital-suuport">
 	        <div class="container-fluid">
                 <div class="row">
                     <div class="col-sm-12">
