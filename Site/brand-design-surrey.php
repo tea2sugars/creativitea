@@ -25,43 +25,56 @@
 
 
 	<div class="wrapper">
-		<!-- BLOG SINGLE -->
+		<!-- HOME -->
+		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/brand_general_header.jpg">
+
+			<div class="container">
+
+				<!-- MODULE TITLE -->
+				<div class="row">
+
+					<div class="col-sm-6 col-sm-offset-3">
+
+						<h1 class="module-title align-center">Brand Design Surrey</h1>
+
+						<div class="module-subtitle align-center">
+							<p class="lead">The who, what and why of your business</p>
+							<a class="btn btn-lg btn-y btn-round" href="#brand-services"><i class="fa fa-arrow-down"></i> Learn more</a>
+
+						</div>
+					</div>
+
+				</div>
+				<!-- /MODULE TITLE -->
+
+			</div>
+
+		</section >
+		<!-- /HOME -->
 
 
 		<section class="module">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-2">
-						<h1>Brand Design Surrey</h1>
+						<h2>At Creativitea we have provided Surrey based clients with brand design for the past 8 years.</h2>
 						<!-- POST -->
 
 
 						<div class="post">
 							<article class="post-entry">
-								<p class="lead">At Creativitea we have provided Surrey based clients with brand design for the past 8 years.</p>
-
 
 								<p>Since starting the agency in 2008 we have been providing clients with brand design in Surrey, working with national and local businesses to connect with their customers.</p>
 
-
-								<h3>Local Experience</h3>
-
-
-								<p>We’ve worked with organisations from all different sectors with effective, thoughtful brand designs. Our projects included the works from the gaming industry with Electronic Arts, Trion Worlds, Activision and Atari, to luxury brands such as Marchon Eyewear and Nike, to smaller companies such as Tante Marie and Corsaire.</p>
-
-
-								<p>We are also proud to have supported Surrey based charities including Surrey Youth Focus and Communilab, with their brand design projects.</p>
-
-
 								<h3>Brand Design Solutions</h3>
-
 
 								<p>Our award-winning brand team pride themselves on being able to develop clients brands through creative thought, strategy and design execution. Discover more about our digital services below;</p>
 
+								<h3>Local Experience</h3>
 
-								<p>
-								</p>
+								<p>We’ve worked with organisations from all different sectors with effective, thoughtful brand designs. Our projects included the works from the gaming industry with Electronic Arts, Trion Worlds, Activision and Atari, to luxury brands such as Marchon Eyewear and Nike, to smaller companies such as Tante Marie and Corsaire.</p>
 
+								<p>We are also proud to have supported Surrey based charities including Surrey Youth Focus and Communilab, with their brand design projects.</p>
 
 								<ul>
 									<li class="list-indent">
@@ -85,16 +98,12 @@
 										<p>Ensuring your business communications stay on-brand.</p>
 									</li>
 								</ul>
-								<p></p>
 
 								<h3>The Studio</h3>
 
-
 								<p>2016, saw us move our studio from Guildford to Sutton. This offers a more direct route to London whilst still having a presence in Surrey, our original home. With direct transport links into central London and the wider areas of Surrey, we are able to continue to provide our branding services to both areas.</p>
 
-
 								<p>Unfortunately due to the privacy of some of our clients work we're under contract to not allow visitors to the studio. However if you would like to send us something (we all like presents) our address is;</p>
-
 
 								<div itemscope itemtype="http://schema.org/LocalBusiness">
 									<span itemprop="name">Creativitea Ltd</span>
@@ -104,9 +113,7 @@
 									</div>
 								</div>
 
-
 								<p class="yellow lead">&ndash;</p>
-
 
 								<p>Whether it’s a new brand design, identity or an existing one in need of a refresh, we have the experience and expertise to help develop a striking brand identity that people want buy into and be part of.</p>
 								<a class="btn btn-d btn-round" href="contact">Contact Us</a> <a class="btn btn-g btn-round" href="portfolio">View work</a>
@@ -123,17 +130,14 @@
 		<!-- /DIVIDER -->
 		<!-- PORTFOLIO -->
 
-
 		<section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
 			<div class="container-fluid">
 				<div class="row">
 					<h2 class="align-center">Some of our Brand Design Projects</h2>
 				</div>
 
-
 				<div class="row">
 					<!-- PORTFOLIO LIST -->
-
 
 					<ul class="works-grid works-grid-4 works-hover-w" id="works-grid">
 						<!-- PORTFOLIO ITEM -->
