@@ -38,7 +38,7 @@
 						<h1 class="module-title align-center">Brand Design Surrey</h1>
 
 						<div class="module-subtitle align-center">
-							<p class="lead">The who, what and why of your business</p>
+							<p class="lead">We're a small, agile Surrey based design studio with big ideas and even bigger appetites for creating great brand experiences.</p>
 							<a class="btn btn-lg btn-y btn-round" href="contact">Contact us today</a>
 
 						</div>
