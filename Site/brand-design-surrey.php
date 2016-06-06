@@ -39,7 +39,7 @@
 
 						<div class="module-subtitle align-center">
 							<p class="lead">The who, what and why of your business</p>
-							<a class="btn btn-lg btn-y btn-round" href="#brand-services"><i class="fa fa-arrow-down"></i> Learn more</a>
+							<a class="btn btn-lg btn-y btn-round" href="contact">Contact us today</a>
 
 						</div>
 					</div>
@@ -64,17 +64,24 @@
 						<div class="post">
 							<article class="post-entry">
 
-								<p>Since starting the agency in 2008 we have been providing clients with brand design in Surrey, working with national and local businesses to connect with their customers.</p>
+								<p>Since starting the agency in 2008 we have been providing clients with brand design from our Surrey design studio. We have worked with <a href="clients" title="Our Clients">national and local businesses</a> to connect with their customers and get their business and products out to market.</p>
 
 								<h3>Brand Design Solutions</h3>
 
-								<p>Our award-winning brand team pride themselves on being able to develop clients brands through creative thought, strategy and design execution. Discover more about our digital services below;</p>
+								<p>Our award-winning brand team pride themselves on being able to develop clients brands effectively through creative thought, strategy and design execution.</p>
+								<p>In today's every-changing world a brand needs to be able to communicate effectively across a multiple of channels and by working with our diverse team allows for this to happen.</p>
+								<p>For brands to be able to stand out amongst their competition they need to innovate, be bolder and have a true purpose. It's not enough to just put a logo out there, your brand needs to tell your story.</p>
+								<p>At Creativitea we recognise that our key strength is the execution of great creative ideas and it's this reaction to a great story is what gets us excited! We immerse ourselves in our client's projects, challenging our briefs and pushing the boundaries of where the brand could go. It's this collaboration between our creative team and our clients that lead to great results.</p>
+								<p class="yellow lead">&ndash;</p>
+								<p>We are looking for clients with a great story to tell and the drive to do something a little different. If this is you, please <a href="contact">contact us</a> today and we'll get together for a chat.</p>
+								
+								<a class="btn btn-d btn-round" href="contact">Share your idea with us</a
+									
+								<p class="yellow lead">&ndash;</p>
 
-								<h3>Local Experience</h3>
+								<h4>Surrey Branding Experience</h4>
 
-								<p>We’ve worked with organisations from all different sectors with effective, thoughtful brand designs. Our projects included the works from the gaming industry with Electronic Arts, Trion Worlds, Activision and Atari, to luxury brands such as Marchon Eyewear and Nike, to smaller companies such as Tante Marie and Corsaire.</p>
-
-								<p>We are also proud to have supported Surrey based charities including Surrey Youth Focus and Communilab, with their brand design projects.</p>
+								<p>We’ve worked with organisations from all different sectors with effective, thoughtful brand designs. Our projects included the works of Electronic Arts, Trion Worlds, Atari and Marchon Eyewear. We also work with a number of SME's and local charities including Tante Marie Culinary Academy, The Surrey Youth Focus and Corsaire.</p>
 
 								<ul>
 									<li class="list-indent">
@@ -99,7 +106,7 @@
 									</li>
 								</ul>
 
-								<h3>The Studio</h3>
+								<h4>The Studio</h4>
 
 								<p>2016, saw us move our studio from Guildford to Sutton. This offers a more direct route to London whilst still having a presence in Surrey, our original home. With direct transport links into central London and the wider areas of Surrey, we are able to continue to provide our branding services to both areas.</p>
 
