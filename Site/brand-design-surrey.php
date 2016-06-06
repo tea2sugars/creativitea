@@ -74,7 +74,7 @@ In today's ever-changing world, a brand needs to be able to communicate effectiv
 
 								<p>At Creativitea we recognise that our key strength is the execution of great creative ideas, and it's this reaction to a great story that gets us excited! We immerse ourselves in our client's projects, challenging our briefs and pushing the boundaries of where the brand could go. It's this collaboration between our creative team and our clients that lead to great results.</p>
 								<p class="yellow lead">&ndash;</p>
-								<p>We are looking for clients with a great story to tell and the drive to do something a little different. If this is you, please contact us today and we'll get together for a chat.</p>
+								<p class="lead">We are looking for clients with a great story to tell and the drive to do something a little different. If this is you, please contact us today and we'll get together for a chat.</p>
 								
 								<a class="btn btn-d btn-round" href="contact">Share your idea with us</a>
 									
