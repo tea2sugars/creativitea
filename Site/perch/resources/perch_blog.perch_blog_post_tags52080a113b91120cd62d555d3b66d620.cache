@@ -1,0 +1,12 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=website-design" rel="tag">website design</a></li>
+
+    <li><a href="archive.php?tag=responsive-websites" rel="tag">responsive websites</a></li>
+
+    <li><a href="archive.php?tag=clients" rel="tag">clients</a></li>
+
+    <li><a href="archive.php?tag=digital" rel="tag">digital</a></li>
+</ul>
