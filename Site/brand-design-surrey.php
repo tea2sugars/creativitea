@@ -64,16 +64,17 @@
 						<div class="post">
 							<article class="post-entry">
 
-								<p>Since starting the agency in 2008 we have been providing clients with brand design from our Surrey design studio. We have worked with <a href="clients" title="Our Clients">national and local businesses</a> to connect with their customers and get their business and products out to market.</p>
+								<p>Since starting the agency in 2008 we have been providing clients with brand design from our Surrey design studio. We have worked with national and local businesses to connect with their customers and get their business and products out to market.</p>
 
 								<h3>Brand Design Solutions</h3>
 
-								<p>Our award-winning brand team pride themselves on being able to develop clients brands effectively through creative thought, strategy and design execution.</p>
-								<p>In today's every-changing world a brand needs to be able to communicate effectively across a multiple of channels and by working with our diverse team allows for this to happen.</p>
-								<p>For brands to be able to stand out amongst their competition they need to innovate, be bolder and have a true purpose. It's not enough to just put a logo out there, your brand needs to tell your story.</p>
-								<p>At Creativitea we recognise that our key strength is the execution of great creative ideas and it's this reaction to a great story is what gets us excited! We immerse ourselves in our client's projects, challenging our briefs and pushing the boundaries of where the brand could go. It's this collaboration between our creative team and our clients that lead to great results.</p>
+								<p>Our award-winning brand team pride themselves on being able to develop clients’ brands effectively through creative thought, strategy and design execution.
+In today's ever-changing world, a brand needs to be able to communicate effectively across multiple channels, and working with our diverse team allows this to happen.</p>
+								<p>For brands to be able to stand out among their competition they need to innovate, be bolder and have a true purpose. It's not enough to just put a logo out there, your brand needs to tell your story.</p>
+
+								<p>At Creativitea we recognise that our key strength is the execution of great creative ideas, and it's this reaction to a great story that gets us excited! We immerse ourselves in our client's projects, challenging our briefs and pushing the boundaries of where the brand could go. It's this collaboration between our creative team and our clients that lead to great results.</p>
 								<p class="yellow lead">&ndash;</p>
-								<p>We are looking for clients with a great story to tell and the drive to do something a little different. If this is you, please <a href="contact">contact us</a> today and we'll get together for a chat.</p>
+								<p>We are looking for clients with a great story to tell and the drive to do something a little different. If this is you, please contact us today and we'll get together for a chat.</p>
 								
 								<a class="btn btn-d btn-round" href="contact">Share your idea with us</a>
 									
@@ -102,13 +103,13 @@
 										</h5>
 
 
-										<p>Ensuring your business communications stay on-brand.</p>
+										<p>Helping you ensure your business communications stay on-brand.</p>
 									</li>
 								</ul>
 
 								<h4>The Studio</h4>
 
-								<p>2016, saw us move our studio from Guildford to Sutton. This offers a more direct route to London whilst still having a presence in Surrey, our original home. With direct transport links into central London and the wider areas of Surrey, we are able to continue to provide our branding services to both areas.</p>
+								<p>2016 saw us move our studio from Guildford to Sutton. This offers a more direct route to London whilst still having a presence in Surrey, our original home. With direct transport links into central London and the wider areas of Surrey, we are able to continue to provide our branding services to both areas.</p>
 
 								<p>Unfortunately due to the privacy of some of our clients work we're under contract to not allow visitors to the studio. However if you would like to send us something (we all like presents) our address is;</p>
 
