@@ -75,7 +75,7 @@
 								<p class="yellow lead">&ndash;</p>
 								<p>We are looking for clients with a great story to tell and the drive to do something a little different. If this is you, please <a href="contact">contact us</a> today and we'll get together for a chat.</p>
 								
-								<a class="btn btn-d btn-round" href="contact">Share your idea with us</a
+								<a class="btn btn-d btn-round" href="contact">Share your idea with us</a>
 									
 								<p class="yellow lead">&ndash;</p>
 
