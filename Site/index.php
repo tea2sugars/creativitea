@@ -52,8 +52,8 @@
 		                    design</a> agency.<br>
 		                    <span class="yellow">–</span>
 		                </h1>
-		                <p class="lead">Creativitea was established in 2008 to help provoke positive change through great design and creative thought. Whether it's social change or a businesses bottom line.</p>
-		                <p class="lead">Tell us how we can make a difference in your world.</p>
+		                <p class="lead">Creativitea was established in 2008 to help provoke positive change through great design and creative thought. Whether it's social change or a businesses bottom line – we want to improve the world through our design.</p>
+		                <p class="lead">Tell us how we can make a difference for you.</p>
                         <a class="typeform-share btn btn-y btn-round btn-lg" href="contact">Contact us</a> <a class="btn btn-d btn-round btn-lg" href="portfolio">View our work</a>
                     </div>
 
