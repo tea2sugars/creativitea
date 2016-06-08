@@ -52,8 +52,8 @@
 		                    design</a> agency.<br>
 		                    <span class="yellow">–</span>
 		                </h1>
-		                <h2>Creativitea was established in 2008 to help provoke positive change through great design and creative thought.</h2>
-		                <p class="lead">Tell us how we can make a difference in your world</p>
+		                <p class="lead">Creativitea was established in 2008 to help provoke positive change through great design and creative thought. Whether it's social change or a businesses bottom line.</p>
+		                <p class="lead">Tell us how we can make a difference in your world.</p>
                         <a class="typeform-share btn btn-y btn-round btn-lg" href="contact">Contact us</a> <a class="btn btn-d btn-round btn-lg" href="portfolio">View our work</a>
                     </div>
 
@@ -67,9 +67,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-8 col-sm-offset-2">
-                            <h3>We are an independent, creative design agency based in London and Surrey.</h3>
-
-                            <p class="lead">Creativitea was established in 2008 to help provoke change through great design and creative thought.</p>
+                            <h2>We are an independent, creative design agency based in London and Surrey.</h2>
 
                             <p>Our <a href="http://www.creativitea.co.uk/blog/archive.php?cat=awards">award-winning creative design team</a> pride themselves on being able to develop clients’ brands effectively through intelligent ideas, strategy and design execution. </p>
                                                         
