@@ -44,19 +44,20 @@
                         <div class="hs-title-size-4 yellow">
                             <strong>Hello</strong>
                         </div>
+                        <h1>
+	                        <span class="yellow">–</span><br>
+		                    We are Creativitea&trade;<br>
+		                    A <a href="branding">brand</a>, <a href=
+		                    "digital-design">digital</a> &amp; <a href="print-design">print
+		                    design</a> agency.<br>
+		                    <span class="yellow">–</span>
+		                </h1>
+		                <h2>Creativitea was established in 2008 to help provoke positive change through great design and creative thought.</h2>
+		                <p class="lead">Tell us how we can make a difference in your world</p>
+                        <a class="typeform-share btn btn-y btn-round btn-lg" href="contact">Contact us</a> <a class="btn btn-d btn-round btn-lg" href="portfolio">View our work</a>
                     </div>
 
-
-                    <div class="col-sm-8 col-sm-offset-2">
-                        <h1><span class="yellow">–</span><br>
-                    We are Creativitea&trade;<br>
-                    A <a href="branding">brand</a>, <a href=
-                    "digital-design">digital</a> & <a href="print-design">print
-                    design</a> agency.<br>
-                    <span class="yellow">–</span></h1>
-                        <a class="typeform-share btn btn-y btn-round btn-lg" href="story">Read our story...</a>
-                    </div>
-                </div>
+					</div>
             </div>
         </section>
 
@@ -66,26 +67,18 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-8 col-sm-offset-2">
-                            <h2>We are an independent, creative design agency based in London.</h2>
-
+                            <h3>We are an independent, creative design agency based in London and Surrey.</h3>
 
                             <p class="lead">Creativitea was established in 2008 to help provoke change through great design and creative thought.</p>
 
-
-                            <p>Our disruptive way of thinking challenges brands to realise their full potential. Using creative thought and skilful craftsmanship we help businesses achieve their goals and their objectives.</p>
-
-
-                            <p>The studio is developing into an <a href="blog/archive.php?cat=awards">award-winning</a> hub of creative talent that is now working for some of the top
-                                <a href="clients">brands and start-ups</a> in the UK and around the world.</p>
-
-
-                            <p>If you’d like to know more about us (and we’d love to learn more about you) why not <a href="contact">get
-                        in touch</a> to see if we could work together.</p>
-
+                            <p>Our <a href="http://www.creativitea.co.uk/blog/archive.php?cat=awards">award-winning creative design team</a> pride themselves on being able to develop clients’ brands effectively through intelligent ideas, strategy and design execution. </p>
+                                                        
+                            <p>Whether it’s through a <a href="branindg">logo design</a>, <a href="print-design">printed material</a> or <a href="digital-design">digital design</a>. By thinking disruptively challenges brands to realise their full potential. Using creative thought and skilful craftsmanship we help businesses achieve their goals and smash their objectives.</p>
+                            
+                            <p>We are looking for clients with a great story to tell and the drive to do something a little different. If this is you, please <a href="contact">contact us today</a> and we'll get together for a chat.</p>
 
                             <div>
-                                <a class="btn btn-y btn-round" href="contact">Contact Us</a> <a class="btn btn-d btn-round" href="story">More about
-                            Us</a>
+                               <a class="btn btn-y btn-round" href="contact">Contact Us</a> <a class="btn btn-d btn-round" href="story">More about Us</a>
                             </div>
                         </div>
                     </div>
