@@ -206,11 +206,8 @@
                         <div class="col-sm-2 col-sm-offset-2">
                             <h3>Our Clients</h3>
                         </div>
-                    </div>
-
-
-                    <div class="row">
-                        <div class="col-sm-6 col-sm-offset-4">
+                    
+                        <div class="col-sm-6">
                             <p class="lead"><span class="yellow">–</span>
                                 <br> We have had the pleasure of working with some great brands, organisations and people.</p>
 
@@ -286,7 +283,7 @@
 
                     <div class="row m-t-40">
                         <div class="text-center">
-                            <a class="btn btn-lg btn-y btn-round" href="clients">View our client list</a>
+                            <a class="btn btn-lg btn-y btn-round" href="clients">View more about our clients</a>
                         </div>
                     </div>
                 </div>
