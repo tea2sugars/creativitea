@@ -197,7 +197,6 @@
 							<div class="work-image"><img alt="River Brand & Visual Identity" src="assets/images/projects/River_thumbnail.jpg">
 							</div>
 
-
 							<div class="work-caption">
 								<h3 class="work-title">River</h3>
 
@@ -211,7 +210,7 @@
 
 
 						<li class="work-item branding print disrupt digital">
-							<a href="./portfolio/powwownow">
+							<a href="/portfolio/powwownow">
 							<div class="work-image"><img alt="Powwownow Branding" src="assets/images/projects/Pow_portfolio_thumbnail.jpg">
 							</div>
 

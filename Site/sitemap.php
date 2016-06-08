@@ -31,11 +31,12 @@
 
 					<div class="col-sm-8 col-sm-offset-2">
 
-						<h1>Find your way around our website</h1>
+						<h1>Creativitea Design Studio</h1>
+						<p class="lead">Life's complicated, here's a page to help you find your way around our website</p>
 						
 						<ul>
 							<li>
-								<h4><a href="/">Homepage</a></h4>
+								<h4><a href="/">Homepage -  Creativitea – A brand, digital &amp; print design agency</a></h4>
 								<p>Who we are and what we do.</p>
 							</li>
 							<li>
@@ -59,7 +60,7 @@
 										<p>Articles about our design agency.</p>
 									</li>
 									<li>
-										<h5><a href="blog/archive.php?cat=awards">Awards</a></h5>
+										<h5><a href="blog/archive.php?cat=awards">Award winning design</a></h5>
 										<p>We've won a few design awards.</p>
 									</li>
 									<li>
@@ -85,6 +86,14 @@
 												<p>Helping brands stay on track through brand workshops and strategy.</p>
 											</li>
 										</ul>
+										<ul>
+											<li>
+												<h5><a href="brand-design-surrey">Brand Design Surrey</a></h5>
+											</li>
+											<li>
+												<h5><a href="brand-design-london">Brand Design London</a></h5>
+											</li>
+										</ul>
 									</li>
 									<li>
 										<h5><a href="digital-design">Digital &amp; Web Design Services <i class="fa fa-level-down"></i></a></h5>
@@ -97,6 +106,9 @@
 												<ul>
 													<li>
 														<h5><a href="website-design-surrey">Website Design Surrey</a></h5>
+													</li>
+													<li>
+														<h5><a href="website-design-london">Website Design London</a></h5>
 													</li>
 												</ul>
 											<li>
