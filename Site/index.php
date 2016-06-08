@@ -58,7 +58,10 @@
                         <a class="typeform-share btn btn-y btn-round btn-lg" href="contact">Contact us</a> <a class="btn btn-d btn-round btn-lg" href="portfolio">View our work</a>
                     </div>
 
-					</div>
+				</div>
+				<div class="caption-footer">
+					<p>More about us <i class="fa fa-hand-o-down" aria-hidden="true" aria-label="Scroll Down"></i></p>
+				</div>
             </div>
         </section>
 
