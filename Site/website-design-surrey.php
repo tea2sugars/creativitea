@@ -46,6 +46,20 @@
 
 								<p>Surrey offers a huge opportunity for businesses because of the transport links to London and the South coast so it sees a lot of good business networking opportunities. It's an affluent area being so close to London so most of our industry experience in Surrey is in the Luxury or Professional Market.</p>
 								
+								<h3>Website Design Solutions Surrey</h3>
+
+								<p>Our award-winning digital team pride themselves on being able to build complex solutions using creative thought, cognitive research and on budget. We pride ourselves on delivering results based on business objectives making the work we do extremely valuable.</p>
+								
+								<p>The digital world has changed. No longer should clients be expected to be stuck with custom web systems on expensive maintenance contracts. Website’s need to be deployed quickly and efficiently whilst giving clients the flexibility to work with the site as they feel fit.</p>
+								
+								<p>At Creativitea, we recognise that our key strength is using existing systems like Drupal, Shopify and Stripe to knit together solutions that gives clients the best value website design and development.</p>
+								
+								<h3>Contact us</h3>
+								<p class="yellow lead">&ndash;</p>
+								<p class="lead">We are looking for clients with a great story to tell and the drive to do something a little different. If this is you, please contact us today and we'll get together for a chat.</p>
+								
+								<a class="btn btn-d btn-round" href="contact">Share your idea with us</a>
+								<p class="yellow lead">&ndash;</p>
 								
 								<h3>Local experience</h3>
 								
@@ -54,10 +68,10 @@
 								<p>The local gaming industry has also served us well in the past with Guildford once being known as the gaming capital of Britain. We've worked for Electronic Arts, Trion Worlds, Activision and Atari who have all been based here.</p>
 								
 								<p>We are also proud to have supported Surrey based charities with their website design projects. These include Communilab and Surrey Youth Focus.</p>
-								<h3>The studio</h3>
-								<p>In 2016 we said goodbye to our studio in Guildford and moved to Sutton, Surrey. This offers us a more direct route to the tech hub of Shoreditch, suits the team better as it reduces their commute time and by being closer to London allows us take advantage of more networking opportunities, lectures and gallery viewings which as creative people helps broaden our knowledge and horizons.</p>
-								
-								<p>Unfortunately due to the privacy of some of our clients work we're under contract to not allow visitors to the studio. However if you would like to send us something (we all like presents) our address is;</p>
+								<h4>The Studio</h4>
+
+								<p>2016 saw us move our studio from Guildford to Sutton. This offers a more direct route to London whilst still having a presence in Surrey, our original home. With direct transport links into central London and the wider areas of Surrey, we are able to continue to provide our branding services to both areas.</p>
+								<p>Unfortunately due to the privacy of some of our clients work we're under contract to not allow visitors to the Surrey studio. So we have setup space at the Impact Hub at King’s Cross which offers a fantastic space for workshops, meetings and working with the team directly.</p>
 								<div itemscope itemtype="http://schema.org/LocalBusiness">
 										<span itemprop="name">Creativitea Ltd</span>
 										<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -69,7 +83,8 @@
 								</div>
 								<p class="yellow lead">&ndash;</p>
 
-								<p>Our focus is still in supplying website design services to Surrey so if you have a project that we could help you with please <a href="contact" title="contact us">contact us</a> and we'll visit you or meet for a coffee and a chat.</p>
+								<p>Whether it’s a new Website Design, a redesign or you need someone to investigate why something isn’t delivering results, we have the experience and expertise to help develop a superb digital experience.</p>
+								<a class="btn btn-d btn-round" href="contact">Contact Us</a> <a class="btn btn-g btn-round" href="portfolio">View work</a>
 							</article>
 						</div>
 
