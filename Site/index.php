@@ -41,9 +41,6 @@
             <div class="hs-caption container">
                 <div class="caption-content">
                     <div class="col-sm-8 col-sm-offset-2">
-                        <div class="hs-title-size-4 yellow">
-                            <strong>Hello</strong>
-                        </div>
                         <h1>
 	                        <span class="yellow">–</span><br>
 		                    We are Creativitea&trade;<br>
