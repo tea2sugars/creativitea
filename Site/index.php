@@ -46,12 +46,14 @@
 		                    We are Creativitea&trade;<br>
 		                    <small>A <a href="branding">brand</a>, <a href=
 		                    "digital-design">digital</a> &amp; <a href="print-design">print
-		                    design</a> agency based in London and Surrey.<br>
+		                    design</a> agency<br/>
+		                    We work out of our London and Surrey based studios.</small><br>
 		                    <span class="yellow">–</span>
 		                </h1>
 		                <p class="lead">We always wanted to make a change to the world through something we've designed. It's a huge goal but we have an equally sized appetite for great design so we think we can achieve it.</p>
-			            <a class="btn btn-y btn-round btn-lg" href="contact">Contact us</a> <a class="btn btn-d btn-round btn-lg" href="portfolio">View our work</a>
-                        <p style="font-size:14px; margin-top:60px;"><i class="fa fa-hand-o-down" aria-hidden="true" aria-label="Scroll Down"></i> Scroll Down for more info and work examples</p>
+			            <a class="btn btn-y btn-round btn-lg" href="portfolio">View our work</a>
+			             
+                        
                     </div>
 
 				</div>
@@ -72,7 +74,7 @@
                                                                                     
                             <p>Whether it’s through a <a href="branindg">logo design</a>, <a href="print-design">printed material</a> or <a href="digital-design">digital design</a>. By thinking disruptively challenges brands to realise their full potential. Using creative thought and skilful craftsmanship we help businesses achieve their goals and smash their objectives.</p>
                             
-                            <p>We are looking for clients with a great story to tell and the drive to do something a little different. If this is you, please <a href="contact">contact us today</a> and we'll get together for a chat.</p>
+                            <p>We are looking for clients with a great story to tell and the drive to do something a little different and creative. If this is you, please <a href="contact">contact us today</a> and we'll get together for a chat.</p>
 
                             <div>
                                <a class="btn btn-y btn-round" href="contact">Contact Us</a> <a class="btn btn-d btn-round" href="story">More about Us</a>
