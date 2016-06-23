@@ -7,7 +7,7 @@
 	<meta name="description" content="Site Map">
 	<meta name="author" content="">
 	
-	<title>Creativitea - The brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title>Creativitea - The brand, digital and print design agency | London, Surrey, Suffolk</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 

@@ -6,7 +6,7 @@
 	<meta name="description" content="A creative team working across the world together to solve design problems for our clients">
 	<meta name="author" content="">
 	
-	<title>The Creative Team | Creativitea Limited | London, Guildford, Suffolk</title>
+	<title>The Creative Team | Creativitea Limited | London, Surrey, Suffolk</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 	

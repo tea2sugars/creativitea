@@ -8,7 +8,7 @@
 	<meta content="Website Design London, Web Design London, Digital Marketing London, UX Design london" name="keywords">
 	<meta content="" name="author">
 
-	<title>Creativitea - A Website Design Agency in London | Website and Digital Design</title><?php include('assets/php/includes/head-css.html');?><!--Share widget-->
+	<title>Creativitea - A Website Design Agency in London | Website and Digital Design London</title><?php include('assets/php/includes/head-css.html');?><!--Share widget-->
 
 	<script type="text/javascript">
 	var switchTo5x=true;

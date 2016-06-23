@@ -23,7 +23,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6038156343123&amp;cd[value]=0.01&amp;cd[currency]=GBP&amp;noscript=1" /></noscript>
 	
-	<title>Creative Portfolio | Creativitea - A brand, digital and print design agency | London, Guildford, Suffolk</title>
+	<title>Creative Portfolio | Creativitea - A brand, digital and print design agency | London, Surrey, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 
@@ -118,7 +118,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<div class="work-caption">
 							<h3 class="work-title ">Domenico Pizza</h3>
 							<div class="work-descr ">
-								Hand-Crafted Branding &amp; Digital Design
+								Hand-Crafted Branding &amp; Website Design
 							</div>
 						</div>
 					</a>
@@ -164,7 +164,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<div class="work-caption">
 							<h3 class="work-title ">5mm.co</h3>
 							<div class="work-descr ">
-								Website Design
+								Responsive Website Design
 							</div>
 						</div>
 					</a>
@@ -204,7 +204,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital">
+				<li class="work-item print">
 					<a href="sodexo-pass">
 						<div class="work-image">
 							<img src="../assets/images/projects/Sodexo_portfolio_thumbnail.jpg" alt="Sodexo Print Design"/>
@@ -227,7 +227,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<div class="work-caption">
 							<h3 class="work-title ">Gents Pack</h3>
 							<div class="work-descr ">
-								Brand design and Packaging
+								Branding & Packaging
 							</div>
 						</div>
 					</a>
@@ -307,7 +307,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<div class="work-caption">
 							<h3 class="work-title ">Tante Marie Branding</h3>
 							<div class="work-descr ">
-								Brand Guidelines &amp; Development
+								Brand Guidelines &amp; Brand Development
 							</div>
 						</div>
 					</a>
@@ -382,7 +382,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<div class="work-caption">
 							<h3 class="work-title ">Don't Just Sit There, Sell Something</h3>
 							<div class="work-descr ">
-								Retro Website Design
+								Responsive Website Design
 							</div>
 						</div>
 					</a>
@@ -472,7 +472,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<div class="work-caption">
 							<h3 class="work-title ">MediaDevil</h3>
 							<div class="work-descr ">
-								Award-winning Packaging
+								Award-winning Packaging Design
 							</div>
 						</div>
 					</a>

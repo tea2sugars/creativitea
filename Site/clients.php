@@ -6,7 +6,7 @@
 	<meta name="description" content="Over the years Creativitea has built itself a prestigious client list from a diverse range of sectors and industries. Not only in London nor the UK but all over the world">
 	<meta name="author" content="">
 	
-	<title>Client Roster & Industry Experience | Creativitea</title>
+	<title>Client Roster & Industry Experience | Creativitea - A Brand, Print & Digital Agency, </title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 
