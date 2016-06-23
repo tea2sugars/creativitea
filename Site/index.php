@@ -59,8 +59,26 @@
 				</div>
             </div>
         </section>
+        
 
-            <section id="portfolio">
+            <section id="portfolio" class="module-small dark-section">
+                <div class="container">
+		            <div class="row">
+		                <div class="col-sm-2 col-sm-offset-2">
+		                    <h3>Design Services</h3>
+		                </div>
+		            
+		                <div class="col-sm-6">
+		                    <p class="lead"><span class="yellow">–</span>
+		                        <br> We're an award-winning design agency who believes that great design can provoke change for our clients and in turn the world.		                        	<br>
+		                    <span class="yellow">–</span></p>
+		                    <p>We help get clients get noticed and grow by getting to know their culture and celebrating what makes them great.</p>
+		                    <p>We are 8 years young, independent and hungry to work for clients of all shapes and sizes. Here are some examples of our work.</p>
+		                </div>
+		            </div>
+		        </div>
+
+	            
                 <div class="container-fluid">
                     <div class="row">
                         <ul class="works-grid works-grid-4 works-hover-w" id="works-grid">
@@ -150,7 +168,7 @@
                     
                         <div class="col-sm-6">
                             <p class="lead"><span class="yellow">–</span>
-                                <br> We have had the pleasure of working with some great brands, organisations and people.</p>
+                                <br> We have had the pleasure of working with some great brands, organisations and people base all over the world.</p>
 
 
                             <p class="lead">We work closely with our clients to understand their aspirations, culture and market which allows us to tailor our services to deliver a clear return on their investment.
