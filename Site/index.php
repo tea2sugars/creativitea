@@ -50,7 +50,7 @@
 		                    We work out of our London and Surrey based studios.</small><br>
 		                    <span class="yellow">–</span>
 		                </h1>
-		                <p class="lead">We always wanted to make a change to the world through something we've designed. It's a huge goal but we have an equally sized appetite for great design so we think we can achieve it.</p>
+		                
 			            <a class="btn btn-y btn-round btn-lg" href="portfolio">View our work</a>
 			             
                         
@@ -67,6 +67,8 @@
                     <div class="row">
                         <div class="col-sm-8 col-sm-offset-2">
                             <h2>We are an independent, creative design agency based in London and Surrey.</h2>
+                            
+                            <p class="lead">We always wanted to make a change to the world through something we've designed. It's a huge goal but we have an equally sized appetite for great design so we think we can achieve it.</p>
                             
                             <p>In 2008 we founded Creativitea to help provoke positive change through great design and creative thought. Whether it's social change or a businesses bottom line. In our own way we're working towards our goal.</p>
                             
