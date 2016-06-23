@@ -171,10 +171,7 @@
                     
                         <div class="col-sm-6">
                             <p class="lead"><span class="yellow">–</span>
-                                <br> We have had the pleasure of working with some great brands, organisations and people base all over the world.</p>
-
-
-                            <p class="lead">We work closely with our clients to understand their aspirations, culture and market which allows us to tailor our services to deliver a clear return on their investment.
+                                <br> We have had the pleasure of working with some great brands, organisations and people base all over the world. Working closely people to understand their aspirations, brand culture and their market which allows us to tailor our services to deliver a clear return on investment and thoughtful design.
                                 <br>
                                 <span class="yellow">–</span></p>
                         </div>
