@@ -64,7 +64,7 @@
             <section id="portfolio" class="module-small dark-section">
                 <div class="container">
 		            <div class="row">
-		                <div class="col-sm-3 col-sm-offset-1">
+		                <div class="col-sm-3 col-sm-offset-1 align-right">
 		                    <h3>Design Services</h3>
 		                </div>
 		            
@@ -165,7 +165,7 @@
             <section class="module-small dark-section" id="clients">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-2 col-sm-offset-2">
+                        <div class="col-sm-2 col-sm-offset-2 align-right">
                             <h3>Our Clients</h3>
                         </div>
                     
