@@ -171,7 +171,8 @@
                     
                         <div class="col-sm-6">
                             <p class="lead"><span class="yellow">–</span>
-                                <br> We have had the pleasure of working with some great brands, organisations and people base all over the world. Working closely people to understand their aspirations, brand culture and their market which allows us to tailor our services to deliver a clear return on investment and thoughtful design.
+                                <br> We have had the pleasure of working with some great brands, organisations and people base all over the world. <br/>
+                                Working closely with people to understand their aspirations, brand culture and their market which allows us to tailor our services to deliver a clear return on investment and thoughtful design.
                                 <br>
                                 <span class="yellow">–</span></p>
                         </div>
@@ -180,17 +181,17 @@
 
                     <div class="row">
                         <article class="col-xs-4 col-sm-2 m-b-10">
-                            <img alt="C4wht" height="95" src="assets/images/clients/C4wht.png" width="160">
+                            <img alt="Channel 4" height="95" src="assets/images/clients/C4wht.png" width="160">
                         </article>
 
 
                         <article class="col-xs-4 col-sm-2 m-b-10">
-                            <img alt="CPWwht" height="95" src="assets/images/clients/CPWwht.png" width="160">
+                            <img alt="Carphone Warehouse" height="95" src="assets/images/clients/CPWwht.png" width="160">
                         </article>
 
 
                         <article class="col-xs-4 col-sm-2 m-b-10">
-                            <img alt="DixonsCPWwht" height="95" src="assets/images/clients/DixonsCPWwht.png" width="160">
+                            <img alt="Dixons Carphone" height="95" src="assets/images/clients/DixonsCPWwht.png" width="160">
                         </article>
 
 
@@ -205,7 +206,7 @@
 
 
                         <article class="col-xs-4 col-sm-2 m-b-10">
-                            <img alt="GSK" height="95" src="assets/images/clients/GSKwht.png" width="160">
+                            <img alt="GlaxoSmithKline" height="95" src="assets/images/clients/GSKwht.png" width="160">
                         </article>
 
 
@@ -225,17 +226,17 @@
 
 
                         <article class="col-xs-4 col-sm-2 m-b-10">
-                            <img alt="Talkmobilef" height="95" src="assets/images/clients/Talkmobilegif.png" width="160">
+                            <img alt="Talkmobile" height="95" src="assets/images/clients/Talkmobilegif.png" width="160">
                         </article>
 
 
                         <article class="col-xs-4 col-sm-2 m-b-10">
-                            <img alt="TanteMarie" height="95" src="assets/images/clients/TanteMariewht.png" width="160">
+                            <img alt="TanteMarie Culinary Academy & Restaurant" height="95" src="assets/images/clients/TanteMariewht.png" width="160">
                         </article>
 
 
                         <article class="col-xs-4 col-sm-2 m-b-10">
-                            <img alt="Thermo Fisher" height="95" src="assets/images/clients/ThermoFwht.png" width="160">
+                            <img alt="Thermo Fisher Scientific" height="95" src="assets/images/clients/ThermoFwht.png" width="160">
                         </article>
                     </div>
 
