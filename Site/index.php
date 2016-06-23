@@ -64,16 +64,19 @@
             <section id="portfolio" class="module-small dark-section">
                 <div class="container">
 		            <div class="row">
-		                <div class="col-sm-2 col-sm-offset-2">
+		                <div class="col-sm-3 col-sm-offset-1">
 		                    <h3>Design Services</h3>
 		                </div>
 		            
 		                <div class="col-sm-6">
 		                    <p class="lead"><span class="yellow">–</span>
-		                        <br> We're an award-winning design agency who believes that great design can provoke change for our clients and in turn the world.		                        	<br>
-		                    <span class="yellow">–</span></p>
-		                    <p>We help get clients get noticed and grow by getting to know their culture and celebrating what makes them great.</p>
-		                    <p>We are 8 years young, independent and hungry to work for clients of all shapes and sizes. Here are some examples of our work.</p>
+		                        <br> We're an award-winning design agency who believes that great design can provoke change for our clients and in turn the world.	
+		                    </p>
+		                    <p class="lead">We help get clients get noticed and grow by getting to know their culture and celebrating what makes them great.</p>
+		                    <p class="lead">We are 8 years young, independent and hungry to work for clients of all shapes and sizes. Here are some examples of our work.
+			                    <br/>
+			                    <span class="yellow">–</span>
+		                    </p>
 		                </div>
 		            </div>
 		        </div>
