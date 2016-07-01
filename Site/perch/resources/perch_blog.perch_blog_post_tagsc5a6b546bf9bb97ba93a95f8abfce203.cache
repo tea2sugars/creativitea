@@ -1,8 +1,0 @@
-
-<h3>Tags</h3>
-<ul>
-
-    <li><a href="archive.php?tag=studio" rel="tag">Studio</a></li>
-
-    <li><a href="archive.php?tag=news" rel="tag">News</a></li>
-</ul>

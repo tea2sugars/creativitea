@@ -1,0 +1,12 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=branding" rel="tag">Branding</a></li>
+
+    <li><a href="archive.php?tag=craft" rel="tag">Craft</a></li>
+
+    <li><a href="archive.php?tag=brewery" rel="tag">Brewery</a></li>
+
+    <li><a href="archive.php?tag=projects" rel="tag">Projects</a></li>
+</ul>
