@@ -122,13 +122,15 @@ brands, organisations and people from all over the world.</p>
 							<li>The Entertainer</li>
 							<li>Natterjacks.com</li>
 							<li>The Gents Pack</li>
+							<li>Timex</li>
 							<li>Decade Skateboarding</li>
 							<li>Nike</li>
 							<li>Carhartt</li>
+							<li>Consept</li>
 						</ul>
 					</article>
 					<article class="col-sm-3 m-b-10">
-						<h4>Telecomms</h4>
+						<h4>Telecoms</h4>
 						<ul>
 							<li>The Carphone Warehouse</li>
 							<li>Talkmobile</li>
@@ -169,7 +171,7 @@ brands, organisations and people from all over the world.</p>
 								<li>The Restaurant at Tante Marie</li>
 								<li>Domenico Pizza</li>
 								<li>Kiss Mix</li>
-								<li>Pit & Swallow BBQ</li>
+								<li>Smoke & Cattle</li>
 							</ul>
 					</article>
 				
@@ -241,6 +243,7 @@ brands, organisations and people from all over the world.</p>
 					<article class="col-sm-3 m-b-10">
 						<h4>Professional Services</h4>
 						<ul>
+							<li>5mm</li>
 							<li>Castle Partnership</li>
 							<li>Acasta Consulting</li>
 							<li>Gough Square</li>
