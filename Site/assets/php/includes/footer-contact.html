@@ -8,24 +8,25 @@
 <body>
 	<section class="dark-section-5">
 		<div class="container">
-			<div class="row">
+			<div class="row" itemscope="" itemtype="http://schema.org/LocalBusiness">
 				<div class="col-sm-3">
 					<div class="content-box">
 						<div class="content-box-title">
-							<h5>London Studio</h5>
+							<h5><span itemprop="name">Creativitea</span></h5>
 						</div>
 						<div class="content-box-text">
-							<address>
-								34B York Way, London N1 9AB
-							</address>
-						</div>
-						<div class="content-box-title">
-							<h5>Surrey Studio</h5>
-						</div>
-						<div class="content-box-text">
-							<address>
-								The Cabin, 36 Welbeck Road, Sutton, Surrey, SM1 3NW
-							</address>
+							 <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+								  <span itemprop="streetAddress">34B York Way</span>,
+								  <span itemprop="addressLocality">London</span>,
+								  <span itemprop="addressRegion">United Kingdom</span>,
+								  <span itemprop="postalCode">N1 9AB</span>,
+								  <span itemprop="addressCountry">GB</span>.
+							 </div>
+							 
+							 <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+							  <meta itemprop="latitude" content="51.5325692">
+							  <meta itemprop="longitude" content="-0.1222613">
+							 </span>
 						</div>
 					</div>
 				</div>
@@ -37,7 +38,15 @@
 							<h5>Call Us</h5>
 						</div>
 						<div class="content-box-text">
-							<p><a href="tel:+442081230246">0208 123 0246</a>
+							<p><span itemprop="telephone">0208 123 0246</span>
+							</p>
+						</div>
+						
+						<div class="content-box-title">
+							<h5>Say Hello By Email</h5>
+						</div>
+						<div class="content-box-text">
+							<p><a href="mailto:info@creativitea.co.uk" itemprop="email">info@creativitea.co.uk</a>
 							</p>
 						</div>
 					</div>
@@ -47,13 +56,12 @@
 				<div class="col-sm-3">
 					<div class="content-box">
 						<div class="content-box-title">
-							<h5>Say Hello By Email</h5>
+							<h5>Company Details</h5>
 						</div>
-
-
 						<div class="content-box-text">
-							<p><a href="mailto:info@creativitea.co.uk">info@creativitea.co.uk</a>
-							</p>
+							<span>Company No. 06625793</span> |
+							VAT No.<span itemprop="vatID">935 7589 71</span> |
+							Business hours are <time itemprop="openingHours" datetime="Mo,Tu,We,Th,Fr 09:00-17:30">9 am to 5.30 pm Monday to Friday</time>
 						</div>
 					</div>
 				</div>
@@ -64,11 +72,10 @@
 						<div class="content-box-title">
 							<h5>Be social</h5>
 						</div>
-
-
 						<div class="content-box-text">
 							<p class="lead"><a href="https://twitter.com/Creativitea_Ltd" target="_blank"><i aria-label="Twitter" class="fa-twitter fa-icons fa"></i></a> <a href="https://www.facebook.com/creativitea.design.studio" target="_blank"><i aria-label="Facebook" class="fa-facebook fa-icons fa"></i></a> <a href="https://instagram.com/creativiteadesign" target="_blank"><i aria-label="Instagram" class="fa-instagram fa-icons fa"></i></a> <a href="https://www.behance.net/Creativitea"><i aria-label="Behance" class="fa-behance fa-icons fa"></i></a> <a href="https://plus.google.com/+CreativiteaCoUk/posts" target="_blank"><i aria-label="Google Plus" class="fa-google-plus fa-icons fa"></i></a> <a href="https://vimeo.com/creativitea/videos" target="_blank"><i aria-label="Vimeo" class="fa-vimeo-square fa-icons fa"></i></a> <a href="https://www.linkedin.com/company/creativitea-design-studio" target="_blank"><i aria-label="LinkedIn" class="fa-linkedin-square fa-icons fa"></i></a></p>
 						</div>
+						
 					</div>
 				</div>
 			</div>
@@ -81,6 +88,7 @@
 			<div class="row">
 				<div class="col-sm-12 text-center">
 					<p class="copyright m-b-0">&copy; 2015-16<a href="index">Creativitea&trade; Limited</a>, All Rights Reserved. | <a href="http://www.creativitea.co.uk/sitemap">Site Map</a></p>
+										
 				</div>
 			</div>
 		</div>
@@ -92,3 +100,5 @@
 	</div>
 </body>
 </html>
+
+
