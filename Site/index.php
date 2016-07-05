@@ -6,7 +6,6 @@
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Award-winning Brand and Website Design Agency based in London, Surrey & Suffolk. Providing clients with great value creative solutions in Web Design & Brand" name="description">
-    <meta content="Creativitea" name="author">
     <meta name="keywords" content="creativitea, design agency, digital design, brand agency, digital marketing, print design, website design, drupal development, UX design, strategic digital agency, brand design agency, creative agency">
     <link rel="canonical" href="http://www.creativitea.co.uk" />
 
@@ -143,7 +142,7 @@
 
                             <li class="work-item branding">
                                 <a href="portfolio/river">
-                                    <div class="work-image"><img alt="River Brand & Visual Identity" src="assets/images/projects/River_thumbnail.jpg">
+                                    <div class="work-image"><img alt="River Brand & Visual Identity by Creativitea Design Agency" src="assets/images/projects/River_thumbnail.jpg">
                                     </div>
 
 
