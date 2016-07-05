@@ -9,7 +9,7 @@
     <meta name="keywords" content="creativitea, design agency, digital design, brand agency, digital marketing, print design, website design, drupal development, UX design, strategic digital agency, brand design agency, creative agency">
     <link rel="canonical" href="http://www.creativitea.co.uk" />
 
-    <title>Creativitea: A Web Design, Brand & Print Design Agency. Based in London, Surrey & Suffolk</title>
+    <title>Creativitea: A Brand, Digital & Print Design Agency | London, Surrey & Suffolk</title>
     <?php include('assets/php/includes/head-css.html');?>
         <!-- Facebook Conversion Code for Key Page Views – Rik Barwick 1 -->
 
